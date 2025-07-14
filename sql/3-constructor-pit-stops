@@ -1,0 +1,36 @@
+-- Query written for Google BigQuery
+-- Dataset: williams-racing-465223.f1_wc_1950_2024
+-- Purpose: Query pit stop durations for Williams & midfield teams (2015–2019)
+-- Result stored in processed_data/constructor-pit-stops.csv
+
+SELECT
+  P.raceId AS race_id,
+  R.year AS gp_year,
+  R.name AS gp_name,
+  R.round AS gp_round,
+
+  P.driverId as driver_id,
+  CONCAT(D.forename, ' ', D.surname) AS driver_name,
+
+  C.name AS constructor,
+  C.constructorRef AS constructor_ref,
+  C.constructorRef = 'williams' AS is_williams, -- for filtering out williams later
+
+  P.stop AS stop_number,
+  P.lap AS lap_number,
+  P.time AS time_of_stop,
+  P.duration AS pit_duration,
+  P.milliseconds AS pit_duration_ms,
+  P.milliseconds / 1000 AS pit_duration_s -- KPI 2
+  
+FROM
+  williams-racing-465223.f1_wc_1950_2024.pit_stops P
+JOIN williams-racing-465223.f1_wc_1950_2024.drivers D ON P.driverId = D.driverId 
+JOIN williams-racing-465223.f1_wc_1950_2024.races R ON P.raceId = R.raceId
+JOIN williams-racing-465223.f1_wc_1950_2024.results RE ON RE.raceId = P.raceId AND RE.driverId = P.driverId
+JOIN williams-racing-465223.f1_wc_1950_2024.constructors C ON RE.constructorId = C.constructorId
+WHERE
+  R.year BETWEEN 2015 AND 2019 -- time constraint
+  AND C.constructorRef IN ('williams', 'renault', 'haas', 'force_india', 'racing_point') -- midfield teams
+  AND P.milliseconds IS NOT NULL -- valid stop times only
+ORDER BY R.year, gp_round, constructor, stop_number;
