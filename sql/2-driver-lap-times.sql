@@ -28,6 +28,17 @@ JOIN williams-racing-465223.f1_wc_1950_2024.races R
   ON L.raceId = R.raceId
 WHERE
   L.driverId IN (9, 13, 822, 840, 845, 847) -- the 6 williams drivers between 2015-2019
-  AND R.year BETWEEN 2015 AND 2019
+  AND R.year BETWEEN 2015 AND 2019 -- time filter
+  AND (R.name IN (
+    'Italian Grand Prix', 
+    'Monaco Grand Prix', 
+    'British Grand Prix', 
+    'Belgian Grand Prix',
+    'Spanish Grand Prix',
+    'Singapore Grand Prix',
+    'Brazilian Grand Prix',
+    'Hungarian Grand Prix',
+    'Austrian Grand Prix',
+    'Japanese Grand Prix')) -- filter to most consistent 10 circuits across 2015-2019
   AND L.milliseconds IS NOT NULL
 ORDER BY R.year, R.round, driver_name, lap_number;

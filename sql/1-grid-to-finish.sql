@@ -26,6 +26,17 @@ JOIN williams-racing-465223.f1_wc_1950_2024.races RA -- races.csv
 WHERE 
   (RA.year BETWEEN 2015 AND 2019) -- time constraint
   AND (C.constructorRef IN ('williams', 'renault', 'haas', 'force_india', 'racing_point')) -- midfield team comparison
+  AND (RA.name IN (
+    'Italian Grand Prix', 
+    'Monaco Grand Prix', 
+    'British Grand Prix', 
+    'Belgian Grand Prix',
+    'Spanish Grand Prix',
+    'Singapore Grand Prix',
+    'Brazilian Grand Prix',
+    'Hungarian Grand Prix',
+    'Austrian Grand Prix',
+    'Japanese Grand Prix')) -- filter to most consistent 10 circuits across 2015-2019
   AND (RE.position IS NOT NULL) -- removes NULL position finishes
   AND RE.grid > 0 -- pit lane starts not included.
   

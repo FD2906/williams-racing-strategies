@@ -21,7 +21,7 @@ Can be scaled up to apply to constructors by aggregating the deltas of all drive
     or group by df['constructor_name'] for all drivers in a constructor.
 3. Calculate the average delta for Williams drivers and rival constructors on all tracks.
 
-Rest of hypothesis 1: dealing with high-downforce tracks, *Monaco, Singapore and Hungoraring* 
+Rest of hypothesis 1: dealing with high-downforce tracks, *Monaco, Singapore and Hungoraring*, three of the selected ten circuits.
 
 4. Apply constructor-level deltas, but filter for high-downforce tracks by checking if gp_name falls into a predefined list, 
     ['Monaco Grand Prix', 'Singapore Grand Prix', 'Hungarian Grand Prix'].
@@ -30,7 +30,7 @@ Rest of hypothesis 1: dealing with high-downforce tracks, *Monaco, Singapore and
 Next steps, in stage 4 - hypothesis testing using ttest_ind() and similar methods.
 """
 
-df = pd.read_csv('processed_data/grid-to-finish_validated.csv') # load the data
+df = pd.read_csv('processed_data/grid-to-finish-validated.csv') # load the data
 
 # -------------------------------------------------------------------------------------------------------- # 
 
@@ -199,7 +199,7 @@ for year in range(2015, 2020):
 
 df_high_downforce = df[df['gp_name'].isin(['Monaco Grand Prix', 'Singapore Grand Prix', 'Hungarian Grand Prix'])].reset_index(drop=True)
 
-df_high_downforce.to_csv('processed_data/delta_high_downforce.csv') # for observation
+df_high_downforce.to_csv('processed_data/delta-high-downforce.csv') # for observation
 
 # print(df_high_downforce)
 
