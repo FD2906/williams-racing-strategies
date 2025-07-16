@@ -10,10 +10,11 @@ SELECT
   RA.round AS gp_round,
   CONCAT(D.forename, ' ', D.surname) AS driver_name,
   C.name AS constructor,
+  C.constructorRef AS constructor_ref, -- constructor reference
   C.constructorRef = 'williams' AS is_williams,-- for filtering out williams later
   CAST(RE.grid AS INT64) AS start_position, -- start position
   CAST(RE.position AS INT64) AS final_position, -- final position
-  CAST(RE.position AS INT64) - CAST(RE.grid AS INT64) AS grid_delta -- KPI 1
+  CAST(RE.grid AS INT64) - CAST(RE.position AS INT64) AS grid_delta -- KPI 1
 FROM 
   williams-racing-465223.f1_wc_1950_2024.results RE -- results.csv
 JOIN williams-racing-465223.f1_wc_1950_2024.drivers D -- drivers.csv
