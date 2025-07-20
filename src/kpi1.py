@@ -59,7 +59,7 @@ def get_driver_level_delta(df: pd.DataFrame) -> pd.DataFrame:
 # -------------------------------------------------------------------------------------------------------- # 
 
 # step 2 - aggregate the driver-level deltas to get the constructor-level delta
-# create a function with a 'constructor_name' parameter. default argument is 'williams', otherwise it will be the constructor name passed in.
+# create a function with a 'constructor_ref' parameter. default argument is 'williams', otherwise it will be the constructor name passed in.
 
 # get all unique constructor reference names from the dataframe
 # print(df['constructor_ref'].unique().tolist())

@@ -25,43 +25,88 @@ df = pd.read_csv('processed_data/driver-lap-times-validated.csv') # load the da
 # -------------------------------------------------------------------------------------------------------- # 
 # 1. Aggregation function
 
-def get_laptime_consistency(df: pd.DataFrame, experience: str, year:int) -> pd.DataFrame:
+def get_laptime_consistency(
+        df: pd.DataFrame, 
+        experience_level: str = None,
+        year: int | list[int] = None, 
+        gp_name: str | list[str] = None, 
+        verbose: bool = True) -> pd.DataFrame:
     """
-    Steps required:
-    1. Filter the DataFrame for the specified experience level and year.
-    2. Group by experience level and year and calulate the standard deviation of lap times.
-    3. Convert lap times from milliseconds to mm:ss:ms format.
-    4. Store results in a new DataFrame and return
+    Steps:
+    1. Apply optional filters for experience level, year, and GP name.
+    2. Drop missing or invalid lap times.
+    3. Group by experience level and calculate the mean and standard deviation of lap times in milliseconds.
+    4. Count the number of laps for each experience level.
+    5. Convert mean and standard deviation lap times from milliseconds to mm:ss:ms format.
+    6. Merge results into a summary DataFrame and rename columns for clarity.
 
     Arguments:
     df -- DataFrame containing lap time data
-    experience -- 'rookie' or 'experienced' to filter the DataFrame
-    year -- int representing the year to filter the DataFrame
+    experience_level -- 'rookie' or 'experienced' to filter by experience level (optional)
+    year -- Single year or list of years to filter (optional)
+    gp_name -- Single GP name or list of GP names to filter (optional)
+    verbose -- If True, print filtering information (default: True)
 
     Return:
-    A DataFrame with the standard deviation of lap times for the specified experience level and year.
+    A DataFrame with the mean and standard deviation of lap times (in both ms and mm:ss:ms format), 
+    along with lap counts for each experience level, considering optional filters.
     """
 
-    # Filter the DataFrame for the specified experience level and year
-    filtered_df = df[(df['rookie_or_experienced'] == experience) & (df['year'] == year)]
+    # 1. ---------- filter the data if parameters are provided ---------- 
+    if experience_level is not None: 
+        df = df[df['rookie_or_experienced'] == experience_level]
+        if verbose: 
+            print(f"Filtering data for experience level: {experience_level}")
+    if year is not None: 
+        df = df[df['gp_year'].isin([year] if isinstance(year, int) else year)]
+        if verbose: 
+            print(f"Filtering data for year(s): {year}")
+    if gp_name is not None: 
+        df = df[df['gp_name'].isin([gp_name] if isinstance(gp_name, str) else gp_name)]
+        if verbose: 
+            print(f"Filtering data for GP name(s): {gp_name}")
 
-    # Group by driver and calculate the standard deviation of lap times
-    grouped_df = filtered_df.groupby('driver')['lap_time_ms'].std().reset_index()
+    # 2. ---------- drop missing or invalid times, just in case ----------
+    df = df[df['lap_time_ms'] > 0]
 
-    # Convert lap times from milliseconds to mm:ss:ms format
-    grouped_df['lap_time_std'] = grouped_df['lap_time_ms'].apply(
-        lambda x: f"{int(x // 60000):02}:{int((x % 60000) // 1000):02}:{int(x % 1000):03}"
-        # :02 and :03 ensure that the minutes and seconds are always two or three digits respectively.
+    # ---------- 3. group and calculate statistical metrics ---------- 
+    times_in_ms  = df[['rookie_or_experienced', 'lap_time_ms']] # select the relevant columns from df
+
+    # group by experience level and calculate mean and standard deviation lap time
+    grouped_by_experience = times_in_ms.groupby('rookie_or_experienced').agg(
+        mean_lap_time_ms=('lap_time_ms', 'mean'),
+        std_dev_lap_time_ms=('lap_time_ms', 'std')
+    ).reset_index()
+
+    # count number of laps for each experience level for statistical testing
+    n_laps = times_in_ms.groupby('rookie_or_experienced').size().reset_index(name='n_laps')
+
+    # merge counts in the main summary dataframe
+    grouped_by_experience = pd.merge(grouped_by_experience, n_laps, on='rookie_or_experienced')
+
+    # ---------- 4. convert ms to mm:ss:ms ----------
+    grouped_by_experience['mean_lap_time'] = grouped_by_experience.apply(
+        lambda time: f"{int(time['mean_lap_time_ms'] // 60000):02}:{int((time['mean_lap_time_ms'] % 60000) // 1000):02}.{int(time['mean_lap_time_ms'] % 1000):03}",
+        axis=1 
+    )
+    grouped_by_experience['std_dev_lap_time'] = grouped_by_experience.apply(
+        lambda time: f"{int(time['std_dev_lap_time_ms'] // 60000):02}:{int((time['std_dev_lap_time_ms'] % 60000) // 1000):02}.{int(time['std_dev_lap_time_ms'] % 1000):03}",
+        axis=1 
     )
 
-    return grouped_df[['driver', 'lap_time_std']]
+    # ---------- 5. rename columns and return result ----------
+    grouped_by_experience = grouped_by_experience.rename(columns={ # rename columns for clarity
+        'rookie_or_experienced': 'experience_level',
+        'mean_lap_time_ms': 'mean_ms',
+        'mean_lap_time': 'mean_formatted',
+        'std_dev_lap_time_ms': 'std_dev_ms',
+        'std_dev_lap_time': 'std_dev_formatted'
+    })
+    return grouped_by_experience[['experience_level', 'mean_ms', 'mean_formatted', 'std_dev_ms', 'std_dev_formatted', 'n_laps']]
 
-# test the function
-rookie_lap_time_std = get_laptime_consistency(df, 'rookie', 2015)
-experienced_lap_time_std = get_laptime_consistency(df, 'experienced', 2015)
-
-print("Rookie Lap Time Standard Deviation (2015):")
-print(rookie_lap_time_std)
-
-print("\nExperienced Lap Time Standard Deviation (2015):")
-print(experienced_lap_time_std)
+print("\n")
+print(get_laptime_consistency(df, 
+                              year = [2017, 2018, 2019], 
+                              gp_name = ['Monaco Grand Prix', 'Hungarian Grand Prix', 'Singapore Grand Prix']
+                              ))  # Example usage of the function
+print("\n")

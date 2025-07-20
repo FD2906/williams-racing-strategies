@@ -1,91 +1,91 @@
-,race_id,gp_year,gp_name,gp_round,driver_name,constructor,constructor_ref,is_williams,start_position,final_position,grid_delta
-0,1015,2019,Monaco Grand Prix,6,George Russell,Williams,williams,True,19,15,4
-1,1021,2019,Hungarian Grand Prix,12,George Russell,Williams,williams,True,15,16,-1
-2,1024,2019,Singapore Grand Prix,15,Robert Kubica,Williams,williams,True,19,16,3
-3,1015,2019,Monaco Grand Prix,6,Robert Kubica,Williams,williams,True,20,18,2
-4,1021,2019,Hungarian Grand Prix,12,Robert Kubica,Williams,williams,True,19,19,0
-5,1021,2019,Hungarian Grand Prix,12,Daniel Ricciardo,Renault,renault,False,20,14,6
-6,1024,2019,Singapore Grand Prix,15,Daniel Ricciardo,Renault,renault,False,20,14,6
-7,1015,2019,Monaco Grand Prix,6,Daniel Ricciardo,Renault,renault,False,6,9,-3
-8,1000,2018,Hungarian Grand Prix,12,Romain Grosjean,Haas F1 Team,haas,False,10,10,0
-9,1015,2019,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,13,10,3
-10,1024,2019,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,17,11,6
-11,953,2016,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,15,13,2
-12,958,2016,Hungarian Grand Prix,11,Romain Grosjean,Haas F1 Team,haas,False,11,14,-3
-13,994,2018,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,18,15,3
-14,1003,2018,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,8,15,-7
-15,974,2017,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,8,8,0
-16,982,2017,Singapore Grand Prix,14,Romain Grosjean,Haas F1 Team,haas,False,15,9,6
-17,958,2016,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,11,2
-18,1021,2019,Hungarian Grand Prix,12,Sergio Pérez,Racing Point,racing_point,False,16,11,5
-19,994,2018,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,9,12,-3
-20,1015,2019,Monaco Grand Prix,6,Sergio Pérez,Racing Point,racing_point,False,16,12,4
-21,974,2017,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,13,-6
-22,1000,2018,Hungarian Grand Prix,12,Sergio Pérez,Force India,force_india,False,19,14,5
-23,1003,2018,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,7,16,-9
-24,953,2016,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,3,4
-25,982,2017,Singapore Grand Prix,14,Sergio Pérez,Force India,force_india,False,12,5,7
-26,931,2015,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,7,0
-27,939,2015,Singapore Grand Prix,13,Sergio Pérez,Force India,force_india,False,13,7,6
-28,962,2016,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,17,8,9
-29,979,2017,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,8,5
-30,1024,2019,Singapore Grand Prix,15,Lance Stroll,Racing Point,racing_point,False,16,13,3
-31,979,2017,Hungarian Grand Prix,11,Lance Stroll,Williams,williams,True,17,14,3
-32,1003,2018,Singapore Grand Prix,15,Lance Stroll,Williams,williams,True,20,14,6
-33,974,2017,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,15,2
-34,1015,2019,Monaco Grand Prix,6,Lance Stroll,Racing Point,racing_point,False,17,16,1
-35,994,2018,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,17,0
-36,1000,2018,Hungarian Grand Prix,12,Lance Stroll,Williams,williams,True,15,17,-2
-37,1021,2019,Hungarian Grand Prix,12,Lance Stroll,Racing Point,racing_point,False,18,17,1
-38,982,2017,Singapore Grand Prix,14,Lance Stroll,Williams,williams,True,18,8,10
-39,953,2016,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,10,4
-40,982,2017,Singapore Grand Prix,14,Felipe Massa,Williams,williams,True,17,11,6
-41,936,2015,Hungarian Grand Prix,10,Felipe Massa,Williams,williams,True,8,12,-4
-42,962,2016,Singapore Grand Prix,15,Felipe Massa,Williams,williams,True,11,12,-1
-43,931,2015,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,12,15,-3
-44,958,2016,Hungarian Grand Prix,11,Felipe Massa,Williams,williams,True,18,18,0
-45,974,2017,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,9,5
-46,962,2016,Singapore Grand Prix,15,Kevin Magnussen,Renault,renault,False,15,10,5
-47,974,2017,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,11,10,1
-48,979,2017,Hungarian Grand Prix,11,Kevin Magnussen,Haas F1 Team,haas,False,15,13,2
-49,994,2018,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,19,13,6
-50,1021,2019,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,14,13,1
-51,1015,2019,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,5,14,-9
-52,958,2016,Hungarian Grand Prix,11,Kevin Magnussen,Renault,renault,False,19,15,4
-53,1024,2019,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,13,17,-4
-54,1003,2018,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,16,18,-2
-55,1000,2018,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,9,7,2
-56,953,2016,Monaco Grand Prix,6,Esteban Gutiérrez,Haas F1 Team,haas,False,12,11,1
-57,962,2016,Singapore Grand Prix,15,Esteban Gutiérrez,Haas F1 Team,haas,False,13,11,2
-58,958,2016,Hungarian Grand Prix,11,Esteban Gutiérrez,Haas F1 Team,haas,False,15,13,2
-59,958,2016,Hungarian Grand Prix,11,Nico Hülkenberg,Force India,force_india,False,9,10,-1
-60,1003,2018,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,10,10,0
-61,931,2015,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,11,11,0
-62,1000,2018,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,13,12,1
-63,1021,2019,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,11,12,-1
-64,1015,2019,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,13,-2
-65,979,2017,Hungarian Grand Prix,11,Nico Hülkenberg,Renault,renault,False,12,17,-5
-66,953,2016,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,5,6,-1
-67,994,2018,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,8,3
-68,1024,2019,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,8,9,-1
-69,974,2017,Monaco Grand Prix,6,Jolyon Palmer,Renault,renault,False,16,11,5
-70,958,2016,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,17,12,5
-71,979,2017,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,10,12,-2
-72,962,2016,Singapore Grand Prix,15,Jolyon Palmer,Renault,renault,False,18,15,3
-73,982,2017,Singapore Grand Prix,14,Jolyon Palmer,Renault,renault,False,11,6,5
-74,982,2017,Singapore Grand Prix,14,Esteban Ocon,Force India,force_india,False,14,10,4
-75,974,2017,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,15,12,3
-76,1000,2018,Hungarian Grand Prix,12,Esteban Ocon,Force India,force_india,False,18,13,5
-77,994,2018,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,6,6,0
-78,979,2017,Hungarian Grand Prix,11,Esteban Ocon,Force India,force_india,False,11,9,2
-79,994,2018,Monaco Grand Prix,6,Sergey Sirotkin,Williams,williams,True,13,16,-3
-80,1000,2018,Hungarian Grand Prix,12,Sergey Sirotkin,Williams,williams,True,20,16,4
-81,1003,2018,Singapore Grand Prix,15,Sergey Sirotkin,Williams,williams,True,19,19,0
-82,994,2018,Monaco Grand Prix,6,Carlos Sainz,Renault,renault,False,8,10,-2
-83,1003,2018,Singapore Grand Prix,15,Carlos Sainz,Renault,renault,False,12,8,4
-84,1000,2018,Hungarian Grand Prix,12,Carlos Sainz,Renault,renault,False,5,9,-4
-85,953,2016,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,10,12,-2
-86,936,2015,Hungarian Grand Prix,10,Valtteri Bottas,Williams,williams,True,6,13,-7
-87,931,2015,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,16,14,2
-88,939,2015,Singapore Grand Prix,13,Valtteri Bottas,Williams,williams,True,7,5,2
-89,958,2016,Hungarian Grand Prix,11,Valtteri Bottas,Williams,williams,True,10,9,1
+,race_id,gp_year,gp_name,gp_round,driver_name,constructor,constructor_ref,is_williams,start_position,final_position,grid_delta,gained_or_lost,num_places
+0,1015,2019,Monaco Grand Prix,6,George Russell,Williams,williams,True,19,15,4,gained,4
+1,1021,2019,Hungarian Grand Prix,12,George Russell,Williams,williams,True,15,16,-1,lost,1
+2,1024,2019,Singapore Grand Prix,15,Robert Kubica,Williams,williams,True,19,16,3,gained,3
+3,1015,2019,Monaco Grand Prix,6,Robert Kubica,Williams,williams,True,20,18,2,gained,2
+4,1021,2019,Hungarian Grand Prix,12,Robert Kubica,Williams,williams,True,19,19,0,gained,0
+5,1021,2019,Hungarian Grand Prix,12,Daniel Ricciardo,Renault,renault,False,20,14,6,gained,6
+6,1024,2019,Singapore Grand Prix,15,Daniel Ricciardo,Renault,renault,False,20,14,6,gained,6
+7,1015,2019,Monaco Grand Prix,6,Daniel Ricciardo,Renault,renault,False,6,9,-3,lost,3
+8,1000,2018,Hungarian Grand Prix,12,Romain Grosjean,Haas F1 Team,haas,False,10,10,0,gained,0
+9,1015,2019,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,13,10,3,gained,3
+10,1024,2019,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,17,11,6,gained,6
+11,953,2016,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,15,13,2,gained,2
+12,958,2016,Hungarian Grand Prix,11,Romain Grosjean,Haas F1 Team,haas,False,11,14,-3,lost,3
+13,994,2018,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,18,15,3,gained,3
+14,1003,2018,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,8,15,-7,lost,7
+15,974,2017,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,8,8,0,gained,0
+16,982,2017,Singapore Grand Prix,14,Romain Grosjean,Haas F1 Team,haas,False,15,9,6,gained,6
+17,958,2016,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,11,2,gained,2
+18,1021,2019,Hungarian Grand Prix,12,Sergio Pérez,Racing Point,racing_point,False,16,11,5,gained,5
+19,994,2018,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,9,12,-3,lost,3
+20,1015,2019,Monaco Grand Prix,6,Sergio Pérez,Racing Point,racing_point,False,16,12,4,gained,4
+21,974,2017,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,13,-6,lost,6
+22,1000,2018,Hungarian Grand Prix,12,Sergio Pérez,Force India,force_india,False,19,14,5,gained,5
+23,1003,2018,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,7,16,-9,lost,9
+24,953,2016,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,3,4,gained,4
+25,982,2017,Singapore Grand Prix,14,Sergio Pérez,Force India,force_india,False,12,5,7,gained,7
+26,931,2015,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,7,0,gained,0
+27,939,2015,Singapore Grand Prix,13,Sergio Pérez,Force India,force_india,False,13,7,6,gained,6
+28,962,2016,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,17,8,9,gained,9
+29,979,2017,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,8,5,gained,5
+30,1024,2019,Singapore Grand Prix,15,Lance Stroll,Racing Point,racing_point,False,16,13,3,gained,3
+31,979,2017,Hungarian Grand Prix,11,Lance Stroll,Williams,williams,True,17,14,3,gained,3
+32,1003,2018,Singapore Grand Prix,15,Lance Stroll,Williams,williams,True,20,14,6,gained,6
+33,974,2017,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,15,2,gained,2
+34,1015,2019,Monaco Grand Prix,6,Lance Stroll,Racing Point,racing_point,False,17,16,1,gained,1
+35,994,2018,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,17,0,gained,0
+36,1000,2018,Hungarian Grand Prix,12,Lance Stroll,Williams,williams,True,15,17,-2,lost,2
+37,1021,2019,Hungarian Grand Prix,12,Lance Stroll,Racing Point,racing_point,False,18,17,1,gained,1
+38,982,2017,Singapore Grand Prix,14,Lance Stroll,Williams,williams,True,18,8,10,gained,10
+39,953,2016,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,10,4,gained,4
+40,982,2017,Singapore Grand Prix,14,Felipe Massa,Williams,williams,True,17,11,6,gained,6
+41,936,2015,Hungarian Grand Prix,10,Felipe Massa,Williams,williams,True,8,12,-4,lost,4
+42,962,2016,Singapore Grand Prix,15,Felipe Massa,Williams,williams,True,11,12,-1,lost,1
+43,931,2015,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,12,15,-3,lost,3
+44,958,2016,Hungarian Grand Prix,11,Felipe Massa,Williams,williams,True,18,18,0,gained,0
+45,974,2017,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,9,5,gained,5
+46,962,2016,Singapore Grand Prix,15,Kevin Magnussen,Renault,renault,False,15,10,5,gained,5
+47,974,2017,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,11,10,1,gained,1
+48,979,2017,Hungarian Grand Prix,11,Kevin Magnussen,Haas F1 Team,haas,False,15,13,2,gained,2
+49,994,2018,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,19,13,6,gained,6
+50,1021,2019,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,14,13,1,gained,1
+51,1015,2019,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,5,14,-9,lost,9
+52,958,2016,Hungarian Grand Prix,11,Kevin Magnussen,Renault,renault,False,19,15,4,gained,4
+53,1024,2019,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,13,17,-4,lost,4
+54,1003,2018,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,16,18,-2,lost,2
+55,1000,2018,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,9,7,2,gained,2
+56,953,2016,Monaco Grand Prix,6,Esteban Gutiérrez,Haas F1 Team,haas,False,12,11,1,gained,1
+57,962,2016,Singapore Grand Prix,15,Esteban Gutiérrez,Haas F1 Team,haas,False,13,11,2,gained,2
+58,958,2016,Hungarian Grand Prix,11,Esteban Gutiérrez,Haas F1 Team,haas,False,15,13,2,gained,2
+59,958,2016,Hungarian Grand Prix,11,Nico Hülkenberg,Force India,force_india,False,9,10,-1,lost,1
+60,1003,2018,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,10,10,0,gained,0
+61,931,2015,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,11,11,0,gained,0
+62,1000,2018,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,13,12,1,gained,1
+63,1021,2019,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,11,12,-1,lost,1
+64,1015,2019,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,13,-2,lost,2
+65,979,2017,Hungarian Grand Prix,11,Nico Hülkenberg,Renault,renault,False,12,17,-5,lost,5
+66,953,2016,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,5,6,-1,lost,1
+67,994,2018,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,8,3,gained,3
+68,1024,2019,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,8,9,-1,lost,1
+69,974,2017,Monaco Grand Prix,6,Jolyon Palmer,Renault,renault,False,16,11,5,gained,5
+70,958,2016,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,17,12,5,gained,5
+71,979,2017,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,10,12,-2,lost,2
+72,962,2016,Singapore Grand Prix,15,Jolyon Palmer,Renault,renault,False,18,15,3,gained,3
+73,982,2017,Singapore Grand Prix,14,Jolyon Palmer,Renault,renault,False,11,6,5,gained,5
+74,982,2017,Singapore Grand Prix,14,Esteban Ocon,Force India,force_india,False,14,10,4,gained,4
+75,974,2017,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,15,12,3,gained,3
+76,1000,2018,Hungarian Grand Prix,12,Esteban Ocon,Force India,force_india,False,18,13,5,gained,5
+77,994,2018,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,6,6,0,gained,0
+78,979,2017,Hungarian Grand Prix,11,Esteban Ocon,Force India,force_india,False,11,9,2,gained,2
+79,994,2018,Monaco Grand Prix,6,Sergey Sirotkin,Williams,williams,True,13,16,-3,lost,3
+80,1000,2018,Hungarian Grand Prix,12,Sergey Sirotkin,Williams,williams,True,20,16,4,gained,4
+81,1003,2018,Singapore Grand Prix,15,Sergey Sirotkin,Williams,williams,True,19,19,0,gained,0
+82,994,2018,Monaco Grand Prix,6,Carlos Sainz,Renault,renault,False,8,10,-2,lost,2
+83,1003,2018,Singapore Grand Prix,15,Carlos Sainz,Renault,renault,False,12,8,4,gained,4
+84,1000,2018,Hungarian Grand Prix,12,Carlos Sainz,Renault,renault,False,5,9,-4,lost,4
+85,953,2016,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,10,12,-2,lost,2
+86,936,2015,Hungarian Grand Prix,10,Valtteri Bottas,Williams,williams,True,6,13,-7,lost,7
+87,931,2015,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,16,14,2,gained,2
+88,939,2015,Singapore Grand Prix,13,Valtteri Bottas,Williams,williams,True,7,5,2,gained,2
+89,958,2016,Hungarian Grand Prix,11,Valtteri Bottas,Williams,williams,True,10,9,1,gained,1
