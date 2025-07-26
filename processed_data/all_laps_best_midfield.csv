@@ -1,0 +1,389 @@
+Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Time,IsPersonalBest,Deleted,IsAccurate
+113,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.732000,0 days 00:00:27.227000,0 days 00:00:27.315000,0 days 00:00:27.190000,True,False,True
+118,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.552000,0 days 00:00:27.160000,0 days 00:00:27.273000,0 days 00:00:27.119000,True,False,True
+124,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.161000,0 days 00:00:26.939000,0 days 00:00:27.224000,0 days 00:00:26.998000,True,False,True
+127,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.041000,0 days 00:00:27.005000,0 days 00:00:27.085000,0 days 00:00:26.951000,True,False,True
+130,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.673000,0 days 00:00:27.093000,0 days 00:00:27.552000,0 days 00:00:27.028000,True,False,True
+132,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.570000,0 days 00:00:27.209000,0 days 00:00:27.472000,0 days 00:00:26.889000,True,False,True
+135,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.346000,0 days 00:00:27.031000,0 days 00:00:27.374000,0 days 00:00:26.941000,True,False,True
+138,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.315000,0 days 00:00:26.979000,0 days 00:00:27.339000,0 days 00:00:26.997000,True,False,True
+141,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.407000,0 days 00:00:27.028000,0 days 00:00:27.302000,0 days 00:00:27.077000,True,False,True
+144,2018,Italian Grand Prix,OCO,31,Racing Point,0 days 00:01:21.099000,0 days 00:00:26.868000,0 days 00:00:27.345000,0 days 00:00:26.886000,True,False,True
+171,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:22.525000,0 days 00:00:27.439000,0 days 00:00:27.777000,0 days 00:00:27.309000,True,False,True
+173,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:22.085000,0 days 00:00:27.424000,0 days 00:00:27.481000,0 days 00:00:27.180000,True,False,True
+176,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.838000,0 days 00:00:27.303000,0 days 00:00:27.241000,0 days 00:00:27.294000,True,False,True
+179,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.494000,0 days 00:00:27.119000,0 days 00:00:27.231000,0 days 00:00:27.144000,True,False,True
+182,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.627000,0 days 00:00:27.183000,0 days 00:00:27.313000,0 days 00:00:27.131000,True,False,True
+197,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.605000,0 days 00:00:27.602000,0 days 00:00:27.545000,0 days 00:00:27.458000,True,False,True
+199,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.171000,0 days 00:00:27.332000,0 days 00:00:27.627000,0 days 00:00:27.212000,True,False,True
+202,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.007000,0 days 00:00:27.196000,0 days 00:00:27.576000,0 days 00:00:27.235000,True,False,True
+204,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:21.813000,0 days 00:00:27.193000,0 days 00:00:27.530000,0 days 00:00:27.090000,True,False,True
+207,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:21.732000,0 days 00:00:27.208000,0 days 00:00:27.369000,0 days 00:00:27.155000,True,False,True
+224,2018,Italian Grand Prix,HUL,27,Renault,0 days 00:01:22.942000,0 days 00:00:27.648000,0 days 00:00:27.872000,0 days 00:00:27.422000,True,False,True
+226,2018,Italian Grand Prix,HUL,27,Renault,0 days 00:01:22.544000,0 days 00:00:27.545000,0 days 00:00:27.719000,0 days 00:00:27.280000,True,False,True
+229,2018,Italian Grand Prix,HUL,27,Renault,0 days 00:01:21.801000,0 days 00:00:27.271000,0 days 00:00:27.416000,0 days 00:00:27.114000,True,False,True
+239,2018,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:22.027000,0 days 00:00:27.215000,0 days 00:00:27.614000,0 days 00:00:27.198000,True,False,True
+241,2018,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:21.888000,0 days 00:00:27.313000,0 days 00:00:27.479000,0 days 00:00:27.096000,True,False,True
+392,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:14.042000,0 days 00:00:19.705000,0 days 00:00:34.786000,0 days 00:00:19.551000,True,False,True
+394,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:13.306000,0 days 00:00:19.534000,0 days 00:00:34.251000,0 days 00:00:19.521000,True,False,True
+397,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:13.122000,0 days 00:00:19.355000,0 days 00:00:34.266000,0 days 00:00:19.501000,True,False,True
+400,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:13.028000,0 days 00:00:19.125000,0 days 00:00:34.222000,0 days 00:00:19.681000,True,False,True
+403,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:12.455000,0 days 00:00:19.191000,0 days 00:00:33.967000,0 days 00:00:19.297000,True,False,True
+408,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:12.188000,0 days 00:00:19.128000,0 days 00:00:33.826000,0 days 00:00:19.234000,True,False,True
+413,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:12.669000,0 days 00:00:19.268000,0 days 00:00:34.066000,0 days 00:00:19.335000,True,False,True
+416,2018,Monaco Grand Prix,OCO,31,Force India,0 days 00:01:12.061000,0 days 00:00:19.063000,0 days 00:00:33.795000,0 days 00:00:19.203000,True,False,True
+445,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:28.927000,0 days 00:00:20.926000,0 days 00:00:40.114000,0 days 00:00:27.887000,True,False,True
+446,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:24.184000,0 days 00:00:21.291000,0 days 00:00:41.671000,0 days 00:00:21.222000,True,False,True
+447,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:13.258000,0 days 00:00:19.203000,0 days 00:00:34.454000,0 days 00:00:19.601000,True,False,True
+449,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:13.121000,0 days 00:00:19.174000,0 days 00:00:34.419000,0 days 00:00:19.528000,True,False,True
+451,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.997000,0 days 00:00:19.281000,0 days 00:00:34.171000,0 days 00:00:19.545000,True,False,True
+454,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.950000,0 days 00:00:19.203000,0 days 00:00:34.171000,0 days 00:00:19.576000,True,False,True
+457,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:19.356000,0 days 00:00:20.091000,0 days 00:00:37.347000,0 days 00:00:21.918000,True,False,True
+458,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.655000,0 days 00:00:18.999000,0 days 00:00:34.227000,0 days 00:00:19.429000,True,False,True
+460,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.495000,0 days 00:00:19.023000,0 days 00:00:34.182000,0 days 00:00:19.290000,True,False,True
+463,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.286000,0 days 00:00:18.977000,0 days 00:00:33.923000,0 days 00:00:19.386000,True,False,True
+466,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.266000,0 days 00:00:18.929000,0 days 00:00:33.859000,0 days 00:00:19.478000,True,False,True
+470,2018,Monaco Grand Prix,SAI,55,Renault,0 days 00:01:12.130000,0 days 00:00:18.967000,0 days 00:00:33.828000,0 days 00:00:19.335000,True,False,True
+475,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:13.196000,0 days 00:00:19.387000,0 days 00:00:34.254000,0 days 00:00:19.555000,True,False,True
+477,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:13.036000,0 days 00:00:19.317000,0 days 00:00:34.325000,0 days 00:00:19.394000,True,False,True
+480,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:12.848000,0 days 00:00:19.199000,0 days 00:00:34.123000,0 days 00:00:19.526000,True,False,True
+484,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:12.194000,0 days 00:00:18.991000,0 days 00:00:33.906000,0 days 00:00:19.297000,True,False,True
+490,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:12.583000,0 days 00:00:19.229000,0 days 00:00:33.945000,0 days 00:00:19.409000,True,False,True
+493,2018,Monaco Grand Prix,PER,11,Force India,0 days 00:01:12.154000,0 days 00:00:18.988000,0 days 00:00:33.940000,0 days 00:00:19.226000,True,False,True
+525,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:23.379000,0 days 00:00:21.636000,0 days 00:00:39.381000,0 days 00:00:22.362000,True,False,True
+526,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:21.765000,0 days 00:00:19.462000,0 days 00:00:34.223000,0 days 00:00:28.080000,True,False,True
+528,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:13.147000,0 days 00:00:19.537000,0 days 00:00:34.236000,0 days 00:00:19.374000,True,False,True
+530,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:13.065000,0 days 00:00:19.417000,0 days 00:00:34.297000,0 days 00:00:19.351000,True,False,True
+537,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:27.158000,0 days 00:00:21.186000,0 days 00:00:42.273000,0 days 00:00:23.699000,True,False,True
+538,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.447000,0 days 00:00:19.163000,0 days 00:00:33.941000,0 days 00:00:19.343000,True,False,True
+544,2018,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.411000,0 days 00:00:19.049000,0 days 00:00:34.119000,0 days 00:00:19.243000,True,False,True
+568,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.706000,0 days 00:00:19.179000,0 days 00:00:34.225000,0 days 00:00:19.302000,True,False,True
+575,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.722000,0 days 00:00:19.085000,0 days 00:00:34.226000,0 days 00:00:19.411000,True,False,True
+580,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.521000,0 days 00:00:19.039000,0 days 00:00:34.253000,0 days 00:00:19.229000,True,False,True
+651,2018,Monaco Grand Prix,STR,18,Williams,0 days 00:01:13.682000,0 days 00:00:19.374000,0 days 00:00:34.677000,0 days 00:00:19.631000,True,False,True
+655,2018,Monaco Grand Prix,STR,18,Williams,0 days 00:01:13.323000,0 days 00:00:19.106000,0 days 00:00:34.464000,0 days 00:00:19.753000,True,False,True
+820,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.679000,0 days 00:00:28.203000,0 days 00:00:36.190000,0 days 00:00:24.286000,True,False,True
+822,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.425000,0 days 00:00:28.309000,0 days 00:00:35.787000,0 days 00:00:24.329000,True,False,True
+825,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.279000,0 days 00:00:28.142000,0 days 00:00:35.809000,0 days 00:00:24.328000,True,False,True
+828,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:27.843000,0 days 00:00:27.987000,0 days 00:00:35.751000,0 days 00:00:24.105000,True,False,True
+834,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.768000,0 days 00:00:28.485000,0 days 00:00:36.010000,0 days 00:00:24.273000,True,False,True
+837,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.194000,0 days 00:00:28.143000,0 days 00:00:35.833000,0 days 00:00:24.218000,True,False,True
+840,2018,British Grand Prix,HUL,27,Renault,0 days 00:01:28.544000,0 days 00:00:28.334000,0 days 00:00:35.911000,0 days 00:00:24.299000,True,False,True
+843,2018,British Grand Prix,HUL,27,Renault,0 days 00:01:28.017000,0 days 00:00:28.158000,0 days 00:00:35.731000,0 days 00:00:24.128000,True,False,True
+846,2018,British Grand Prix,HUL,27,Renault,0 days 00:01:27.901000,0 days 00:00:28.215000,0 days 00:00:35.673000,0 days 00:00:24.013000,True,False,True
+852,2018,British Grand Prix,PER,11,Force India,0 days 00:01:28.836000,0 days 00:00:28.224000,0 days 00:00:36.186000,0 days 00:00:24.426000,True,False,True
+854,2018,British Grand Prix,PER,11,Force India,0 days 00:01:28.474000,0 days 00:00:28.110000,0 days 00:00:35.918000,0 days 00:00:24.446000,True,False,True
+857,2018,British Grand Prix,PER,11,Force India,0 days 00:01:28.210000,0 days 00:00:28.084000,0 days 00:00:35.822000,0 days 00:00:24.304000,True,False,True
+860,2018,British Grand Prix,PER,11,Force India,0 days 00:01:27.928000,0 days 00:00:27.953000,0 days 00:00:35.803000,0 days 00:00:24.172000,True,False,True
+909,2018,British Grand Prix,SAI,55,Renault,0 days 00:01:29.154000,0 days 00:00:28.256000,0 days 00:00:36.393000,0 days 00:00:24.505000,True,False,True
+911,2018,British Grand Prix,SAI,55,Renault,0 days 00:01:28.819000,0 days 00:00:28.321000,0 days 00:00:36.027000,0 days 00:00:24.471000,True,False,True
+914,2018,British Grand Prix,SAI,55,Renault,0 days 00:01:28.456000,0 days 00:00:28.250000,0 days 00:00:35.920000,0 days 00:00:24.286000,True,False,True
+930,2018,British Grand Prix,SIR,35,Williams,0 days 00:01:29.252000,0 days 00:00:28.316000,0 days 00:00:36.278000,0 days 00:00:24.658000,True,False,True
+970,2018,Belgian Grand Prix,OCO,31,Racing Point,0 days 00:01:44.003000,0 days 00:00:30.332000,0 days 00:00:45.238000,0 days 00:00:28.433000,True,False,True
+973,2018,Belgian Grand Prix,OCO,31,Racing Point,0 days 00:01:43.766000,0 days 00:00:30.258000,0 days 00:00:45.093000,0 days 00:00:28.415000,True,False,True
+976,2018,Belgian Grand Prix,OCO,31,Racing Point,0 days 00:01:43.302000,0 days 00:00:30.154000,0 days 00:00:44.821000,0 days 00:00:28.327000,True,False,True
+981,2018,Belgian Grand Prix,OCO,31,Racing Point,0 days 00:02:03.955000,0 days 00:00:33.494000,0 days 00:00:58.040000,0 days 00:00:32.421000,True,False,True
+982,2018,Belgian Grand Prix,OCO,31,Racing Point,0 days 00:02:01.851000,0 days 00:00:33.097000,0 days 00:00:56.560000,0 days 00:00:32.194000,True,False,True
+985,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:44.004000,0 days 00:00:30.520000,0 days 00:00:44.995000,0 days 00:00:28.489000,True,False,True
+988,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:43.394000,0 days 00:00:30.195000,0 days 00:00:44.687000,0 days 00:00:28.512000,True,False,True
+991,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:43.014000,0 days 00:00:29.963000,0 days 00:00:44.663000,0 days 00:00:28.388000,True,False,True
+996,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:02:01.894000,0 days 00:00:33.716000,0 days 00:00:55.773000,0 days 00:00:32.405000,True,False,True
+1137,2018,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:44.145000,0 days 00:00:30.687000,0 days 00:00:44.859000,0 days 00:00:28.599000,True,False,True
+1140,2018,Belgian Grand Prix,SAI,55,Renault,0 days 00:01:44.489000,0 days 00:00:30.755000,0 days 00:00:44.941000,0 days 00:00:28.793000,True,False,True
+1152,2018,Belgian Grand Prix,SIR,35,Williams,0 days 00:01:45.850000,0 days 00:00:31.056000,0 days 00:00:45.614000,0 days 00:00:29.180000,True,False,True
+1155,2018,Belgian Grand Prix,SIR,35,Williams,0 days 00:01:44.998000,0 days 00:00:30.824000,0 days 00:00:45.221000,0 days 00:00:28.953000,True,False,True
+1158,2018,Belgian Grand Prix,STR,18,Williams,0 days 00:01:45.593000,0 days 00:00:30.665000,0 days 00:00:45.942000,0 days 00:00:28.986000,True,False,True
+1161,2018,Belgian Grand Prix,STR,18,Williams,0 days 00:01:45.134000,0 days 00:00:30.732000,0 days 00:00:45.650000,0 days 00:00:28.752000,True,False,True
+1319,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:32.780000,0 days 00:00:22.979000,0 days 00:00:33.239000,0 days 00:00:36.562000,True,False,True
+1320,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:18.310000,0 days 00:00:22.064000,0 days 00:00:29.197000,0 days 00:00:27.049000,True,False,True
+1324,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:17.803000,0 days 00:00:22.024000,0 days 00:00:29.098000,0 days 00:00:26.681000,True,False,True
+1327,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:29.157000,0 days 00:00:23.355000,0 days 00:00:35.259000,0 days 00:00:30.543000,True,False,True
+1328,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:18.450000,0 days 00:00:22.090000,0 days 00:00:29.169000,0 days 00:00:27.191000,True,False,True
+1331,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:17.790000,0 days 00:00:21.990000,0 days 00:00:29.074000,0 days 00:00:26.726000,True,False,True
+1404,2018,Spanish Grand Prix,OCO,31,Force India,0 days 00:01:34.894000,0 days 00:00:25.007000,0 days 00:00:35.762000,0 days 00:00:34.125000,True,False,True
+1405,2018,Spanish Grand Prix,OCO,31,Force India,0 days 00:01:18.696000,0 days 00:00:22.025000,0 days 00:00:29.643000,0 days 00:00:27.028000,True,False,True
+1434,2018,Spanish Grand Prix,PER,11,Force India,0 days 00:01:18.740000,0 days 00:00:22.070000,0 days 00:00:29.564000,0 days 00:00:27.106000,True,False,True
+1437,2018,Spanish Grand Prix,PER,11,Force India,0 days 00:01:33.468000,0 days 00:00:26.543000,0 days 00:00:34.570000,0 days 00:00:32.355000,True,False,True
+1438,2018,Spanish Grand Prix,PER,11,Force India,0 days 00:01:19.163000,0 days 00:00:22.027000,0 days 00:00:29.741000,0 days 00:00:27.395000,True,False,True
+1442,2018,Spanish Grand Prix,PER,11,Force India,0 days 00:01:19.098000,0 days 00:00:22.087000,0 days 00:00:29.823000,0 days 00:00:27.188000,True,False,True
+1575,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.119000,0 days 00:00:27.095000,0 days 00:00:38.098000,0 days 00:00:33.926000,True,False,True
+1580,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.814000,0 days 00:00:27.015000,0 days 00:00:37.959000,0 days 00:00:33.840000,True,False,True
+1583,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.342000,0 days 00:00:26.855000,0 days 00:00:37.805000,0 days 00:00:33.682000,True,False,True
+1588,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.204000,0 days 00:00:27.184000,0 days 00:00:38.179000,0 days 00:00:33.841000,True,False,True
+1591,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:37.985000,0 days 00:00:26.806000,0 days 00:00:37.724000,0 days 00:00:33.455000,True,False,True
+1609,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.912000,0 days 00:00:27.024000,0 days 00:00:38.134000,0 days 00:00:33.754000,True,False,True
+1617,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.681000,0 days 00:00:26.861000,0 days 00:00:38.038000,0 days 00:00:33.782000,True,False,True
+1620,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.534000,0 days 00:00:26.853000,0 days 00:00:38.035000,0 days 00:00:33.646000,True,False,True
+1623,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:39.157000,0 days 00:00:27.090000,0 days 00:00:38.331000,0 days 00:00:33.736000,True,False,True
+1626,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.365000,0 days 00:00:26.864000,0 days 00:00:37.867000,0 days 00:00:33.634000,True,False,True
+1629,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:40.013000,0 days 00:00:27.402000,0 days 00:00:38.332000,0 days 00:00:34.279000,True,False,True
+1632,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.932000,0 days 00:00:27.135000,0 days 00:00:37.981000,0 days 00:00:33.816000,True,False,True
+1635,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.630000,0 days 00:00:27.070000,0 days 00:00:38.010000,0 days 00:00:33.550000,True,False,True
+1638,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.450000,0 days 00:00:26.994000,0 days 00:00:37.882000,0 days 00:00:33.574000,True,False,True
+1641,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.887000,0 days 00:00:27.085000,0 days 00:00:38.048000,0 days 00:00:33.754000,True,False,True
+1644,2018,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.588000,0 days 00:00:27.079000,0 days 00:00:38.008000,0 days 00:00:33.501000,True,False,True
+1659,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:39.401000,0 days 00:00:27.270000,0 days 00:00:38.180000,0 days 00:00:33.951000,True,False,True
+1662,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:39.103000,0 days 00:00:27.122000,0 days 00:00:38.277000,0 days 00:00:33.704000,True,False,True
+1665,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:38.716000,0 days 00:00:27.030000,0 days 00:00:37.835000,0 days 00:00:33.851000,True,False,True
+1734,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:42.724000,0 days 00:00:27.509000,0 days 00:00:40.026000,0 days 00:00:35.189000,True,False,True
+1736,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:41.403000,0 days 00:00:27.488000,0 days 00:00:39.154000,0 days 00:00:34.761000,True,False,True
+1739,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:41.263000,0 days 00:00:27.455000,0 days 00:00:39.277000,0 days 00:00:34.531000,True,False,True
+1742,2018,Singapore Grand Prix,STR,18,Williams,0 days 00:01:41.334000,0 days 00:00:27.364000,0 days 00:00:39.026000,0 days 00:00:34.944000,True,False,True
+1943,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.588000,0 days 00:00:17.989000,0 days 00:00:35.526000,0 days 00:00:16.073000,True,False,True
+1946,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.217000,0 days 00:00:17.857000,0 days 00:00:35.391000,0 days 00:00:15.969000,True,False,True
+1950,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:08.741000,0 days 00:00:17.747000,0 days 00:00:35.014000,0 days 00:00:15.980000,True,False,True
+1958,2018,Brazilian Grand Prix,OCO,31,Racing Point,0 days 00:01:09.462000,0 days 00:00:17.858000,0 days 00:00:35.523000,0 days 00:00:16.081000,True,False,True
+1963,2018,Brazilian Grand Prix,OCO,31,Racing Point,0 days 00:01:09.264000,0 days 00:00:17.845000,0 days 00:00:35.275000,0 days 00:00:16.144000,True,False,True
+1967,2018,Brazilian Grand Prix,OCO,31,Racing Point,0 days 00:01:08.822000,0 days 00:00:17.595000,0 days 00:00:35.222000,0 days 00:00:16.005000,True,False,True
+1970,2018,Brazilian Grand Prix,OCO,31,Racing Point,0 days 00:01:08.770000,0 days 00:00:17.749000,0 days 00:00:34.981000,0 days 00:00:16.040000,True,False,True
+1976,2018,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:09.243000,0 days 00:00:18.012000,0 days 00:00:35.098000,0 days 00:00:16.133000,True,False,True
+1979,2018,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:09.009000,0 days 00:00:17.802000,0 days 00:00:35.056000,0 days 00:00:16.151000,True,False,True
+1982,2018,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:08.846000,0 days 00:00:17.853000,0 days 00:00:34.939000,0 days 00:00:16.054000,True,False,True
+1988,2018,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:08.834000,0 days 00:00:18.011000,0 days 00:00:34.874000,0 days 00:00:15.949000,True,False,True
+1991,2018,Brazilian Grand Prix,SIR,35,Williams,0 days 00:01:10.252000,0 days 00:00:17.935000,0 days 00:00:36.162000,0 days 00:00:16.155000,True,False,True
+1994,2018,Brazilian Grand Prix,SIR,35,Williams,0 days 00:01:09.259000,0 days 00:00:17.949000,0 days 00:00:35.197000,0 days 00:00:16.113000,True,False,True
+1999,2018,Brazilian Grand Prix,SIR,35,Williams,0 days 00:01:10.381000,0 days 00:00:18.417000,0 days 00:00:35.848000,0 days 00:00:16.116000,True,False,True
+2002,2018,Brazilian Grand Prix,SAI,55,Renault,0 days 00:01:09.362000,0 days 00:00:17.997000,0 days 00:00:35.167000,0 days 00:00:16.198000,True,False,True
+2008,2018,Brazilian Grand Prix,SAI,55,Renault,0 days 00:01:09.269000,0 days 00:00:17.968000,0 days 00:00:35.109000,0 days 00:00:16.192000,True,False,True
+2030,2018,Brazilian Grand Prix,STR,18,Williams,0 days 00:01:10.477000,0 days 00:00:17.894000,0 days 00:00:36.459000,0 days 00:00:16.124000,True,False,True
+2033,2018,Brazilian Grand Prix,STR,18,Williams,0 days 00:01:09.566000,0 days 00:00:17.963000,0 days 00:00:35.354000,0 days 00:00:16.249000,True,False,True
+2036,2018,Brazilian Grand Prix,STR,18,Williams,0 days 00:01:09.441000,0 days 00:00:17.882000,0 days 00:00:35.475000,0 days 00:00:16.084000,True,False,True
+2160,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:30.771000,0 days 00:00:30.529000,0 days 00:00:31.507000,0 days 00:00:28.735000,True,False,True
+2164,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:39.502000,0 days 00:00:33.588000,0 days 00:00:36.806000,0 days 00:00:29.108000,True,False,True
+2166,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:37.966000,0 days 00:00:33.619000,0 days 00:00:36.313000,0 days 00:00:28.034000,True,False,True
+2167,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:36.743000,0 days 00:00:32.955000,0 days 00:00:36.023000,0 days 00:00:27.765000,True,False,True
+2347,2018,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:36.506000,0 days 00:00:32.777000,0 days 00:00:33.467000,0 days 00:00:30.262000,True,False,True
+2424,2018,Hungarian Grand Prix,OCO,31,Force India,0 days 00:01:19.142000,0 days 00:00:28.462000,0 days 00:00:28.621000,0 days 00:00:22.059000,True,False,True
+2602,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:05.137000,0 days 00:00:16.389000,0 days 00:00:28.691000,0 days 00:00:20.057000,True,False,True
+2607,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.948000,0 days 00:00:16.558000,0 days 00:00:28.515000,0 days 00:00:19.875000,True,False,True
+2610,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.561000,0 days 00:00:16.341000,0 days 00:00:28.380000,0 days 00:00:19.840000,True,False,True
+2615,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.905000,0 days 00:00:16.375000,0 days 00:00:28.663000,0 days 00:00:19.867000,True,False,True
+2618,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.725000,0 days 00:00:16.370000,0 days 00:00:28.527000,0 days 00:00:19.828000,True,False,True
+2621,2018,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.988000,0 days 00:00:16.420000,0 days 00:00:28.562000,0 days 00:00:20.006000,True,False,True
+2626,2018,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.864000,0 days 00:00:16.435000,0 days 00:00:28.516000,0 days 00:00:19.913000,True,False,True
+2629,2018,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.881000,0 days 00:00:16.469000,0 days 00:00:28.562000,0 days 00:00:19.850000,True,False,True
+2632,2018,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.676000,0 days 00:00:16.319000,0 days 00:00:28.364000,0 days 00:00:19.993000,True,False,True
+2635,2018,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:05.019000,0 days 00:00:16.449000,0 days 00:00:28.626000,0 days 00:00:19.944000,True,False,True
+2645,2018,Austrian Grand Prix,OCO,31,Force India,0 days 00:01:05.148000,0 days 00:00:16.274000,0 days 00:00:28.799000,0 days 00:00:20.075000,True,False,True
+2652,2018,Austrian Grand Prix,OCO,31,Force India,0 days 00:01:37.292000,0 days 00:00:18.979000,0 days 00:00:45.179000,0 days 00:00:33.134000,True,False,True
+2653,2018,Austrian Grand Prix,OCO,31,Force India,0 days 00:01:04.889000,0 days 00:00:16.302000,0 days 00:00:28.709000,0 days 00:00:19.878000,True,False,True
+2657,2018,Austrian Grand Prix,OCO,31,Force India,0 days 00:01:04.845000,0 days 00:00:16.225000,0 days 00:00:28.591000,0 days 00:00:20.029000,True,False,True
+2717,2018,Austrian Grand Prix,STR,18,Williams,0 days 00:01:05.403000,0 days 00:00:16.677000,0 days 00:00:28.814000,0 days 00:00:19.912000,True,False,True
+2720,2018,Austrian Grand Prix,STR,18,Williams,0 days 00:01:05.264000,0 days 00:00:16.466000,0 days 00:00:28.850000,0 days 00:00:19.948000,True,False,True
+2723,2018,Austrian Grand Prix,STR,18,Williams,0 days 00:01:05.726000,0 days 00:00:16.538000,0 days 00:00:29.142000,0 days 00:00:20.046000,True,False,True
+2726,2018,Austrian Grand Prix,STR,18,Williams,0 days 00:01:05.286000,0 days 00:00:16.438000,0 days 00:00:28.757000,0 days 00:00:20.091000,True,False,True
+2740,2018,Austrian Grand Prix,PER,11,Force India,0 days 00:01:05.511000,0 days 00:00:16.417000,0 days 00:00:29.058000,0 days 00:00:20.036000,True,False,True
+2746,2018,Austrian Grand Prix,PER,11,Force India,0 days 00:01:05.279000,0 days 00:00:16.326000,0 days 00:00:28.936000,0 days 00:00:20.017000,True,False,True
+2754,2018,Austrian Grand Prix,SIR,35,Williams,0 days 00:01:05.322000,0 days 00:00:16.523000,0 days 00:00:28.971000,0 days 00:00:19.828000,True,False,True
+2874,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:29.899000,0 days 00:00:31.794000,0 days 00:00:40.547000,0 days 00:00:17.558000,True,False,True
+2877,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:29.538000,0 days 00:00:31.814000,0 days 00:00:40.258000,0 days 00:00:17.466000,True,False,True
+2882,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:30.126000,0 days 00:00:31.838000,0 days 00:00:40.692000,0 days 00:00:17.596000,True,False,True
+2902,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:30.247000,0 days 00:00:31.904000,0 days 00:00:40.645000,0 days 00:00:17.698000,True,False,True
+2907,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:29.567000,0 days 00:00:31.671000,0 days 00:00:40.367000,0 days 00:00:17.529000,True,False,True
+2911,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:37.229000,0 days 00:00:32.169000,0 days 00:00:43.010000,0 days 00:00:22.050000,True,False,True
+2942,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.587000,0 days 00:00:31.927000,0 days 00:00:40.872000,0 days 00:00:17.788000,True,False,True
+2945,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.236000,0 days 00:00:31.880000,0 days 00:00:40.670000,0 days 00:00:17.686000,True,False,True
+2948,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.490000,0 days 00:00:32.016000,0 days 00:00:40.759000,0 days 00:00:17.715000,True,False,True
+2953,2018,Japanese Grand Prix,STR,18,Williams,0 days 00:01:31.174000,0 days 00:00:32.425000,0 days 00:00:40.976000,0 days 00:00:17.773000,True,False,True
+2957,2018,Japanese Grand Prix,STR,18,Williams,0 days 00:01:30.317000,0 days 00:00:31.936000,0 days 00:00:40.710000,0 days 00:00:17.671000,True,False,True
+2960,2018,Japanese Grand Prix,STR,18,Williams,0 days 00:01:30.714000,0 days 00:00:32.003000,0 days 00:00:40.755000,0 days 00:00:17.956000,True,False,True
+2968,2018,Japanese Grand Prix,HUL,27,Renault,0 days 00:01:30.573000,0 days 00:00:32.452000,0 days 00:00:40.443000,0 days 00:00:17.678000,True,False,True
+2971,2018,Japanese Grand Prix,HUL,27,Renault,0 days 00:01:30.361000,0 days 00:00:32.106000,0 days 00:00:40.584000,0 days 00:00:17.671000,True,False,True
+2974,2018,Japanese Grand Prix,SIR,35,Williams,0 days 00:01:31.350000,0 days 00:00:32.552000,0 days 00:00:40.956000,0 days 00:00:17.842000,True,False,True
+2979,2018,Japanese Grand Prix,SIR,35,Williams,0 days 00:01:30.372000,0 days 00:00:31.963000,0 days 00:00:40.702000,0 days 00:00:17.707000,True,False,True
+3070,2019,Italian Grand Prix,RIC,3,Renault,0 days 00:01:20.374000,0 days 00:00:26.706000,0 days 00:00:27.031000,0 days 00:00:26.637000,True,False,True
+3073,2019,Italian Grand Prix,RIC,3,Renault,0 days 00:01:19.833000,0 days 00:00:26.589000,0 days 00:00:26.671000,0 days 00:00:26.573000,True,False,True
+3078,2019,Italian Grand Prix,RIC,3,Renault,0 days 00:01:19.839000,0 days 00:00:26.644000,0 days 00:00:26.592000,0 days 00:00:26.603000,True,False,True
+3083,2019,Italian Grand Prix,HUL,27,Renault,0 days 00:01:20.155000,0 days 00:00:26.676000,0 days 00:00:26.777000,0 days 00:00:26.702000,True,False,True
+3086,2019,Italian Grand Prix,HUL,27,Renault,0 days 00:01:20.498000,0 days 00:00:26.943000,0 days 00:00:26.910000,0 days 00:00:26.645000,True,False,True
+3089,2019,Italian Grand Prix,HUL,27,Renault,0 days 00:01:20.275000,0 days 00:00:26.785000,0 days 00:00:26.767000,0 days 00:00:26.723000,True,False,True
+3092,2019,Italian Grand Prix,HUL,27,Renault,0 days 00:01:20.049000,0 days 00:00:26.750000,0 days 00:00:26.670000,0 days 00:00:26.629000,True,False,True
+3132,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:21.283000,0 days 00:00:26.970000,0 days 00:00:27.344000,0 days 00:00:26.969000,True,False,True
+3134,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:21.176000,0 days 00:00:26.883000,0 days 00:00:27.282000,0 days 00:00:27.011000,True,False,True
+3138,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.643000,0 days 00:00:26.652000,0 days 00:00:27.100000,0 days 00:00:26.891000,True,False,True
+3141,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.967000,0 days 00:00:26.899000,0 days 00:00:27.078000,0 days 00:00:26.990000,True,False,True
+3146,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.498000,0 days 00:00:26.728000,0 days 00:00:27.097000,0 days 00:00:26.673000,True,False,True
+3251,2019,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:21.385000,0 days 00:00:27.014000,0 days 00:00:27.462000,0 days 00:00:26.909000,True,False,True
+3253,2019,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:21.291000,0 days 00:00:26.992000,0 days 00:00:27.431000,0 days 00:00:26.868000,True,False,True
+3257,2019,Italian Grand Prix,RUS,63,Williams,0 days 00:01:22.217000,0 days 00:00:27.440000,0 days 00:00:27.399000,0 days 00:00:27.378000,True,False,True
+3259,2019,Italian Grand Prix,RUS,63,Williams,0 days 00:01:21.800000,0 days 00:00:27.350000,0 days 00:00:27.198000,0 days 00:00:27.252000,True,False,True
+3265,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:23.966000,0 days 00:00:28.013000,0 days 00:00:28.065000,0 days 00:00:27.888000,True,False,True
+3267,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:22.922000,0 days 00:00:27.514000,0 days 00:00:27.590000,0 days 00:00:27.818000,True,False,True
+3271,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:22.356000,0 days 00:00:27.366000,0 days 00:00:27.421000,0 days 00:00:27.569000,True,False,True
+3426,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:21.771000,0 days 00:00:21.163000,0 days 00:00:37.497000,0 days 00:00:23.111000,True,False,True
+3427,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:12.943000,0 days 00:00:19.096000,0 days 00:00:34.226000,0 days 00:00:19.621000,True,False,True
+3429,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:12.602000,0 days 00:00:19.158000,0 days 00:00:34.080000,0 days 00:00:19.364000,True,False,True
+3433,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:11.767000,0 days 00:00:18.882000,0 days 00:00:33.835000,0 days 00:00:19.050000,True,False,True
+3436,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:11.693000,0 days 00:00:18.936000,0 days 00:00:33.839000,0 days 00:00:18.918000,True,False,True
+3438,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:11.543000,0 days 00:00:18.970000,0 days 00:00:33.606000,0 days 00:00:18.967000,True,False,True
+3446,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:11.218000,0 days 00:00:18.769000,0 days 00:00:33.525000,0 days 00:00:18.924000,True,False,True
+3542,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:22.230000,0 days 00:00:21.074000,0 days 00:00:37.189000,0 days 00:00:23.967000,True,False,True
+3543,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:13.698000,0 days 00:00:19.224000,0 days 00:00:34.263000,0 days 00:00:20.211000,True,False,True
+3545,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.964000,0 days 00:00:19.183000,0 days 00:00:34.412000,0 days 00:00:19.369000,True,False,True
+3548,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.268000,0 days 00:00:18.944000,0 days 00:00:33.897000,0 days 00:00:19.427000,True,False,True
+3550,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.097000,0 days 00:00:18.880000,0 days 00:00:33.846000,0 days 00:00:19.371000,True,False,True
+3553,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.457000,0 days 00:00:18.939000,0 days 00:00:34.284000,0 days 00:00:19.234000,True,False,True
+3555,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:11.850000,0 days 00:00:18.865000,0 days 00:00:33.858000,0 days 00:00:19.127000,True,False,True
+3559,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:11.670000,0 days 00:00:18.785000,0 days 00:00:33.824000,0 days 00:00:19.061000,True,False,True
+3656,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:30.161000,0 days 00:00:21.515000,0 days 00:00:40.403000,0 days 00:00:28.243000,True,False,True
+3657,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:13.767000,0 days 00:00:19.379000,0 days 00:00:34.689000,0 days 00:00:19.699000,True,False,True
+3659,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:13.362000,0 days 00:00:19.418000,0 days 00:00:34.400000,0 days 00:00:19.544000,True,False,True
+3662,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:12.233000,0 days 00:00:18.978000,0 days 00:00:34.039000,0 days 00:00:19.216000,True,False,True
+3667,2019,Monaco Grand Prix,STR,18,Racing Point,0 days 00:01:27.563000,0 days 00:00:21.374000,0 days 00:00:36.975000,0 days 00:00:29.214000,True,False,True
+3668,2019,Monaco Grand Prix,STR,18,Racing Point,0 days 00:01:14.041000,0 days 00:00:19.866000,0 days 00:00:34.521000,0 days 00:00:19.654000,True,False,True
+3670,2019,Monaco Grand Prix,STR,18,Racing Point,0 days 00:01:13.485000,0 days 00:00:19.405000,0 days 00:00:34.488000,0 days 00:00:19.592000,True,False,True
+3674,2019,Monaco Grand Prix,STR,18,Racing Point,0 days 00:01:12.846000,0 days 00:00:19.220000,0 days 00:00:34.199000,0 days 00:00:19.427000,True,False,True
+3678,2019,Monaco Grand Prix,RUS,63,Williams,0 days 00:01:16.640000,0 days 00:00:20.424000,0 days 00:00:35.799000,0 days 00:00:20.417000,True,False,True
+3680,2019,Monaco Grand Prix,RUS,63,Williams,0 days 00:01:14.848000,0 days 00:00:19.699000,0 days 00:00:35.139000,0 days 00:00:20.010000,True,False,True
+3684,2019,Monaco Grand Prix,RUS,63,Williams,0 days 00:01:13.664000,0 days 00:00:19.341000,0 days 00:00:34.622000,0 days 00:00:19.701000,True,False,True
+3688,2019,Monaco Grand Prix,RUS,63,Williams,0 days 00:01:13.477000,0 days 00:00:19.257000,0 days 00:00:34.635000,0 days 00:00:19.585000,True,False,True
+3691,2019,Monaco Grand Prix,KUB,88,Williams,0 days 00:01:26.709000,0 days 00:00:20.703000,0 days 00:00:43.902000,0 days 00:00:22.104000,True,False,True
+3692,2019,Monaco Grand Prix,KUB,88,Williams,0 days 00:01:15.295000,0 days 00:00:19.980000,0 days 00:00:35.209000,0 days 00:00:20.106000,True,False,True
+3694,2019,Monaco Grand Prix,KUB,88,Williams,0 days 00:01:14.736000,0 days 00:00:19.730000,0 days 00:00:34.955000,0 days 00:00:20.051000,True,False,True
+3697,2019,Monaco Grand Prix,KUB,88,Williams,0 days 00:01:14.035000,0 days 00:00:19.476000,0 days 00:00:34.718000,0 days 00:00:19.841000,True,False,True
+3699,2019,Monaco Grand Prix,KUB,88,Williams,0 days 00:01:13.751000,0 days 00:00:19.267000,0 days 00:00:34.548000,0 days 00:00:19.936000,True,False,True
+3818,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.995000,0 days 00:00:27.811000,0 days 00:00:35.606000,0 days 00:00:23.578000,True,False,True
+3820,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.428000,0 days 00:00:27.644000,0 days 00:00:35.244000,0 days 00:00:23.540000,True,False,True
+3827,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.327000,0 days 00:00:27.571000,0 days 00:00:35.227000,0 days 00:00:23.529000,True,False,True
+3830,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.283000,0 days 00:00:27.675000,0 days 00:00:35.085000,0 days 00:00:23.523000,True,False,True
+3833,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.400000,0 days 00:00:27.638000,0 days 00:00:35.140000,0 days 00:00:23.622000,True,False,True
+3836,2019,British Grand Prix,RIC,3,Renault,0 days 00:01:26.182000,0 days 00:00:27.588000,0 days 00:00:35.051000,0 days 00:00:23.543000,True,False,True
+3884,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:27.731000,0 days 00:00:27.937000,0 days 00:00:36.052000,0 days 00:00:23.742000,True,False,True
+3886,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.648000,0 days 00:00:27.628000,0 days 00:00:35.372000,0 days 00:00:23.648000,True,False,True
+3890,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.568000,0 days 00:00:27.646000,0 days 00:00:35.323000,0 days 00:00:23.599000,True,False,True
+3893,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.588000,0 days 00:00:27.625000,0 days 00:00:35.318000,0 days 00:00:23.645000,True,False,True
+3896,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.397000,0 days 00:00:27.495000,0 days 00:00:35.275000,0 days 00:00:23.627000,True,False,True
+3899,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.717000,0 days 00:00:27.621000,0 days 00:00:35.381000,0 days 00:00:23.715000,True,False,True
+3902,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.386000,0 days 00:00:27.607000,0 days 00:00:35.115000,0 days 00:00:23.664000,True,False,True
+3973,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:27.392000,0 days 00:00:27.935000,0 days 00:00:35.653000,0 days 00:00:23.804000,True,False,True
+3975,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.915000,0 days 00:00:27.788000,0 days 00:00:35.188000,0 days 00:00:23.939000,True,False,True
+3978,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.649000,0 days 00:00:27.791000,0 days 00:00:35.067000,0 days 00:00:23.791000,True,False,True
+3981,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.928000,0 days 00:00:27.936000,0 days 00:00:35.238000,0 days 00:00:23.754000,True,False,True
+4006,2019,British Grand Prix,STR,18,Racing Point,0 days 00:01:27.380000,0 days 00:00:28,0 days 00:00:35.690000,0 days 00:00:23.690000,True,False,True
+4009,2019,British Grand Prix,STR,18,Racing Point,0 days 00:01:26.762000,0 days 00:00:27.749000,0 days 00:00:35.246000,0 days 00:00:23.767000,True,False,True
+4015,2019,British Grand Prix,RUS,63,Williams,0 days 00:01:28.912000,0 days 00:00:28.419000,0 days 00:00:36.393000,0 days 00:00:24.100000,True,False,True
+4017,2019,British Grand Prix,RUS,63,Williams,0 days 00:01:27.789000,0 days 00:00:28.178000,0 days 00:00:35.725000,0 days 00:00:23.886000,True,False,True
+4024,2019,British Grand Prix,KUB,88,Williams,0 days 00:01:29.521000,0 days 00:00:28.571000,0 days 00:00:36.653000,0 days 00:00:24.297000,True,False,True
+4026,2019,British Grand Prix,KUB,88,Williams,0 days 00:01:28.257000,0 days 00:00:28.268000,0 days 00:00:35.993000,0 days 00:00:23.996000,True,False,True
+4040,2019,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:45.732000,0 days 00:00:30.775000,0 days 00:00:46.266000,0 days 00:00:28.691000,True,False,True
+4045,2019,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:44.707000,0 days 00:00:30.480000,0 days 00:00:45.541000,0 days 00:00:28.686000,True,False,True
+4051,2019,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:44.902000,0 days 00:00:30.680000,0 days 00:00:45.514000,0 days 00:00:28.708000,True,False,True
+4054,2019,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:44.706000,0 days 00:00:30.492000,0 days 00:00:45.463000,0 days 00:00:28.751000,True,False,True
+4074,2019,Belgian Grand Prix,STR,18,Racing Point,0 days 00:01:46,0 days 00:00:30.843000,0 days 00:00:46.273000,0 days 00:00:28.884000,True,False,True
+4078,2019,Belgian Grand Prix,STR,18,Racing Point,0 days 00:01:45.047000,0 days 00:00:30.567000,0 days 00:00:45.713000,0 days 00:00:28.767000,True,False,True
+4112,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:45.899000,0 days 00:00:30.753000,0 days 00:00:46.365000,0 days 00:00:28.781000,True,False,True
+4116,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:45.196000,0 days 00:00:30.503000,0 days 00:00:46.034000,0 days 00:00:28.659000,True,False,True
+4119,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:44.549000,0 days 00:00:30.379000,0 days 00:00:45.682000,0 days 00:00:28.488000,True,False,True
+4124,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:44.542000,0 days 00:00:30.549000,0 days 00:00:45.338000,0 days 00:00:28.655000,True,False,True
+4128,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:45.560000,0 days 00:00:31.032000,0 days 00:00:45.860000,0 days 00:00:28.668000,True,False,True
+4132,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:44.632000,0 days 00:00:30.535000,0 days 00:00:45.537000,0 days 00:00:28.560000,True,False,True
+4135,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:44.103000,0 days 00:00:30.376000,0 days 00:00:45.323000,0 days 00:00:28.404000,True,False,True
+4138,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:44.257000,0 days 00:00:30.616000,0 days 00:00:45.206000,0 days 00:00:28.435000,True,False,True
+4214,2019,Belgian Grand Prix,RUS,63,Williams,0 days 00:01:47.548000,0 days 00:00:31.465000,0 days 00:00:46.600000,0 days 00:00:29.483000,True,False,True
+4427,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:36.541000,0 days 00:00:22.166000,0 days 00:00:41.095000,0 days 00:00:33.280000,True,False,True
+4428,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:18.550000,0 days 00:00:22.107000,0 days 00:00:29.261000,0 days 00:00:27.182000,True,False,True
+4431,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:18.385000,0 days 00:00:21.968000,0 days 00:00:29.424000,0 days 00:00:26.993000,True,False,True
+4434,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:17.630000,0 days 00:00:21.851000,0 days 00:00:28.950000,0 days 00:00:26.829000,True,False,True
+4437,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:17.299000,0 days 00:00:21.713000,0 days 00:00:28.795000,0 days 00:00:26.791000,True,False,True
+4440,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:18.106000,0 days 00:00:22.189000,0 days 00:00:29.168000,0 days 00:00:26.749000,True,False,True
+4500,2019,Spanish Grand Prix,PER,11,Racing Point,0 days 00:01:18.669000,0 days 00:00:22,0 days 00:00:29.246000,0 days 00:00:27.423000,True,False,True
+4503,2019,Spanish Grand Prix,PER,11,Racing Point,0 days 00:01:18.286000,0 days 00:00:22.068000,0 days 00:00:29.027000,0 days 00:00:27.191000,True,False,True
+4506,2019,Spanish Grand Prix,PER,11,Racing Point,0 days 00:01:17.943000,0 days 00:00:22.005000,0 days 00:00:28.908000,0 days 00:00:27.030000,True,False,True
+4509,2019,Spanish Grand Prix,PER,11,Racing Point,0 days 00:01:17.886000,0 days 00:00:21.886000,0 days 00:00:28.985000,0 days 00:00:27.015000,True,False,True
+4514,2019,Spanish Grand Prix,HUL,27,Renault,0 days 00:01:18.594000,0 days 00:00:22.013000,0 days 00:00:29.463000,0 days 00:00:27.118000,True,False,True
+4516,2019,Spanish Grand Prix,HUL,27,Renault,0 days 00:01:18.404000,0 days 00:00:21.979000,0 days 00:00:29.063000,0 days 00:00:27.362000,True,False,True
+4519,2019,Spanish Grand Prix,STR,18,Racing Point,0 days 00:01:19.113000,0 days 00:00:22.105000,0 days 00:00:29.380000,0 days 00:00:27.628000,True,False,True
+4522,2019,Spanish Grand Prix,STR,18,Racing Point,0 days 00:01:18.572000,0 days 00:00:21.844000,0 days 00:00:29.178000,0 days 00:00:27.550000,True,False,True
+4525,2019,Spanish Grand Prix,STR,18,Racing Point,0 days 00:01:18.471000,0 days 00:00:21.835000,0 days 00:00:28.997000,0 days 00:00:27.639000,True,False,True
+4536,2019,Spanish Grand Prix,RUS,63,Williams,0 days 00:01:30.939000,0 days 00:00:22.450000,0 days 00:00:29.881000,0 days 00:00:38.608000,True,False,True
+4538,2019,Spanish Grand Prix,RUS,63,Williams,0 days 00:01:19.937000,0 days 00:00:22.264000,0 days 00:00:29.775000,0 days 00:00:27.898000,True,False,True
+4541,2019,Spanish Grand Prix,RUS,63,Williams,0 days 00:01:19.072000,0 days 00:00:22.113000,0 days 00:00:29.400000,0 days 00:00:27.559000,True,False,True
+4544,2019,Spanish Grand Prix,KUB,88,Williams,0 days 00:01:21.860000,0 days 00:00:22.991000,0 days 00:00:30.527000,0 days 00:00:28.342000,True,False,True
+4547,2019,Spanish Grand Prix,KUB,88,Williams,0 days 00:01:20.254000,0 days 00:00:22.365000,0 days 00:00:29.726000,0 days 00:00:28.163000,True,False,True
+4672,2019,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:39.915000,0 days 00:00:27.379000,0 days 00:00:38.381000,0 days 00:00:34.155000,True,False,True
+4675,2019,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:39.001000,0 days 00:00:26.991000,0 days 00:00:38.099000,0 days 00:00:33.911000,True,False,True
+4678,2019,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.580000,0 days 00:00:26.978000,0 days 00:00:37.932000,0 days 00:00:33.670000,True,False,True
+4684,2019,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:39.610000,0 days 00:00:27.227000,0 days 00:00:38.468000,0 days 00:00:33.915000,True,False,True
+4687,2019,Singapore Grand Prix,HUL,27,Renault,0 days 00:01:38.264000,0 days 00:00:26.937000,0 days 00:00:37.723000,0 days 00:00:33.604000,True,False,True
+4709,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:40.326000,0 days 00:00:27.294000,0 days 00:00:38.831000,0 days 00:00:34.201000,True,False,True
+4711,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.995000,0 days 00:00:27.422000,0 days 00:00:38.724000,0 days 00:00:33.849000,True,False,True
+4714,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.909000,0 days 00:00:27.213000,0 days 00:00:38.342000,0 days 00:00:34.354000,True,False,True
+4717,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.754000,0 days 00:00:27.080000,0 days 00:00:38.159000,0 days 00:00:33.515000,True,False,True
+4720,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.620000,0 days 00:00:27.036000,0 days 00:00:38.021000,0 days 00:00:33.563000,True,False,True
+4784,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:40.345000,0 days 00:00:27.416000,0 days 00:00:38.477000,0 days 00:00:34.452000,True,False,True
+4786,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:40.188000,0 days 00:00:27.374000,0 days 00:00:38.489000,0 days 00:00:34.325000,True,False,True
+4789,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:39.979000,0 days 00:00:27.230000,0 days 00:00:38.626000,0 days 00:00:34.123000,True,False,True
+4800,2019,Singapore Grand Prix,RUS,63,Williams,0 days 00:01:40.900000,0 days 00:00:27.522000,0 days 00:00:38.965000,0 days 00:00:34.413000,True,False,True
+4802,2019,Singapore Grand Prix,RUS,63,Williams,0 days 00:01:40.867000,0 days 00:00:27.524000,0 days 00:00:38.957000,0 days 00:00:34.386000,True,False,True
+4808,2019,Singapore Grand Prix,KUB,88,Williams,0 days 00:01:41.186000,0 days 00:00:27.593000,0 days 00:00:39.054000,0 days 00:00:34.539000,True,False,True
+4813,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:39.362000,0 days 00:00:27.200000,0 days 00:00:38.324000,0 days 00:00:33.838000,True,False,True
+4819,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:38.399000,0 days 00:00:26.926000,0 days 00:00:37.758000,0 days 00:00:33.715000,True,False,True
+4825,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:39.094000,0 days 00:00:27.128000,0 days 00:00:38.172000,0 days 00:00:33.794000,True,False,True
+4828,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:38.095000,0 days 00:00:26.910000,0 days 00:00:37.637000,0 days 00:00:33.548000,True,False,True
+5011,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:09.269000,0 days 00:00:18.032000,0 days 00:00:35.181000,0 days 00:00:16.056000,True,False,True
+5014,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:09.086000,0 days 00:00:17.951000,0 days 00:00:35.153000,0 days 00:00:15.982000,True,False,True
+5017,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:08.903000,0 days 00:00:17.840000,0 days 00:00:35.052000,0 days 00:00:16.011000,True,False,True
+5037,2019,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:09.527000,0 days 00:00:18.073000,0 days 00:00:35.293000,0 days 00:00:16.161000,True,False,True
+5040,2019,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:09.050000,0 days 00:00:17.917000,0 days 00:00:35.109000,0 days 00:00:16.024000,True,False,True
+5043,2019,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:09.088000,0 days 00:00:17.907000,0 days 00:00:35.126000,0 days 00:00:16.055000,True,False,True
+5046,2019,Brazilian Grand Prix,HUL,27,Renault,0 days 00:01:08.921000,0 days 00:00:17.857000,0 days 00:00:34.973000,0 days 00:00:16.091000,True,False,True
+5049,2019,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.413000,0 days 00:00:17.921000,0 days 00:00:35.334000,0 days 00:00:16.158000,True,False,True
+5054,2019,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.288000,0 days 00:00:17.864000,0 days 00:00:35.396000,0 days 00:00:16.028000,True,False,True
+5057,2019,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.035000,0 days 00:00:17.822000,0 days 00:00:35.094000,0 days 00:00:16.119000,True,False,True
+5073,2019,Brazilian Grand Prix,STR,18,Racing Point,0 days 00:01:09.600000,0 days 00:00:17.926000,0 days 00:00:35.460000,0 days 00:00:16.214000,True,False,True
+5079,2019,Brazilian Grand Prix,STR,18,Racing Point,0 days 00:01:09.536000,0 days 00:00:17.930000,0 days 00:00:35.393000,0 days 00:00:16.213000,True,False,True
+5082,2019,Brazilian Grand Prix,RUS,63,Williams,0 days 00:01:10.688000,0 days 00:00:18.383000,0 days 00:00:36.015000,0 days 00:00:16.290000,True,False,True
+5085,2019,Brazilian Grand Prix,RUS,63,Williams,0 days 00:01:10.185000,0 days 00:00:18.093000,0 days 00:00:35.803000,0 days 00:00:16.289000,True,False,True
+5088,2019,Brazilian Grand Prix,RUS,63,Williams,0 days 00:01:10.126000,0 days 00:00:18.228000,0 days 00:00:35.669000,0 days 00:00:16.229000,True,False,True
+5092,2019,Brazilian Grand Prix,KUB,88,Williams,0 days 00:01:10.751000,0 days 00:00:18.199000,0 days 00:00:36.176000,0 days 00:00:16.376000,True,False,True
+5097,2019,Brazilian Grand Prix,KUB,88,Williams,0 days 00:01:10.614000,0 days 00:00:18.229000,0 days 00:00:36.119000,0 days 00:00:16.266000,True,False,True
+5289,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:17.208000,0 days 00:00:27.790000,0 days 00:00:27.572000,0 days 00:00:21.846000,True,False,True
+5292,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:16.790000,0 days 00:00:27.422000,0 days 00:00:27.500000,0 days 00:00:21.868000,True,False,True
+5295,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:16.565000,0 days 00:00:27.441000,0 days 00:00:27.333000,0 days 00:00:21.791000,True,False,True
+5356,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:18.143000,0 days 00:00:28.218000,0 days 00:00:27.656000,0 days 00:00:22.269000,True,False,True
+5359,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:17.460000,0 days 00:00:27.846000,0 days 00:00:27.316000,0 days 00:00:22.298000,True,False,True
+5362,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:17.031000,0 days 00:00:27.827000,0 days 00:00:27.147000,0 days 00:00:22.057000,True,False,True
+5365,2019,Hungarian Grand Prix,PER,11,Racing Point,0 days 00:01:17.287000,0 days 00:00:27.820000,0 days 00:00:27.504000,0 days 00:00:21.963000,True,False,True
+5368,2019,Hungarian Grand Prix,PER,11,Racing Point,0 days 00:01:17.109000,0 days 00:00:27.674000,0 days 00:00:27.478000,0 days 00:00:21.957000,True,False,True
+5371,2019,Hungarian Grand Prix,RIC,3,Renault,0 days 00:01:17.267000,0 days 00:00:27.807000,0 days 00:00:27.483000,0 days 00:00:21.977000,True,False,True
+5374,2019,Hungarian Grand Prix,RIC,3,Renault,0 days 00:01:17.257000,0 days 00:00:27.891000,0 days 00:00:27.404000,0 days 00:00:21.962000,True,False,True
+5377,2019,Hungarian Grand Prix,STR,18,Racing Point,0 days 00:01:18.688000,0 days 00:00:28.176000,0 days 00:00:27.981000,0 days 00:00:22.531000,True,False,True
+5380,2019,Hungarian Grand Prix,STR,18,Racing Point,0 days 00:01:17.796000,0 days 00:00:27.780000,0 days 00:00:27.916000,0 days 00:00:22.100000,True,False,True
+5383,2019,Hungarian Grand Prix,STR,18,Racing Point,0 days 00:01:17.542000,0 days 00:00:27.666000,0 days 00:00:27.723000,0 days 00:00:22.153000,True,False,True
+5386,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.843000,0 days 00:00:28.256000,0 days 00:00:28.060000,0 days 00:00:22.527000,True,False,True
+5389,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.420000,0 days 00:00:28.039000,0 days 00:00:27.896000,0 days 00:00:22.485000,True,False,True
+5392,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.324000,0 days 00:00:28.026000,0 days 00:00:27.908000,0 days 00:00:22.390000,True,False,True
+5610,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.909000,0 days 00:00:16.399000,0 days 00:00:28.674000,0 days 00:00:19.836000,True,False,True
+5613,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.733000,0 days 00:00:16.162000,0 days 00:00:28.670000,0 days 00:00:19.901000,True,False,True
+5616,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.516000,0 days 00:00:16.169000,0 days 00:00:28.532000,0 days 00:00:19.815000,True,False,True
+5637,2019,Austrian Grand Prix,RIC,3,Renault,0 days 00:01:05.265000,0 days 00:00:16.308000,0 days 00:00:29.078000,0 days 00:00:19.879000,True,False,True
+5641,2019,Austrian Grand Prix,RIC,3,Renault,0 days 00:01:04.647000,0 days 00:00:16.206000,0 days 00:00:28.755000,0 days 00:00:19.686000,True,False,True
+5644,2019,Austrian Grand Prix,RIC,3,Renault,0 days 00:01:04.790000,0 days 00:00:16.247000,0 days 00:00:28.830000,0 days 00:00:19.713000,True,False,True
+5661,2019,Austrian Grand Prix,PER,11,Racing Point,0 days 00:01:05.301000,0 days 00:00:16.336000,0 days 00:00:29.048000,0 days 00:00:19.917000,True,False,True
+5663,2019,Austrian Grand Prix,PER,11,Racing Point,0 days 00:01:05.292000,0 days 00:00:16.459000,0 days 00:00:28.995000,0 days 00:00:19.838000,True,False,True
+5666,2019,Austrian Grand Prix,PER,11,Racing Point,0 days 00:01:04.789000,0 days 00:00:16.322000,0 days 00:00:28.563000,0 days 00:00:19.904000,True,False,True
+5669,2019,Austrian Grand Prix,STR,18,Racing Point,0 days 00:01:05.456000,0 days 00:00:16.436000,0 days 00:00:29.096000,0 days 00:00:19.924000,True,False,True
+5675,2019,Austrian Grand Prix,STR,18,Racing Point,0 days 00:01:04.832000,0 days 00:00:16.298000,0 days 00:00:28.734000,0 days 00:00:19.800000,True,False,True
+5686,2019,Austrian Grand Prix,RUS,63,Williams,0 days 00:01:06.726000,0 days 00:00:16.633000,0 days 00:00:29.770000,0 days 00:00:20.323000,True,False,True
+5688,2019,Austrian Grand Prix,RUS,63,Williams,0 days 00:01:06.587000,0 days 00:00:16.702000,0 days 00:00:29.587000,0 days 00:00:20.298000,True,False,True
+5690,2019,Austrian Grand Prix,RUS,63,Williams,0 days 00:01:06.230000,0 days 00:00:16.608000,0 days 00:00:29.416000,0 days 00:00:20.206000,True,False,True
+5693,2019,Austrian Grand Prix,RUS,63,Williams,0 days 00:01:05.908000,0 days 00:00:16.429000,0 days 00:00:29.329000,0 days 00:00:20.150000,True,False,True
+5695,2019,Austrian Grand Prix,RUS,63,Williams,0 days 00:01:05.904000,0 days 00:00:16.390000,0 days 00:00:29.306000,0 days 00:00:20.208000,True,False,True
+5698,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:07.579000,0 days 00:00:16.875000,0 days 00:00:30.114000,0 days 00:00:20.590000,True,False,True
+5700,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:07.074000,0 days 00:00:16.778000,0 days 00:00:29.839000,0 days 00:00:20.457000,True,False,True
+5703,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:06.631000,0 days 00:00:16.715000,0 days 00:00:29.568000,0 days 00:00:20.348000,True,False,True
+5706,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:06.206000,0 days 00:00:16.722000,0 days 00:00:29.344000,0 days 00:00:20.140000,True,False,True
+5910,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:30.567000,0 days 00:00:31.952000,0 days 00:00:40.844000,0 days 00:00:17.771000,True,False,True
+5913,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:29.594000,0 days 00:00:31.336000,0 days 00:00:40.547000,0 days 00:00:17.711000,True,False,True
+5916,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:29.886000,0 days 00:00:31.596000,0 days 00:00:40.602000,0 days 00:00:17.688000,True,False,True
+5919,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:29.345000,0 days 00:00:31.257000,0 days 00:00:40.432000,0 days 00:00:17.656000,True,False,True
+5956,2019,Japanese Grand Prix,HUL,27,Renault,0 days 00:01:30.374000,0 days 00:00:31.727000,0 days 00:00:40.941000,0 days 00:00:17.706000,True,False,True
+5959,2019,Japanese Grand Prix,HUL,27,Renault,0 days 00:01:29.619000,0 days 00:00:31.281000,0 days 00:00:40.655000,0 days 00:00:17.683000,True,False,True
+5962,2019,Japanese Grand Prix,HUL,27,Renault,0 days 00:01:30.112000,0 days 00:00:31.676000,0 days 00:00:40.681000,0 days 00:00:17.755000,True,False,True
+5968,2019,Japanese Grand Prix,RIC,3,Renault,0 days 00:01:30.494000,0 days 00:00:31.957000,0 days 00:00:40.847000,0 days 00:00:17.690000,True,False,True
+5971,2019,Japanese Grand Prix,RIC,3,Renault,0 days 00:01:29.822000,0 days 00:00:31.655000,0 days 00:00:40.456000,0 days 00:00:17.711000,True,False,True
+5975,2019,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:31.197000,0 days 00:00:32.264000,0 days 00:00:41.065000,0 days 00:00:17.868000,True,False,True
+5978,2019,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:30.344000,0 days 00:00:31.474000,0 days 00:00:41.164000,0 days 00:00:17.706000,True,False,True
+5984,2019,Japanese Grand Prix,RUS,63,Williams,0 days 00:01:31.343000,0 days 00:00:32.050000,0 days 00:00:41.134000,0 days 00:00:18.159000,True,False,True
+5987,2019,Japanese Grand Prix,RUS,63,Williams,0 days 00:01:30.970000,0 days 00:00:31.781000,0 days 00:00:40.968000,0 days 00:00:18.221000,True,False,True
+5990,2019,Japanese Grand Prix,RUS,63,Williams,0 days 00:01:30.364000,0 days 00:00:31.500000,0 days 00:00:40.698000,0 days 00:00:18.166000,True,False,True
