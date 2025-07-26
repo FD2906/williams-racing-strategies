@@ -155,7 +155,7 @@ df = df[[
 df.rename(columns = {"Unnamed: 0" : "Id"}, inplace = True) # rename first column to Id
 
 # filter for just Williams, Racing Point, Force India, Haas, and Renault
-df_midfield = df[df['Team'].isin(['Williams', 'Racing Point', 'Force India', 'Haas', 'Renault'])] 
+df_midfield = df[df['Team'].isin(['Williams', 'Racing Point', 'Force India', 'Haas F1 Team', 'Renault'])] 
 
 # ensures best and accurate laps (accurate in Fast-F1 means non-deleted).
 df_best_midfield = df_midfield[(df_midfield['IsPersonalBest']) & (df_midfield['IsAccurate'] == True)] 
@@ -168,10 +168,30 @@ print(df_best_midfield['LapTime'].dtype) # object - we need to convert
 
 time_columns_2 = "LapTime,Sector1Time,Sector2Time,Sector3Time".split(",") # all time cols used
 for col in time_columns_2:
-        df_best_midfield[col] = pd.to_timedelta(df_best_midfield[col])
+        df_best_midfield[col] = pd.to_timedelta(df_best_midfield[col]) # convert time string to pd.timedelta dtype
 
 print(df_best_midfield.info()) # four time values are all timedelta64s - above code works
 print(df_best_midfield.head(10)) # peek first ten rows
 
 # export to a csv
 df_best_midfield.to_csv("processed_data/all_laps_best_midfield.csv")
+
+# This approach provides all personal best times, which is ok, because
+# more lap/sector time data can be used and aggregated for comparing and benchmarking averages
+
+# ------------------- STEP 3 -------------------
+
+"""
+3. Feature Engineering: 
+    3.1. Generate comparison baseline - for each session, find the best/lowest sector times for rivals
+        Forms session-specific baseline for each sector.
+    3.2 Calculate Williams' delta to the fastest midfield team. 
+        E.g. delta = Williams sector time - fastest midfield sector time. Repeat for S1, S2, S3. Store as s1_delta, s2_delta, s3_delta in seconds.
+
+            Example code: pd.to_timedelta(df['Sector1Time']).dt.total_seconds()
+"""
+
+# retrieve sessions, and go 
+for year in [2018, 2019]:
+    for race in circuit_type_manual.keys(): 
+          pass

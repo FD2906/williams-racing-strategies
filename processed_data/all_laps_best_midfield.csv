@@ -1,4 +1,10 @@
 Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Time,IsPersonalBest,Deleted,IsAccurate
+92,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:22.275000,0 days 00:00:27.343000,0 days 00:00:27.568000,0 days 00:00:27.364000,True,False,True
+94,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:21.887000,0 days 00:00:27.372000,0 days 00:00:27.528000,0 days 00:00:26.987000,True,False,True
+99,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:21.567000,0 days 00:00:27.260000,0 days 00:00:27.399000,0 days 00:00:26.908000,True,False,True
+104,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:21.239000,0 days 00:00:27.019000,0 days 00:00:27.506000,0 days 00:00:26.714000,True,False,True
+107,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:21.340000,0 days 00:00:27.203000,0 days 00:00:27.401000,0 days 00:00:26.736000,True,False,True
+110,2018,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:20.936000,0 days 00:00:26.996000,0 days 00:00:27.304000,0 days 00:00:26.636000,True,False,True
 113,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.732000,0 days 00:00:27.227000,0 days 00:00:27.315000,0 days 00:00:27.190000,True,False,True
 118,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.552000,0 days 00:00:27.160000,0 days 00:00:27.273000,0 days 00:00:27.119000,True,False,True
 124,2018,Italian Grand Prix,SAI,55,Renault,0 days 00:01:21.161000,0 days 00:00:26.939000,0 days 00:00:27.224000,0 days 00:00:26.998000,True,False,True
@@ -14,6 +20,9 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 176,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.838000,0 days 00:00:27.303000,0 days 00:00:27.241000,0 days 00:00:27.294000,True,False,True
 179,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.494000,0 days 00:00:27.119000,0 days 00:00:27.231000,0 days 00:00:27.144000,True,False,True
 182,2018,Italian Grand Prix,STR,18,Williams,0 days 00:01:21.627000,0 days 00:00:27.183000,0 days 00:00:27.313000,0 days 00:00:27.131000,True,False,True
+185,2018,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:21.783000,0 days 00:00:27.277000,0 days 00:00:27.518000,0 days 00:00:26.988000,True,False,True
+191,2018,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.505000,0 days 00:00:27.292000,0 days 00:00:39.700000,0 days 00:00:32.513000,True,False,True
+192,2018,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:21.669000,0 days 00:00:27.267000,0 days 00:00:27.382000,0 days 00:00:27.020000,True,False,True
 197,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.605000,0 days 00:00:27.602000,0 days 00:00:27.545000,0 days 00:00:27.458000,True,False,True
 199,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.171000,0 days 00:00:27.332000,0 days 00:00:27.627000,0 days 00:00:27.212000,True,False,True
 202,2018,Italian Grand Prix,SIR,35,Williams,0 days 00:01:22.007000,0 days 00:00:27.196000,0 days 00:00:27.576000,0 days 00:00:27.235000,True,False,True
@@ -60,8 +69,27 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 568,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.706000,0 days 00:00:19.179000,0 days 00:00:34.225000,0 days 00:00:19.302000,True,False,True
 575,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.722000,0 days 00:00:19.085000,0 days 00:00:34.226000,0 days 00:00:19.411000,True,False,True
 580,2018,Monaco Grand Prix,SIR,35,Williams,0 days 00:01:12.521000,0 days 00:00:19.039000,0 days 00:00:34.253000,0 days 00:00:19.229000,True,False,True
+607,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:13.384000,0 days 00:00:19.550000,0 days 00:00:34.367000,0 days 00:00:19.467000,True,False,True
+609,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:13.245000,0 days 00:00:19.334000,0 days 00:00:34.396000,0 days 00:00:19.515000,True,False,True
+612,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.930000,0 days 00:00:19.309000,0 days 00:00:34.145000,0 days 00:00:19.476000,True,False,True
+617,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:13.191000,0 days 00:00:19.205000,0 days 00:00:34.613000,0 days 00:00:19.373000,True,False,True
+619,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.909000,0 days 00:00:19.265000,0 days 00:00:34.165000,0 days 00:00:19.479000,True,False,True
+622,2018,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.728000,0 days 00:00:19.251000,0 days 00:00:34.035000,0 days 00:00:19.442000,True,False,True
 651,2018,Monaco Grand Prix,STR,18,Williams,0 days 00:01:13.682000,0 days 00:00:19.374000,0 days 00:00:34.677000,0 days 00:00:19.631000,True,False,True
 655,2018,Monaco Grand Prix,STR,18,Williams,0 days 00:01:13.323000,0 days 00:00:19.106000,0 days 00:00:34.464000,0 days 00:00:19.753000,True,False,True
+661,2018,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:13.747000,0 days 00:00:19.532000,0 days 00:00:34.720000,0 days 00:00:19.495000,True,False,True
+663,2018,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:13.687000,0 days 00:00:19.529000,0 days 00:00:34.667000,0 days 00:00:19.491000,True,False,True
+666,2018,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:13.393000,0 days 00:00:19.390000,0 days 00:00:34.441000,0 days 00:00:19.562000,True,False,True
+762,2018,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:31.413000,0 days 00:00:28.388000,0 days 00:00:36.400000,0 days 00:00:26.625000,True,False,True
+765,2018,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:28.475000,0 days 00:00:28.263000,0 days 00:00:35.811000,0 days 00:00:24.401000,True,False,True
+768,2018,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:28.143000,0 days 00:00:28.181000,0 days 00:00:35.746000,0 days 00:00:24.216000,True,False,True
+772,2018,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:27.730000,0 days 00:00:28.088000,0 days 00:00:35.553000,0 days 00:00:24.089000,True,False,True
+778,2018,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:27.244000,0 days 00:00:27.954000,0 days 00:00:35.314000,0 days 00:00:23.976000,True,False,True
+781,2018,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:28.895000,0 days 00:00:28.406000,0 days 00:00:36.123000,0 days 00:00:24.366000,True,False,True
+784,2018,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:28.715000,0 days 00:00:28.353000,0 days 00:00:35.906000,0 days 00:00:24.456000,True,False,True
+787,2018,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:28.086000,0 days 00:00:28.190000,0 days 00:00:35.708000,0 days 00:00:24.188000,True,False,True
+792,2018,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:27.522000,0 days 00:00:28.065000,0 days 00:00:35.363000,0 days 00:00:24.094000,True,False,True
+798,2018,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:27.455000,0 days 00:00:28.015000,0 days 00:00:35.458000,0 days 00:00:23.982000,True,False,True
 820,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.679000,0 days 00:00:28.203000,0 days 00:00:36.190000,0 days 00:00:24.286000,True,False,True
 822,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.425000,0 days 00:00:28.309000,0 days 00:00:35.787000,0 days 00:00:24.329000,True,False,True
 825,2018,British Grand Prix,OCO,31,Force India,0 days 00:01:28.279000,0 days 00:00:28.142000,0 days 00:00:35.809000,0 days 00:00:24.328000,True,False,True
@@ -88,18 +116,40 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 988,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:43.394000,0 days 00:00:30.195000,0 days 00:00:44.687000,0 days 00:00:28.512000,True,False,True
 991,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:43.014000,0 days 00:00:29.963000,0 days 00:00:44.663000,0 days 00:00:28.388000,True,False,True
 996,2018,Belgian Grand Prix,PER,11,Racing Point,0 days 00:02:01.894000,0 days 00:00:33.716000,0 days 00:00:55.773000,0 days 00:00:32.405000,True,False,True
+999,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:44.768000,0 days 00:00:30.885000,0 days 00:00:45.029000,0 days 00:00:28.854000,True,False,True
+1001,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:44.159000,0 days 00:00:30.705000,0 days 00:00:44.789000,0 days 00:00:28.665000,True,False,True
+1004,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:43.597000,0 days 00:00:30.417000,0 days 00:00:44.699000,0 days 00:00:28.481000,True,False,True
+1007,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:43.310000,0 days 00:00:30.251000,0 days 00:00:44.505000,0 days 00:00:28.554000,True,False,True
+1010,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:43.042000,0 days 00:00:30.258000,0 days 00:00:44.140000,0 days 00:00:28.644000,True,False,True
+1014,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:02:12.081000,0 days 00:00:39.579000,0 days 00:00:58.793000,0 days 00:00:33.709000,True,False,True
+1015,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:02:05.203000,0 days 00:00:35.401000,0 days 00:00:56.114000,0 days 00:00:33.688000,True,False,True
+1016,2018,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:02:02.122000,0 days 00:00:34.102000,0 days 00:00:55.651000,0 days 00:00:32.369000,True,False,True
+1059,2018,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:45.218000,0 days 00:00:30.726000,0 days 00:00:45.729000,0 days 00:00:28.763000,True,False,True
+1061,2018,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:44.495000,0 days 00:00:30.716000,0 days 00:00:45.086000,0 days 00:00:28.693000,True,False,True
+1064,2018,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:43.834000,0 days 00:00:30.314000,0 days 00:00:45.010000,0 days 00:00:28.510000,True,False,True
+1067,2018,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:43.320000,0 days 00:00:30.294000,0 days 00:00:44.496000,0 days 00:00:28.530000,True,False,True
+1074,2018,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:02:04.933000,0 days 00:00:34.702000,0 days 00:00:57.024000,0 days 00:00:33.207000,True,False,True
 1137,2018,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:44.145000,0 days 00:00:30.687000,0 days 00:00:44.859000,0 days 00:00:28.599000,True,False,True
 1140,2018,Belgian Grand Prix,SAI,55,Renault,0 days 00:01:44.489000,0 days 00:00:30.755000,0 days 00:00:44.941000,0 days 00:00:28.793000,True,False,True
 1152,2018,Belgian Grand Prix,SIR,35,Williams,0 days 00:01:45.850000,0 days 00:00:31.056000,0 days 00:00:45.614000,0 days 00:00:29.180000,True,False,True
 1155,2018,Belgian Grand Prix,SIR,35,Williams,0 days 00:01:44.998000,0 days 00:00:30.824000,0 days 00:00:45.221000,0 days 00:00:28.953000,True,False,True
 1158,2018,Belgian Grand Prix,STR,18,Williams,0 days 00:01:45.593000,0 days 00:00:30.665000,0 days 00:00:45.942000,0 days 00:00:28.986000,True,False,True
 1161,2018,Belgian Grand Prix,STR,18,Williams,0 days 00:01:45.134000,0 days 00:00:30.732000,0 days 00:00:45.650000,0 days 00:00:28.752000,True,False,True
+1277,2018,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:18.045000,0 days 00:00:22.047000,0 days 00:00:29.052000,0 days 00:00:26.946000,True,False,True
+1279,2018,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.639000,0 days 00:00:21.842000,0 days 00:00:29.005000,0 days 00:00:26.792000,True,False,True
+1282,2018,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.618000,0 days 00:00:21.870000,0 days 00:00:28.919000,0 days 00:00:26.829000,True,False,True
+1286,2018,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:33.627000,0 days 00:00:23.452000,0 days 00:00:37.279000,0 days 00:00:32.896000,True,False,True
+1289,2018,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.676000,0 days 00:00:21.922000,0 days 00:00:28.983000,0 days 00:00:26.771000,True,False,True
 1319,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:32.780000,0 days 00:00:22.979000,0 days 00:00:33.239000,0 days 00:00:36.562000,True,False,True
 1320,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:18.310000,0 days 00:00:22.064000,0 days 00:00:29.197000,0 days 00:00:27.049000,True,False,True
 1324,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:17.803000,0 days 00:00:22.024000,0 days 00:00:29.098000,0 days 00:00:26.681000,True,False,True
 1327,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:29.157000,0 days 00:00:23.355000,0 days 00:00:35.259000,0 days 00:00:30.543000,True,False,True
 1328,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:18.450000,0 days 00:00:22.090000,0 days 00:00:29.169000,0 days 00:00:27.191000,True,False,True
 1331,2018,Spanish Grand Prix,SAI,55,Renault,0 days 00:01:17.790000,0 days 00:00:21.990000,0 days 00:00:29.074000,0 days 00:00:26.726000,True,False,True
+1344,2018,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:18.069000,0 days 00:00:22.081000,0 days 00:00:29.154000,0 days 00:00:26.834000,True,False,True
+1348,2018,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.699000,0 days 00:00:21.878000,0 days 00:00:29.011000,0 days 00:00:26.810000,True,False,True
+1352,2018,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:18.209000,0 days 00:00:21.976000,0 days 00:00:29.194000,0 days 00:00:27.039000,True,False,True
+1357,2018,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.835000,0 days 00:00:21.867000,0 days 00:00:29.026000,0 days 00:00:26.942000,True,False,True
 1404,2018,Spanish Grand Prix,OCO,31,Force India,0 days 00:01:34.894000,0 days 00:00:25.007000,0 days 00:00:35.762000,0 days 00:00:34.125000,True,False,True
 1405,2018,Spanish Grand Prix,OCO,31,Force India,0 days 00:01:18.696000,0 days 00:00:22.025000,0 days 00:00:29.643000,0 days 00:00:27.028000,True,False,True
 1434,2018,Spanish Grand Prix,PER,11,Force India,0 days 00:01:18.740000,0 days 00:00:22.070000,0 days 00:00:29.564000,0 days 00:00:27.106000,True,False,True
@@ -111,6 +161,11 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 1583,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.342000,0 days 00:00:26.855000,0 days 00:00:37.805000,0 days 00:00:33.682000,True,False,True
 1588,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.204000,0 days 00:00:27.184000,0 days 00:00:38.179000,0 days 00:00:33.841000,True,False,True
 1591,2018,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:37.985000,0 days 00:00:26.806000,0 days 00:00:37.724000,0 days 00:00:33.455000,True,False,True
+1594,2018,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:39.946000,0 days 00:00:27.090000,0 days 00:00:38.362000,0 days 00:00:34.494000,True,False,True
+1597,2018,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:38.685000,0 days 00:00:26.919000,0 days 00:00:38.042000,0 days 00:00:33.724000,True,False,True
+1600,2018,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:38.939000,0 days 00:00:26.984000,0 days 00:00:38.216000,0 days 00:00:33.739000,True,False,True
+1603,2018,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:38.367000,0 days 00:00:26.806000,0 days 00:00:37.868000,0 days 00:00:33.693000,True,False,True
+1606,2018,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:38.320000,0 days 00:00:26.772000,0 days 00:00:37.737000,0 days 00:00:33.811000,True,False,True
 1609,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.912000,0 days 00:00:27.024000,0 days 00:00:38.134000,0 days 00:00:33.754000,True,False,True
 1617,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.681000,0 days 00:00:26.861000,0 days 00:00:38.038000,0 days 00:00:33.782000,True,False,True
 1620,2018,Singapore Grand Prix,OCO,31,Racing Point,0 days 00:01:38.534000,0 days 00:00:26.853000,0 days 00:00:38.035000,0 days 00:00:33.646000,True,False,True
@@ -125,10 +180,20 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 1659,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:39.401000,0 days 00:00:27.270000,0 days 00:00:38.180000,0 days 00:00:33.951000,True,False,True
 1662,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:39.103000,0 days 00:00:27.122000,0 days 00:00:38.277000,0 days 00:00:33.704000,True,False,True
 1665,2018,Singapore Grand Prix,SAI,55,Renault,0 days 00:01:38.716000,0 days 00:00:27.030000,0 days 00:00:37.835000,0 days 00:00:33.851000,True,False,True
+1712,2018,Singapore Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.817000,0 days 00:00:27.136000,0 days 00:00:38.402000,0 days 00:00:34.279000,True,False,True
+1715,2018,Singapore Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.644000,0 days 00:00:27.216000,0 days 00:00:38.369000,0 days 00:00:34.059000,True,False,True
 1734,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:42.724000,0 days 00:00:27.509000,0 days 00:00:40.026000,0 days 00:00:35.189000,True,False,True
 1736,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:41.403000,0 days 00:00:27.488000,0 days 00:00:39.154000,0 days 00:00:34.761000,True,False,True
 1739,2018,Singapore Grand Prix,SIR,35,Williams,0 days 00:01:41.263000,0 days 00:00:27.455000,0 days 00:00:39.277000,0 days 00:00:34.531000,True,False,True
 1742,2018,Singapore Grand Prix,STR,18,Williams,0 days 00:01:41.334000,0 days 00:00:27.364000,0 days 00:00:39.026000,0 days 00:00:34.944000,True,False,True
+1890,2018,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:09.277000,0 days 00:00:17.997000,0 days 00:00:35.271000,0 days 00:00:16.009000,True,False,True
+1893,2018,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:08.735000,0 days 00:00:17.769000,0 days 00:00:34.922000,0 days 00:00:16.044000,True,False,True
+1898,2018,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:08.239000,0 days 00:00:17.683000,0 days 00:00:34.603000,0 days 00:00:15.953000,True,False,True
+1901,2018,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:08.517000,0 days 00:00:17.773000,0 days 00:00:34.796000,0 days 00:00:15.948000,True,False,True
+1931,2018,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:09.120000,0 days 00:00:17.857000,0 days 00:00:35.113000,0 days 00:00:16.150000,True,False,True
+1934,2018,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:08.474000,0 days 00:00:17.802000,0 days 00:00:34.707000,0 days 00:00:15.965000,True,False,True
+1937,2018,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:08.828000,0 days 00:00:17.653000,0 days 00:00:35.126000,0 days 00:00:16.049000,True,False,True
+1940,2018,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:08.659000,0 days 00:00:17.613000,0 days 00:00:34.943000,0 days 00:00:16.103000,True,False,True
 1943,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.588000,0 days 00:00:17.989000,0 days 00:00:35.526000,0 days 00:00:16.073000,True,False,True
 1946,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:09.217000,0 days 00:00:17.857000,0 days 00:00:35.391000,0 days 00:00:15.969000,True,False,True
 1950,2018,Brazilian Grand Prix,PER,11,Racing Point,0 days 00:01:08.741000,0 days 00:00:17.747000,0 days 00:00:35.014000,0 days 00:00:15.980000,True,False,True
@@ -152,8 +217,26 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 2164,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:39.502000,0 days 00:00:33.588000,0 days 00:00:36.806000,0 days 00:00:29.108000,True,False,True
 2166,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:37.966000,0 days 00:00:33.619000,0 days 00:00:36.313000,0 days 00:00:28.034000,True,False,True
 2167,2018,Hungarian Grand Prix,SAI,55,Renault,0 days 00:01:36.743000,0 days 00:00:32.955000,0 days 00:00:36.023000,0 days 00:00:27.765000,True,False,True
+2254,2018,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:18.314000,0 days 00:00:28.125000,0 days 00:00:28.229000,0 days 00:00:21.960000,True,False,True
+2258,2018,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:32.968000,0 days 00:00:31.011000,0 days 00:00:32.392000,0 days 00:00:29.565000,True,False,True
+2262,2018,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:41.554000,0 days 00:00:33.878000,0 days 00:00:37.855000,0 days 00:00:29.821000,True,False,True
+2263,2018,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:40.550000,0 days 00:00:34.003000,0 days 00:00:37.098000,0 days 00:00:29.449000,True,False,True
+2266,2018,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.858000,0 days 00:00:34.249000,0 days 00:00:36.639000,0 days 00:00:28.970000,True,False,True
+2282,2018,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:33.650000,0 days 00:00:31.462000,0 days 00:00:32.317000,0 days 00:00:29.871000,True,False,True
+2286,2018,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:41.762000,0 days 00:00:34.578000,0 days 00:00:37.506000,0 days 00:00:29.678000,True,False,True
+2287,2018,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:41.368000,0 days 00:00:33.909000,0 days 00:00:37.267000,0 days 00:00:30.192000,True,False,True
+2291,2018,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:40.593000,0 days 00:00:34.155000,0 days 00:00:37.294000,0 days 00:00:29.144000,True,False,True
 2347,2018,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:36.506000,0 days 00:00:32.777000,0 days 00:00:33.467000,0 days 00:00:30.262000,True,False,True
 2424,2018,Hungarian Grand Prix,OCO,31,Force India,0 days 00:01:19.142000,0 days 00:00:28.462000,0 days 00:00:28.621000,0 days 00:00:22.059000,True,False,True
+2543,2018,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.707000,0 days 00:00:16.404000,0 days 00:00:28.661000,0 days 00:00:19.642000,True,False,True
+2548,2018,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.242000,0 days 00:00:16.299000,0 days 00:00:28.419000,0 days 00:00:19.524000,True,False,True
+2551,2018,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.059000,0 days 00:00:16.280000,0 days 00:00:28.319000,0 days 00:00:19.460000,True,False,True
+2554,2018,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:03.892000,0 days 00:00:16.277000,0 days 00:00:28.230000,0 days 00:00:19.385000,True,False,True
+2582,2018,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.761000,0 days 00:00:16.505000,0 days 00:00:28.554000,0 days 00:00:19.702000,True,False,True
+2587,2018,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.460000,0 days 00:00:16.362000,0 days 00:00:28.466000,0 days 00:00:19.632000,True,False,True
+2590,2018,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.291000,0 days 00:00:16.277000,0 days 00:00:28.396000,0 days 00:00:19.618000,True,False,True
+2596,2018,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.764000,0 days 00:00:16.612000,0 days 00:00:28.524000,0 days 00:00:19.628000,True,False,True
+2599,2018,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.051000,0 days 00:00:16.247000,0 days 00:00:28.240000,0 days 00:00:19.564000,True,False,True
 2602,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:05.137000,0 days 00:00:16.389000,0 days 00:00:28.691000,0 days 00:00:20.057000,True,False,True
 2607,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.948000,0 days 00:00:16.558000,0 days 00:00:28.515000,0 days 00:00:19.875000,True,False,True
 2610,2018,Austrian Grand Prix,SAI,55,Renault,0 days 00:01:04.561000,0 days 00:00:16.341000,0 days 00:00:28.380000,0 days 00:00:19.840000,True,False,True
@@ -175,12 +258,19 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 2740,2018,Austrian Grand Prix,PER,11,Force India,0 days 00:01:05.511000,0 days 00:00:16.417000,0 days 00:00:29.058000,0 days 00:00:20.036000,True,False,True
 2746,2018,Austrian Grand Prix,PER,11,Force India,0 days 00:01:05.279000,0 days 00:00:16.326000,0 days 00:00:28.936000,0 days 00:00:20.017000,True,False,True
 2754,2018,Austrian Grand Prix,SIR,35,Williams,0 days 00:01:05.322000,0 days 00:00:16.523000,0 days 00:00:28.971000,0 days 00:00:19.828000,True,False,True
+2827,2018,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:30.504000,0 days 00:00:32.201000,0 days 00:00:40.654000,0 days 00:00:17.649000,True,False,True
+2832,2018,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.724000,0 days 00:00:31.562000,0 days 00:00:40.567000,0 days 00:00:17.595000,True,False,True
+2835,2018,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.678000,0 days 00:00:31.625000,0 days 00:00:40.552000,0 days 00:00:17.501000,True,False,True
+2840,2018,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.761000,0 days 00:00:31.418000,0 days 00:00:40.720000,0 days 00:00:17.623000,True,False,True
 2874,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:29.899000,0 days 00:00:31.794000,0 days 00:00:40.547000,0 days 00:00:17.558000,True,False,True
 2877,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:29.538000,0 days 00:00:31.814000,0 days 00:00:40.258000,0 days 00:00:17.466000,True,False,True
 2882,2018,Japanese Grand Prix,OCO,31,Racing Point,0 days 00:01:30.126000,0 days 00:00:31.838000,0 days 00:00:40.692000,0 days 00:00:17.596000,True,False,True
 2902,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:30.247000,0 days 00:00:31.904000,0 days 00:00:40.645000,0 days 00:00:17.698000,True,False,True
 2907,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:29.567000,0 days 00:00:31.671000,0 days 00:00:40.367000,0 days 00:00:17.529000,True,False,True
 2911,2018,Japanese Grand Prix,PER,11,Racing Point,0 days 00:01:37.229000,0 days 00:00:32.169000,0 days 00:00:43.010000,0 days 00:00:22.050000,True,False,True
+2928,2018,Japanese Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:30.741000,0 days 00:00:32.095000,0 days 00:00:40.948000,0 days 00:00:17.698000,True,False,True
+2933,2018,Japanese Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:30.219000,0 days 00:00:31.757000,0 days 00:00:40.791000,0 days 00:00:17.671000,True,False,True
+2936,2018,Japanese Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:30.226000,0 days 00:00:31.906000,0 days 00:00:40.743000,0 days 00:00:17.577000,True,False,True
 2942,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.587000,0 days 00:00:31.927000,0 days 00:00:40.872000,0 days 00:00:17.788000,True,False,True
 2945,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.236000,0 days 00:00:31.880000,0 days 00:00:40.670000,0 days 00:00:17.686000,True,False,True
 2948,2018,Japanese Grand Prix,SAI,55,Renault,0 days 00:01:30.490000,0 days 00:00:32.016000,0 days 00:00:40.759000,0 days 00:00:17.715000,True,False,True
@@ -203,6 +293,12 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 3138,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.643000,0 days 00:00:26.652000,0 days 00:00:27.100000,0 days 00:00:26.891000,True,False,True
 3141,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.967000,0 days 00:00:26.899000,0 days 00:00:27.078000,0 days 00:00:26.990000,True,False,True
 3146,2019,Italian Grand Prix,STR,18,Racing Point,0 days 00:01:20.498000,0 days 00:00:26.728000,0 days 00:00:27.097000,0 days 00:00:26.673000,True,False,True
+3182,2019,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:21.310000,0 days 00:00:26.789000,0 days 00:00:27.174000,0 days 00:00:27.347000,True,False,True
+3184,2019,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:21.201000,0 days 00:00:26.879000,0 days 00:00:27.330000,0 days 00:00:26.992000,True,False,True
+3187,2019,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:20.616000,0 days 00:00:26.795000,0 days 00:00:27.008000,0 days 00:00:26.813000,True,False,True
+3190,2019,Italian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:20.615000,0 days 00:00:26.770000,0 days 00:00:27.097000,0 days 00:00:26.748000,True,False,True
+3243,2019,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:21.241000,0 days 00:00:27.038000,0 days 00:00:27.099000,0 days 00:00:27.104000,True,False,True
+3248,2019,Italian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:20.784000,0 days 00:00:26.858000,0 days 00:00:27.077000,0 days 00:00:26.849000,True,False,True
 3251,2019,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:21.385000,0 days 00:00:27.014000,0 days 00:00:27.462000,0 days 00:00:26.909000,True,False,True
 3253,2019,Italian Grand Prix,PER,11,Racing Point,0 days 00:01:21.291000,0 days 00:00:26.992000,0 days 00:00:27.431000,0 days 00:00:26.868000,True,False,True
 3257,2019,Italian Grand Prix,RUS,63,Williams,0 days 00:01:22.217000,0 days 00:00:27.440000,0 days 00:00:27.399000,0 days 00:00:27.378000,True,False,True
@@ -210,6 +306,15 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 3265,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:23.966000,0 days 00:00:28.013000,0 days 00:00:28.065000,0 days 00:00:27.888000,True,False,True
 3267,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:22.922000,0 days 00:00:27.514000,0 days 00:00:27.590000,0 days 00:00:27.818000,True,False,True
 3271,2019,Italian Grand Prix,KUB,88,Williams,0 days 00:01:22.356000,0 days 00:00:27.366000,0 days 00:00:27.421000,0 days 00:00:27.569000,True,False,True
+3402,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:12.869000,0 days 00:00:19.327000,0 days 00:00:34.096000,0 days 00:00:19.446000,True,False,True
+3404,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:12.309000,0 days 00:00:19.113000,0 days 00:00:33.991000,0 days 00:00:19.205000,True,False,True
+3406,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.865000,0 days 00:00:19.033000,0 days 00:00:33.654000,0 days 00:00:19.178000,True,False,True
+3409,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:12.066000,0 days 00:00:18.799000,0 days 00:00:34.039000,0 days 00:00:19.228000,True,False,True
+3413,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.795000,0 days 00:00:18.941000,0 days 00:00:33.607000,0 days 00:00:19.247000,True,False,True
+3415,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.363000,0 days 00:00:18.696000,0 days 00:00:33.437000,0 days 00:00:19.230000,True,False,True
+3418,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.251000,0 days 00:00:18.693000,0 days 00:00:33.528000,0 days 00:00:19.030000,True,False,True
+3421,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.232000,0 days 00:00:18.728000,0 days 00:00:33.536000,0 days 00:00:18.968000,True,False,True
+3423,2019,Monaco Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:11.109000,0 days 00:00:18.712000,0 days 00:00:33.425000,0 days 00:00:18.972000,True,False,True
 3426,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:21.771000,0 days 00:00:21.163000,0 days 00:00:37.497000,0 days 00:00:23.111000,True,False,True
 3427,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:12.943000,0 days 00:00:19.096000,0 days 00:00:34.226000,0 days 00:00:19.621000,True,False,True
 3429,2019,Monaco Grand Prix,RIC,3,Renault,0 days 00:01:12.602000,0 days 00:00:19.158000,0 days 00:00:34.080000,0 days 00:00:19.364000,True,False,True
@@ -225,6 +330,13 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 3553,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:12.457000,0 days 00:00:18.939000,0 days 00:00:34.284000,0 days 00:00:19.234000,True,False,True
 3555,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:11.850000,0 days 00:00:18.865000,0 days 00:00:33.858000,0 days 00:00:19.127000,True,False,True
 3559,2019,Monaco Grand Prix,HUL,27,Renault,0 days 00:01:11.670000,0 days 00:00:18.785000,0 days 00:00:33.824000,0 days 00:00:19.061000,True,False,True
+3584,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:14.311000,0 days 00:00:19.726000,0 days 00:00:34.816000,0 days 00:00:19.769000,True,False,True
+3586,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:13.155000,0 days 00:00:19.417000,0 days 00:00:34.201000,0 days 00:00:19.537000,True,False,True
+3588,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.672000,0 days 00:00:19.211000,0 days 00:00:34.059000,0 days 00:00:19.402000,True,False,True
+3591,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:11.837000,0 days 00:00:18.965000,0 days 00:00:33.670000,0 days 00:00:19.202000,True,False,True
+3595,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:14.475000,0 days 00:00:19.039000,0 days 00:00:35.146000,0 days 00:00:20.290000,True,False,True
+3597,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.259000,0 days 00:00:19.004000,0 days 00:00:33.973000,0 days 00:00:19.282000,True,False,True
+3600,2019,Monaco Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:12.027000,0 days 00:00:18.995000,0 days 00:00:33.758000,0 days 00:00:19.274000,True,False,True
 3656,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:30.161000,0 days 00:00:21.515000,0 days 00:00:40.403000,0 days 00:00:28.243000,True,False,True
 3657,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:13.767000,0 days 00:00:19.379000,0 days 00:00:34.689000,0 days 00:00:19.699000,True,False,True
 3659,2019,Monaco Grand Prix,PER,11,Racing Point,0 days 00:01:13.362000,0 days 00:00:19.418000,0 days 00:00:34.400000,0 days 00:00:19.544000,True,False,True
@@ -255,10 +367,18 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 3896,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.397000,0 days 00:00:27.495000,0 days 00:00:35.275000,0 days 00:00:23.627000,True,False,True
 3899,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.717000,0 days 00:00:27.621000,0 days 00:00:35.381000,0 days 00:00:23.715000,True,False,True
 3902,2019,British Grand Prix,HUL,27,Renault,0 days 00:01:26.386000,0 days 00:00:27.607000,0 days 00:00:35.115000,0 days 00:00:23.664000,True,False,True
+3956,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:26.753000,0 days 00:00:27.988000,0 days 00:00:35.253000,0 days 00:00:23.512000,True,False,True
+3960,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:26.607000,0 days 00:00:28.001000,0 days 00:00:35.052000,0 days 00:00:23.554000,True,False,True
+3962,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:26.347000,0 days 00:00:27.859000,0 days 00:00:34.996000,0 days 00:00:23.492000,True,False,True
+3965,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:27.581000,0 days 00:00:28.332000,0 days 00:00:35.379000,0 days 00:00:23.870000,True,False,True
+3968,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:27.549000,0 days 00:00:28.271000,0 days 00:00:35.478000,0 days 00:00:23.800000,True,False,True
+3970,2019,British Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:26.757000,0 days 00:00:27.955000,0 days 00:00:35.173000,0 days 00:00:23.629000,True,False,True
 3973,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:27.392000,0 days 00:00:27.935000,0 days 00:00:35.653000,0 days 00:00:23.804000,True,False,True
 3975,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.915000,0 days 00:00:27.788000,0 days 00:00:35.188000,0 days 00:00:23.939000,True,False,True
 3978,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.649000,0 days 00:00:27.791000,0 days 00:00:35.067000,0 days 00:00:23.791000,True,False,True
 3981,2019,British Grand Prix,PER,11,Racing Point,0 days 00:01:26.928000,0 days 00:00:27.936000,0 days 00:00:35.238000,0 days 00:00:23.754000,True,False,True
+3987,2019,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:27.005000,0 days 00:00:27.971000,0 days 00:00:35.475000,0 days 00:00:23.559000,True,False,True
+3989,2019,British Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:26.662000,0 days 00:00:27.974000,0 days 00:00:35.157000,0 days 00:00:23.531000,True,False,True
 4006,2019,British Grand Prix,STR,18,Racing Point,0 days 00:01:27.380000,0 days 00:00:28,0 days 00:00:35.690000,0 days 00:00:23.690000,True,False,True
 4009,2019,British Grand Prix,STR,18,Racing Point,0 days 00:01:26.762000,0 days 00:00:27.749000,0 days 00:00:35.246000,0 days 00:00:23.767000,True,False,True
 4015,2019,British Grand Prix,RUS,63,Williams,0 days 00:01:28.912000,0 days 00:00:28.419000,0 days 00:00:36.393000,0 days 00:00:24.100000,True,False,True
@@ -271,6 +391,11 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 4054,2019,Belgian Grand Prix,PER,11,Racing Point,0 days 00:01:44.706000,0 days 00:00:30.492000,0 days 00:00:45.463000,0 days 00:00:28.751000,True,False,True
 4074,2019,Belgian Grand Prix,STR,18,Racing Point,0 days 00:01:46,0 days 00:00:30.843000,0 days 00:00:46.273000,0 days 00:00:28.884000,True,False,True
 4078,2019,Belgian Grand Prix,STR,18,Racing Point,0 days 00:01:45.047000,0 days 00:00:30.567000,0 days 00:00:45.713000,0 days 00:00:28.767000,True,False,True
+4082,2019,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:45.839000,0 days 00:00:31.214000,0 days 00:00:45.734000,0 days 00:00:28.891000,True,False,True
+4087,2019,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:45.149000,0 days 00:00:30.781000,0 days 00:00:45.424000,0 days 00:00:28.944000,True,False,True
+4090,2019,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:44.738000,0 days 00:00:30.450000,0 days 00:00:45.400000,0 days 00:00:28.888000,True,False,True
+4093,2019,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:45.711000,0 days 00:00:30.686000,0 days 00:00:46.028000,0 days 00:00:28.997000,True,False,True
+4096,2019,Belgian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:45.086000,0 days 00:00:30.706000,0 days 00:00:45.416000,0 days 00:00:28.964000,True,False,True
 4112,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:45.899000,0 days 00:00:30.753000,0 days 00:00:46.365000,0 days 00:00:28.781000,True,False,True
 4116,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:45.196000,0 days 00:00:30.503000,0 days 00:00:46.034000,0 days 00:00:28.659000,True,False,True
 4119,2019,Belgian Grand Prix,HUL,27,Renault,0 days 00:01:44.549000,0 days 00:00:30.379000,0 days 00:00:45.682000,0 days 00:00:28.488000,True,False,True
@@ -280,6 +405,17 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 4135,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:44.103000,0 days 00:00:30.376000,0 days 00:00:45.323000,0 days 00:00:28.404000,True,False,True
 4138,2019,Belgian Grand Prix,RIC,3,Renault,0 days 00:01:44.257000,0 days 00:00:30.616000,0 days 00:00:45.206000,0 days 00:00:28.435000,True,False,True
 4214,2019,Belgian Grand Prix,RUS,63,Williams,0 days 00:01:47.548000,0 days 00:00:31.465000,0 days 00:00:46.600000,0 days 00:00:29.483000,True,False,True
+4256,2019,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:45.694000,0 days 00:00:30.970000,0 days 00:00:45.867000,0 days 00:00:28.857000,True,False,True
+4261,2019,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:45.399000,0 days 00:00:30.755000,0 days 00:00:45.746000,0 days 00:00:28.898000,True,False,True
+4264,2019,Belgian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:44.797000,0 days 00:00:30.536000,0 days 00:00:45.504000,0 days 00:00:28.757000,True,False,True
+4376,2019,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:18.042000,0 days 00:00:21.843000,0 days 00:00:28.741000,0 days 00:00:27.458000,True,False,True
+4381,2019,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.290000,0 days 00:00:21.675000,0 days 00:00:28.483000,0 days 00:00:27.132000,True,False,True
+4384,2019,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.066000,0 days 00:00:21.780000,0 days 00:00:28.482000,0 days 00:00:26.804000,True,False,True
+4387,2019,Spanish Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:16.911000,0 days 00:00:21.698000,0 days 00:00:28.448000,0 days 00:00:26.765000,True,False,True
+4392,2019,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.669000,0 days 00:00:21.923000,0 days 00:00:28.705000,0 days 00:00:27.041000,True,False,True
+4395,2019,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.531000,0 days 00:00:21.890000,0 days 00:00:28.607000,0 days 00:00:27.034000,True,False,True
+4398,2019,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.272000,0 days 00:00:21.833000,0 days 00:00:28.595000,0 days 00:00:26.844000,True,False,True
+4401,2019,Spanish Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:16.922000,0 days 00:00:21.845000,0 days 00:00:28.465000,0 days 00:00:26.612000,True,False,True
 4427,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:36.541000,0 days 00:00:22.166000,0 days 00:00:41.095000,0 days 00:00:33.280000,True,False,True
 4428,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:18.550000,0 days 00:00:22.107000,0 days 00:00:29.261000,0 days 00:00:27.182000,True,False,True
 4431,2019,Spanish Grand Prix,RIC,3,Renault,0 days 00:01:18.385000,0 days 00:00:21.968000,0 days 00:00:29.424000,0 days 00:00:26.993000,True,False,True
@@ -310,9 +446,15 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 4714,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:39.909000,0 days 00:00:27.213000,0 days 00:00:38.342000,0 days 00:00:34.354000,True,False,True
 4717,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.754000,0 days 00:00:27.080000,0 days 00:00:38.159000,0 days 00:00:33.515000,True,False,True
 4720,2019,Singapore Grand Prix,PER,11,Racing Point,0 days 00:01:38.620000,0 days 00:00:27.036000,0 days 00:00:38.021000,0 days 00:00:33.563000,True,False,True
+4763,2019,Singapore Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:40.858000,0 days 00:00:27.264000,0 days 00:00:38.530000,0 days 00:00:35.064000,True,False,True
+4768,2019,Singapore Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.942000,0 days 00:00:27.289000,0 days 00:00:38.655000,0 days 00:00:33.998000,True,False,True
+4771,2019,Singapore Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:39.650000,0 days 00:00:27.057000,0 days 00:00:38.392000,0 days 00:00:34.201000,True,False,True
 4784,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:40.345000,0 days 00:00:27.416000,0 days 00:00:38.477000,0 days 00:00:34.452000,True,False,True
 4786,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:40.188000,0 days 00:00:27.374000,0 days 00:00:38.489000,0 days 00:00:34.325000,True,False,True
 4789,2019,Singapore Grand Prix,STR,18,Racing Point,0 days 00:01:39.979000,0 days 00:00:27.230000,0 days 00:00:38.626000,0 days 00:00:34.123000,True,False,True
+4792,2019,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:40.615000,0 days 00:00:27.334000,0 days 00:00:39.046000,0 days 00:00:34.235000,True,False,True
+4794,2019,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:40.465000,0 days 00:00:27.358000,0 days 00:00:38.714000,0 days 00:00:34.393000,True,False,True
+4797,2019,Singapore Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:40.277000,0 days 00:00:27.256000,0 days 00:00:38.647000,0 days 00:00:34.374000,True,False,True
 4800,2019,Singapore Grand Prix,RUS,63,Williams,0 days 00:01:40.900000,0 days 00:00:27.522000,0 days 00:00:38.965000,0 days 00:00:34.413000,True,False,True
 4802,2019,Singapore Grand Prix,RUS,63,Williams,0 days 00:01:40.867000,0 days 00:00:27.524000,0 days 00:00:38.957000,0 days 00:00:34.386000,True,False,True
 4808,2019,Singapore Grand Prix,KUB,88,Williams,0 days 00:01:41.186000,0 days 00:00:27.593000,0 days 00:00:39.054000,0 days 00:00:34.539000,True,False,True
@@ -320,6 +462,13 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 4819,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:38.399000,0 days 00:00:26.926000,0 days 00:00:37.758000,0 days 00:00:33.715000,True,False,True
 4825,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:39.094000,0 days 00:00:27.128000,0 days 00:00:38.172000,0 days 00:00:33.794000,True,False,True
 4828,2019,Singapore Grand Prix,RIC,3,Renault,0 days 00:01:38.095000,0 days 00:00:26.910000,0 days 00:00:37.637000,0 days 00:00:33.548000,True,False,True
+4947,2019,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:09.197000,0 days 00:00:17.881000,0 days 00:00:35.196000,0 days 00:00:16.120000,True,False,True
+4952,2019,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:08.705000,0 days 00:00:17.786000,0 days 00:00:34.830000,0 days 00:00:16.089000,True,False,True
+4957,2019,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:09.484000,0 days 00:00:17.904000,0 days 00:00:35.378000,0 days 00:00:16.202000,True,False,True
+4960,2019,Brazilian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:08.854000,0 days 00:00:17.814000,0 days 00:00:34.927000,0 days 00:00:16.113000,True,False,True
+4983,2019,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:08.875000,0 days 00:00:17.756000,0 days 00:00:35.029000,0 days 00:00:16.090000,True,False,True
+4989,2019,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:08.803000,0 days 00:00:17.768000,0 days 00:00:34.932000,0 days 00:00:16.103000,True,False,True
+4995,2019,Brazilian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:09.037000,0 days 00:00:17.765000,0 days 00:00:35.155000,0 days 00:00:16.117000,True,False,True
 5011,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:09.269000,0 days 00:00:18.032000,0 days 00:00:35.181000,0 days 00:00:16.056000,True,False,True
 5014,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:09.086000,0 days 00:00:17.951000,0 days 00:00:35.153000,0 days 00:00:15.982000,True,False,True
 5017,2019,Brazilian Grand Prix,RIC,3,Renault,0 days 00:01:08.903000,0 days 00:00:17.840000,0 days 00:00:35.052000,0 days 00:00:16.011000,True,False,True
@@ -337,9 +486,19 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 5088,2019,Brazilian Grand Prix,RUS,63,Williams,0 days 00:01:10.126000,0 days 00:00:18.228000,0 days 00:00:35.669000,0 days 00:00:16.229000,True,False,True
 5092,2019,Brazilian Grand Prix,KUB,88,Williams,0 days 00:01:10.751000,0 days 00:00:18.199000,0 days 00:00:36.176000,0 days 00:00:16.376000,True,False,True
 5097,2019,Brazilian Grand Prix,KUB,88,Williams,0 days 00:01:10.614000,0 days 00:00:18.229000,0 days 00:00:36.119000,0 days 00:00:16.266000,True,False,True
+5248,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:31.611000,0 days 00:00:27.855000,0 days 00:00:36.354000,0 days 00:00:27.402000,True,False,True
+5249,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.933000,0 days 00:00:27.745000,0 days 00:00:27.129000,0 days 00:00:23.059000,True,False,True
+5252,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:16.978000,0 days 00:00:27.769000,0 days 00:00:27.204000,0 days 00:00:22.005000,True,False,True
+5257,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:16.534000,0 days 00:00:27.550000,0 days 00:00:27.031000,0 days 00:00:21.953000,True,False,True
+5260,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:16.319000,0 days 00:00:27.457000,0 days 00:00:26.997000,0 days 00:00:21.865000,True,False,True
+5263,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:17.480000,0 days 00:00:27.935000,0 days 00:00:27.459000,0 days 00:00:22.086000,True,False,True
+5266,2019,Hungarian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:16.013000,0 days 00:00:27.492000,0 days 00:00:26.861000,0 days 00:00:21.660000,True,False,True
 5289,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:17.208000,0 days 00:00:27.790000,0 days 00:00:27.572000,0 days 00:00:21.846000,True,False,True
 5292,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:16.790000,0 days 00:00:27.422000,0 days 00:00:27.500000,0 days 00:00:21.868000,True,False,True
 5295,2019,Hungarian Grand Prix,HUL,27,Renault,0 days 00:01:16.565000,0 days 00:00:27.441000,0 days 00:00:27.333000,0 days 00:00:21.791000,True,False,True
+5343,2019,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.446000,0 days 00:00:27.807000,0 days 00:00:27.199000,0 days 00:00:22.440000,True,False,True
+5347,2019,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:16.122000,0 days 00:00:27.553000,0 days 00:00:26.813000,0 days 00:00:21.756000,True,False,True
+5350,2019,Hungarian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:17.081000,0 days 00:00:27.712000,0 days 00:00:27.229000,0 days 00:00:22.140000,True,False,True
 5356,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:18.143000,0 days 00:00:28.218000,0 days 00:00:27.656000,0 days 00:00:22.269000,True,False,True
 5359,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:17.460000,0 days 00:00:27.846000,0 days 00:00:27.316000,0 days 00:00:22.298000,True,False,True
 5362,2019,Hungarian Grand Prix,RUS,63,Williams,0 days 00:01:17.031000,0 days 00:00:27.827000,0 days 00:00:27.147000,0 days 00:00:22.057000,True,False,True
@@ -353,6 +512,18 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 5386,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.843000,0 days 00:00:28.256000,0 days 00:00:28.060000,0 days 00:00:22.527000,True,False,True
 5389,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.420000,0 days 00:00:28.039000,0 days 00:00:27.896000,0 days 00:00:22.485000,True,False,True
 5392,2019,Hungarian Grand Prix,KUB,88,Williams,0 days 00:01:18.324000,0 days 00:00:28.026000,0 days 00:00:27.908000,0 days 00:00:22.390000,True,False,True
+5481,2019,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.796000,0 days 00:00:16.581000,0 days 00:00:28.635000,0 days 00:00:19.580000,True,False,True
+5485,2019,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.778000,0 days 00:00:16.513000,0 days 00:00:28.636000,0 days 00:00:19.629000,True,False,True
+5490,2019,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.466000,0 days 00:00:16.413000,0 days 00:00:28.515000,0 days 00:00:19.538000,True,False,True
+5495,2019,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:05.220000,0 days 00:00:16.612000,0 days 00:00:28.843000,0 days 00:00:19.765000,True,False,True
+5498,2019,Austrian Grand Prix,MAG,20,Haas F1 Team,0 days 00:01:04.072000,0 days 00:00:16.444000,0 days 00:00:28.350000,0 days 00:00:19.278000,True,False,True
+5592,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.992000,0 days 00:00:16.664000,0 days 00:00:28.745000,0 days 00:00:19.583000,True,False,True
+5594,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.800000,0 days 00:00:16.529000,0 days 00:00:28.719000,0 days 00:00:19.552000,True,False,True
+5597,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.628000,0 days 00:00:16.551000,0 days 00:00:28.601000,0 days 00:00:19.476000,True,False,True
+5599,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.552000,0 days 00:00:16.448000,0 days 00:00:28.636000,0 days 00:00:19.468000,True,False,True
+5602,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.759000,0 days 00:00:16.567000,0 days 00:00:28.669000,0 days 00:00:19.523000,True,False,True
+5605,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.491000,0 days 00:00:16.564000,0 days 00:00:28.473000,0 days 00:00:19.454000,True,False,True
+5607,2019,Austrian Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:04.490000,0 days 00:00:16.442000,0 days 00:00:28.652000,0 days 00:00:19.396000,True,False,True
 5610,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.909000,0 days 00:00:16.399000,0 days 00:00:28.674000,0 days 00:00:19.836000,True,False,True
 5613,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.733000,0 days 00:00:16.162000,0 days 00:00:28.670000,0 days 00:00:19.901000,True,False,True
 5616,2019,Austrian Grand Prix,HUL,27,Renault,0 days 00:01:04.516000,0 days 00:00:16.169000,0 days 00:00:28.532000,0 days 00:00:19.815000,True,False,True
@@ -373,6 +544,10 @@ Id,Year,Race,Driver,DriverNumber,Team,LapTime,Sector1Time,Sector2Time,Sector3Tim
 5700,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:07.074000,0 days 00:00:16.778000,0 days 00:00:29.839000,0 days 00:00:20.457000,True,False,True
 5703,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:06.631000,0 days 00:00:16.715000,0 days 00:00:29.568000,0 days 00:00:20.348000,True,False,True
 5706,2019,Austrian Grand Prix,KUB,88,Williams,0 days 00:01:06.206000,0 days 00:00:16.722000,0 days 00:00:29.344000,0 days 00:00:20.140000,True,False,True
+5882,2019,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.572000,0 days 00:00:31.211000,0 days 00:00:40.585000,0 days 00:00:17.776000,True,False,True
+5886,2019,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.494000,0 days 00:00:31.242000,0 days 00:00:40.380000,0 days 00:00:17.872000,True,False,True
+5889,2019,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.144000,0 days 00:00:30.950000,0 days 00:00:40.516000,0 days 00:00:17.678000,True,False,True
+5892,2019,Japanese Grand Prix,GRO,8,Haas F1 Team,0 days 00:01:29.341000,0 days 00:00:30.871000,0 days 00:00:40.576000,0 days 00:00:17.894000,True,False,True
 5910,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:30.567000,0 days 00:00:31.952000,0 days 00:00:40.844000,0 days 00:00:17.771000,True,False,True
 5913,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:29.594000,0 days 00:00:31.336000,0 days 00:00:40.547000,0 days 00:00:17.711000,True,False,True
 5916,2019,Japanese Grand Prix,STR,18,Racing Point,0 days 00:01:29.886000,0 days 00:00:31.596000,0 days 00:00:40.602000,0 days 00:00:17.688000,True,False,True
