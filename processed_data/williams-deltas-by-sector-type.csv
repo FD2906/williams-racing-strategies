@@ -1,0 +1,55 @@
+,year,race,sector,sector_delta,pct_slower,fastest_team,sector_type,circuit_type,zscore
+0,2018,Italian Grand Prix,1,0.251,0.934,Racing Point,power,power,-1.079076658009994
+1,2018,Italian Grand Prix,2,0.146,0.539,Renault,power,power,-1.3947817483565712
+2,2018,Italian Grand Prix,3,0.454,1.704,Haas F1 Team,power,power,-0.46871348333994456
+3,2018,Monaco Grand Prix,1,0.11,0.581,Renault,technical,technical,-1.503023493618255
+4,2018,Monaco Grand Prix,2,0.43,1.272,Force India,technical,technical,-0.5408746468477337
+5,2018,Monaco Grand Prix,3,0.026,0.135,Force India,technical,technical,-1.7555875658955167
+6,2018,British Grand Prix,1,0.363,1.299,Force India,balanced,balanced,-0.7423245616403116
+7,2018,British Grand Prix,2,0.964,2.73,Haas F1 Team,balanced,balanced,1.0647112412005733
+8,2018,British Grand Prix,3,0.682,2.845,Haas F1 Team,balanced,balanced,0.21681756998405186
+9,2018,Belgian Grand Prix,1,0.702,2.343,Racing Point,power,power,0.27695187290720913
+10,2018,Belgian Grand Prix,2,1.081,2.449,Haas F1 Team,balanced,power,1.4164969133010452
+11,2018,Belgian Grand Prix,3,0.425,1.5,Racing Point,power,power,-0.5559082225785231
+12,2018,Singapore Grand Prix,1,0.592,2.211,Haas F1 Team,technical,technical,-0.05378679317015747
+13,2018,Singapore Grand Prix,2,1.302,3.451,Racing Point,technical,technical,2.0809809606019365
+14,2018,Singapore Grand Prix,3,1.076,3.216,Racing Point,technical,technical,1.401463337570256
+15,2018,Brazilian Grand Prix,1,0.287,1.631,Racing Point,power,power,-0.9708349127483105
+16,2018,Brazilian Grand Prix,2,0.594,1.717,Haas F1 Team,balanced,power,-0.04777336287784171
+17,2018,Brazilian Grand Prix,3,0.136,0.853,Haas F1 Team,power,power,-1.4248488998181499
+18,2018,Austrian Grand Prix,1,0.213,1.313,Force India,power,power,-1.1933318335639935
+19,2018,Austrian Grand Prix,2,0.527,1.867,Haas F1 Team,power,power,-0.2492232776704194
+20,2018,Austrian Grand Prix,3,0.443,2.285,Haas F1 Team,power,power,-0.5017873499476813
+21,2018,Japanese Grand Prix,1,0.518,1.649,Haas F1 Team,technical,balanced,-0.27628371398584034
+22,2018,Japanese Grand Prix,2,0.444,1.103,Racing Point,balanced,balanced,-0.4987806348015234
+23,2018,Japanese Grand Prix,3,0.205,1.174,Racing Point,balanced,balanced,-1.2173855547332566
+24,2019,Italian Grand Prix,1,0.761,2.862,Renault,power,power,0.4543480665305241
+25,2019,Italian Grand Prix,2,0.606,2.279,Renault,power,power,-0.011692781123947131
+26,2019,Italian Grand Prix,3,0.679,2.555,Renault,power,power,0.2077974245455782
+27,2019,Monaco Grand Prix,1,0.564,3.017,Haas F1 Team,technical,technical,-0.13797481726257815
+28,2019,Monaco Grand Prix,2,1.123,3.36,Haas F1 Team,technical,technical,1.5427789494396762
+29,2019,Monaco Grand Prix,3,0.667,3.526,Renault,technical,technical,0.17171684279168362
+30,2019,British Grand Prix,1,0.683,2.484,Renault,balanced,balanced,0.2198242851302097
+31,2019,British Grand Prix,2,0.729,2.083,Haas F1 Team,balanced,balanced,0.3581331818534719
+32,2019,British Grand Prix,3,0.394,1.677,Haas F1 Team,balanced,balanced,-0.6491163921094173
+33,2019,Belgian Grand Prix,1,1.089,3.585,Renault,power,power,1.4405506344703083
+34,2019,Belgian Grand Prix,2,1.394,3.084,Renault,balanced,power,2.357598754048461
+35,2019,Belgian Grand Prix,3,1.079,3.799,Renault,power,power,1.4104834830087294
+36,2019,Spanish Grand Prix,1,0.438,2.021,Haas F1 Team,power,balanced,-0.5168209256784707
+37,2019,Spanish Grand Prix,2,0.952,3.346,Haas F1 Team,balanced,balanced,1.0286306594466788
+38,2019,Spanish Grand Prix,3,0.947,3.559,Haas F1 Team,balanced,balanced,1.0135970837158894
+39,2019,Singapore Grand Prix,1,0.612,2.274,Renault,technical,technical,0.006347509753000157
+40,2019,Singapore Grand Prix,2,1.32,3.507,Renault,technical,technical,2.1351018332327785
+41,2019,Singapore Grand Prix,3,0.871,2.599,Racing Point,technical,technical,0.7850867326078907
+42,2019,Brazilian Grand Prix,1,0.337,1.898,Haas F1 Team,power,power,-0.8204991554404164
+43,2019,Brazilian Grand Prix,2,0.839,2.409,Haas F1 Team,balanced,power,0.6888718479308386
+44,2019,Brazilian Grand Prix,3,0.247,1.545,Renault,power,power,-1.0911035185946254
+45,2019,Hungarian Grand Prix,1,0.405,1.477,Renault,balanced,technical,-0.6160425255016806
+46,2019,Hungarian Grand Prix,2,0.334,1.246,Haas F1 Team,technical,technical,-0.82951930087889
+47,2019,Hungarian Grand Prix,3,0.397,1.833,Haas F1 Team,technical,technical,-0.6400962466709437
+48,2019,Austrian Grand Prix,1,0.228,1.411,Renault,power,power,-1.1482311063716253
+49,2019,Austrian Grand Prix,2,0.956,3.372,Haas F1 Team,power,power,1.0406575200313104
+50,2019,Austrian Grand Prix,3,0.862,4.471,Haas F1 Team,power,power,0.7580262962924698
+51,2019,Japanese Grand Prix,1,0.629,2.038,Haas F1 Team,technical,balanced,0.05746166723768414
+52,2019,Japanese Grand Prix,2,0.318,0.788,Haas F1 Team,balanced,balanced,-0.8776267432174161
+53,2019,Japanese Grand Prix,3,0.503,2.849,Racing Point,balanced,balanced,-0.3213844411782086
