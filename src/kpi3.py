@@ -1,14 +1,14 @@
 import pandas as pd
 
 """
-Q4 / KPI 4 - Driver Lap Time Consistency Index
+Q3 / KPI 3 - Driver Lap Time Consistency Index
 
-Question 4: "How does the standard deviation of lap times for each Williams driver during a race 
+Question 3: "How does the standard deviation of lap times for each Williams driver during a race 
             compare to their teammate across a season, and what interventions can improve consistency?"
 
-KPI 4: Driver Lap Time Consistency Index - Lap time standard deviation per driver, per race.
+KPI 3: Driver Lap Time Consistency Index - Lap time standard deviation per driver, per race.
 
-Hypothesis 4: Rookie or less experienced Williams drivers had significantly higher lap time variance than 
+Hypothesis 3: Rookie or less experienced Williams drivers had significantly higher lap time variance than 
             their teammates during races in the 2015-2019 seasons, suggesting lower in-race consistency 
             due to inexperience or adaptability challenges.
 
