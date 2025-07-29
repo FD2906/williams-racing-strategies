@@ -1,0 +1,302 @@
+,race_id,gp_year,gp_name,gp_round,driver_name,constructor,constructor_ref,is_williams,start_position,final_position,grid_delta,gained_or_lost,num_places
+0,1029,2019,Brazilian Grand Prix,20,George Russell,Williams,williams,True,18,12,6,gained,6
+1,1019,2019,British Grand Prix,10,George Russell,Williams,williams,True,19,14,5,gained,5
+2,1023,2019,Italian Grand Prix,14,George Russell,Williams,williams,True,14,14,0,gained,0
+3,1015,2019,Monaco Grand Prix,6,George Russell,Williams,williams,True,19,15,4,gained,4
+4,1019,2019,British Grand Prix,10,Robert Kubica,Williams,williams,True,20,15,5,gained,5
+5,1022,2019,Belgian Grand Prix,13,George Russell,Williams,williams,True,14,15,-1,lost,1
+6,1021,2019,Hungarian Grand Prix,12,George Russell,Williams,williams,True,15,16,-1,lost,1
+7,1024,2019,Singapore Grand Prix,15,Robert Kubica,Williams,williams,True,19,16,3,gained,3
+8,1026,2019,Japanese Grand Prix,17,George Russell,Williams,williams,True,18,16,2,gained,2
+9,1029,2019,Brazilian Grand Prix,20,Robert Kubica,Williams,williams,True,19,16,3,gained,3
+10,1014,2019,Spanish Grand Prix,5,George Russell,Williams,williams,True,19,17,2,gained,2
+11,1023,2019,Italian Grand Prix,14,Robert Kubica,Williams,williams,True,15,17,-2,lost,2
+12,1014,2019,Spanish Grand Prix,5,Robert Kubica,Williams,williams,True,17,18,-1,lost,1
+13,1015,2019,Monaco Grand Prix,6,Robert Kubica,Williams,williams,True,20,18,2,gained,2
+14,1021,2019,Hungarian Grand Prix,12,Robert Kubica,Williams,williams,True,19,19,0,gained,0
+15,1018,2019,Austrian Grand Prix,9,Robert Kubica,Williams,williams,True,17,20,-3,lost,3
+16,1014,2019,Spanish Grand Prix,5,Daniel Ricciardo,Renault,renault,False,13,12,1,gained,1
+17,1018,2019,Austrian Grand Prix,9,Daniel Ricciardo,Renault,renault,False,12,12,0,gained,0
+18,1021,2019,Hungarian Grand Prix,12,Daniel Ricciardo,Renault,renault,False,20,14,6,gained,6
+19,1022,2019,Belgian Grand Prix,13,Daniel Ricciardo,Renault,renault,False,10,14,-4,lost,4
+20,1024,2019,Singapore Grand Prix,15,Daniel Ricciardo,Renault,renault,False,20,14,6,gained,6
+21,1023,2019,Italian Grand Prix,14,Daniel Ricciardo,Renault,renault,False,5,4,1,gained,1
+22,1029,2019,Brazilian Grand Prix,20,Daniel Ricciardo,Renault,renault,False,11,6,5,gained,5
+23,1019,2019,British Grand Prix,10,Daniel Ricciardo,Renault,renault,False,7,7,0,gained,0
+24,1015,2019,Monaco Grand Prix,6,Daniel Ricciardo,Renault,renault,False,6,9,-3,lost,3
+25,973,2017,Spanish Grand Prix,5,Romain Grosjean,Haas F1 Team,haas,False,14,10,4,gained,4
+26,1000,2018,Hungarian Grand Prix,12,Romain Grosjean,Haas F1 Team,haas,False,10,10,0,gained,0
+27,1014,2019,Spanish Grand Prix,5,Romain Grosjean,Haas F1 Team,haas,False,7,10,-3,lost,3
+28,1015,2019,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,13,10,3,gained,3
+29,961,2016,Italian Grand Prix,14,Romain Grosjean,Haas F1 Team,haas,False,17,11,6,gained,6
+30,964,2016,Japanese Grand Prix,17,Romain Grosjean,Haas F1 Team,haas,False,7,11,-4,lost,4
+31,1024,2019,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,17,11,6,gained,6
+32,953,2016,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,15,13,2,gained,2
+33,960,2016,Belgian Grand Prix,13,Romain Grosjean,Haas F1 Team,haas,False,11,13,-2,lost,2
+34,978,2017,British Grand Prix,10,Romain Grosjean,Haas F1 Team,haas,False,10,13,-3,lost,3
+35,1022,2019,Belgian Grand Prix,13,Romain Grosjean,Haas F1 Team,haas,False,9,13,-4,lost,4
+36,1026,2019,Japanese Grand Prix,17,Romain Grosjean,Haas F1 Team,haas,False,10,13,-3,lost,3
+37,1029,2019,Brazilian Grand Prix,20,Romain Grosjean,Haas F1 Team,haas,False,7,13,-6,lost,6
+38,958,2016,Hungarian Grand Prix,11,Romain Grosjean,Haas F1 Team,haas,False,11,14,-3,lost,3
+39,981,2017,Italian Grand Prix,13,Romain Grosjean,Haas F1 Team,haas,False,20,15,5,gained,5
+40,987,2017,Brazilian Grand Prix,19,Romain Grosjean,Haas F1 Team,haas,False,11,15,-4,lost,4
+41,994,2018,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,18,15,3,gained,3
+42,1003,2018,Singapore Grand Prix,15,Romain Grosjean,Haas F1 Team,haas,False,8,15,-7,lost,7
+43,1018,2019,Austrian Grand Prix,9,Romain Grosjean,Haas F1 Team,haas,False,11,16,-5,lost,5
+44,1023,2019,Italian Grand Prix,14,Romain Grosjean,Haas F1 Team,haas,False,13,16,-3,lost,3
+45,997,2018,Austrian Grand Prix,9,Romain Grosjean,Haas F1 Team,haas,False,5,4,1,gained,1
+46,977,2017,Austrian Grand Prix,9,Romain Grosjean,Haas F1 Team,haas,False,6,6,0,gained,0
+47,956,2016,Austrian Grand Prix,9,Romain Grosjean,Haas F1 Team,haas,False,13,7,6,gained,6
+48,980,2017,Belgian Grand Prix,12,Romain Grosjean,Haas F1 Team,haas,False,11,7,4,gained,4
+49,1001,2018,Belgian Grand Prix,13,Romain Grosjean,Haas F1 Team,haas,False,5,7,-2,lost,2
+50,974,2017,Monaco Grand Prix,6,Romain Grosjean,Haas F1 Team,haas,False,8,8,0,gained,0
+51,1005,2018,Japanese Grand Prix,17,Romain Grosjean,Haas F1 Team,haas,False,5,8,-3,lost,3
+52,1008,2018,Brazilian Grand Prix,20,Romain Grosjean,Haas F1 Team,haas,False,8,8,0,gained,0
+53,982,2017,Singapore Grand Prix,14,Romain Grosjean,Haas F1 Team,haas,False,15,9,6,gained,6
+54,984,2017,Japanese Grand Prix,16,Romain Grosjean,Haas F1 Team,haas,False,13,9,4,gained,4
+55,998,2018,British Grand Prix,10,Sergio Pérez,Force India,force_india,False,12,10,2,gained,2
+56,1008,2018,Brazilian Grand Prix,20,Sergio Pérez,Force India,force_india,False,12,10,2,gained,2
+57,958,2016,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,11,2,gained,2
+58,1018,2019,Austrian Grand Prix,9,Sergio Pérez,Racing Point,racing_point,False,13,11,2,gained,2
+59,1021,2019,Hungarian Grand Prix,12,Sergio Pérez,Racing Point,racing_point,False,16,11,5,gained,5
+60,940,2015,Japanese Grand Prix,14,Sergio Pérez,Force India,force_india,False,9,12,-3,lost,3
+61,944,2015,Brazilian Grand Prix,18,Sergio Pérez,Force India,force_india,False,11,12,-1,lost,1
+62,994,2018,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,9,12,-3,lost,3
+63,1015,2019,Monaco Grand Prix,6,Sergio Pérez,Racing Point,racing_point,False,16,12,4,gained,4
+64,930,2015,Spanish Grand Prix,5,Sergio Pérez,Force India,force_india,False,18,13,5,gained,5
+65,974,2017,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,13,-6,lost,6
+66,1000,2018,Hungarian Grand Prix,12,Sergio Pérez,Force India,force_india,False,19,14,5,gained,5
+67,1014,2019,Spanish Grand Prix,5,Sergio Pérez,Racing Point,racing_point,False,15,15,0,gained,0
+68,1003,2018,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,7,16,-9,lost,9
+69,956,2016,Austrian Grand Prix,9,Sergio Pérez,Force India,force_india,False,16,17,-1,lost,1
+70,980,2017,Belgian Grand Prix,12,Sergio Pérez,Force India,force_india,False,8,17,-9,lost,9
+71,1019,2019,British Grand Prix,10,Sergio Pérez,Racing Point,racing_point,False,15,17,-2,lost,2
+72,953,2016,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,3,4,gained,4
+73,967,2016,Brazilian Grand Prix,20,Sergio Pérez,Force India,force_india,False,9,4,5,gained,5
+74,973,2017,Spanish Grand Prix,5,Sergio Pérez,Force India,force_india,False,8,4,4,gained,4
+75,937,2015,Belgian Grand Prix,11,Sergio Pérez,Force India,force_india,False,4,5,-1,lost,1
+76,960,2016,Belgian Grand Prix,13,Sergio Pérez,Force India,force_india,False,6,5,1,gained,1
+77,982,2017,Singapore Grand Prix,14,Sergio Pérez,Force India,force_india,False,12,5,7,gained,7
+78,1001,2018,Belgian Grand Prix,13,Sergio Pérez,Force India,force_india,False,4,5,-1,lost,1
+79,938,2015,Italian Grand Prix,12,Sergio Pérez,Force India,force_india,False,7,6,1,gained,1
+80,957,2016,British Grand Prix,10,Sergio Pérez,Force India,force_india,False,10,6,4,gained,4
+81,1022,2019,Belgian Grand Prix,13,Sergio Pérez,Racing Point,racing_point,False,7,6,1,gained,1
+82,931,2015,Monaco Grand Prix,6,Sergio Pérez,Force India,force_india,False,7,7,0,gained,0
+83,939,2015,Singapore Grand Prix,13,Sergio Pérez,Force India,force_india,False,13,7,6,gained,6
+84,952,2016,Spanish Grand Prix,5,Sergio Pérez,Force India,force_india,False,9,7,2,gained,2
+85,964,2016,Japanese Grand Prix,17,Sergio Pérez,Force India,force_india,False,5,7,-2,lost,2
+86,977,2017,Austrian Grand Prix,9,Sergio Pérez,Force India,force_india,False,7,7,0,gained,0
+87,984,2017,Japanese Grand Prix,16,Sergio Pérez,Force India,force_india,False,7,7,0,gained,0
+88,997,2018,Austrian Grand Prix,9,Sergio Pérez,Force India,force_india,False,16,7,9,gained,9
+89,1002,2018,Italian Grand Prix,14,Sergio Pérez,Force India,force_india,False,14,7,7,gained,7
+90,1005,2018,Japanese Grand Prix,17,Sergio Pérez,Force India,force_india,False,9,7,2,gained,2
+91,1023,2019,Italian Grand Prix,14,Sergio Pérez,Racing Point,racing_point,False,18,7,11,gained,11
+92,961,2016,Italian Grand Prix,14,Sergio Pérez,Force India,force_india,False,8,8,0,gained,0
+93,962,2016,Singapore Grand Prix,15,Sergio Pérez,Force India,force_india,False,17,8,9,gained,9
+94,979,2017,Hungarian Grand Prix,11,Sergio Pérez,Force India,force_india,False,13,8,5,gained,5
+95,1026,2019,Japanese Grand Prix,17,Sergio Pérez,Racing Point,racing_point,False,17,8,9,gained,9
+96,933,2015,Austrian Grand Prix,8,Sergio Pérez,Force India,force_india,False,13,9,4,gained,4
+97,934,2015,British Grand Prix,9,Sergio Pérez,Force India,force_india,False,11,9,2,gained,2
+98,978,2017,British Grand Prix,10,Sergio Pérez,Force India,force_india,False,6,9,-3,lost,3
+99,981,2017,Italian Grand Prix,13,Sergio Pérez,Force India,force_india,False,10,9,1,gained,1
+100,987,2017,Brazilian Grand Prix,19,Sergio Pérez,Force India,force_india,False,5,9,-4,lost,4
+101,993,2018,Spanish Grand Prix,5,Sergio Pérez,Force India,force_india,False,15,9,6,gained,6
+102,1029,2019,Brazilian Grand Prix,20,Sergio Pérez,Racing Point,racing_point,False,15,9,6,gained,6
+103,977,2017,Austrian Grand Prix,9,Lance Stroll,Williams,williams,True,18,10,8,gained,8
+104,1022,2019,Belgian Grand Prix,13,Lance Stroll,Racing Point,racing_point,False,16,10,6,gained,6
+105,980,2017,Belgian Grand Prix,12,Lance Stroll,Williams,williams,True,15,11,4,gained,4
+106,993,2018,Spanish Grand Prix,5,Lance Stroll,Williams,williams,True,18,11,7,gained,7
+107,998,2018,British Grand Prix,10,Lance Stroll,Williams,williams,True,19,12,7,gained,7
+108,1023,2019,Italian Grand Prix,14,Lance Stroll,Racing Point,racing_point,False,9,12,-3,lost,3
+109,1001,2018,Belgian Grand Prix,13,Lance Stroll,Williams,williams,True,17,13,4,gained,4
+110,1019,2019,British Grand Prix,10,Lance Stroll,Racing Point,racing_point,False,18,13,5,gained,5
+111,1024,2019,Singapore Grand Prix,15,Lance Stroll,Racing Point,racing_point,False,16,13,3,gained,3
+112,979,2017,Hungarian Grand Prix,11,Lance Stroll,Williams,williams,True,17,14,3,gained,3
+113,997,2018,Austrian Grand Prix,9,Lance Stroll,Williams,williams,True,14,14,0,gained,0
+114,1003,2018,Singapore Grand Prix,15,Lance Stroll,Williams,williams,True,20,14,6,gained,6
+115,1018,2019,Austrian Grand Prix,9,Lance Stroll,Racing Point,racing_point,False,14,14,0,gained,0
+116,974,2017,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,15,2,gained,2
+117,973,2017,Spanish Grand Prix,5,Lance Stroll,Williams,williams,True,18,16,2,gained,2
+118,978,2017,British Grand Prix,10,Lance Stroll,Williams,williams,True,15,16,-1,lost,1
+119,987,2017,Brazilian Grand Prix,19,Lance Stroll,Williams,williams,True,16,16,0,gained,0
+120,1015,2019,Monaco Grand Prix,6,Lance Stroll,Racing Point,racing_point,False,17,16,1,gained,1
+121,994,2018,Monaco Grand Prix,6,Lance Stroll,Williams,williams,True,17,17,0,gained,0
+122,1000,2018,Hungarian Grand Prix,12,Lance Stroll,Williams,williams,True,15,17,-2,lost,2
+123,1005,2018,Japanese Grand Prix,17,Lance Stroll,Williams,williams,True,14,17,-3,lost,3
+124,1021,2019,Hungarian Grand Prix,12,Lance Stroll,Racing Point,racing_point,False,18,17,1,gained,1
+125,1008,2018,Brazilian Grand Prix,20,Lance Stroll,Williams,williams,True,19,18,1,gained,1
+126,1029,2019,Brazilian Grand Prix,20,Lance Stroll,Racing Point,racing_point,False,17,19,-2,lost,2
+127,981,2017,Italian Grand Prix,13,Lance Stroll,Williams,williams,True,2,7,-5,lost,5
+128,982,2017,Singapore Grand Prix,14,Lance Stroll,Williams,williams,True,18,8,10,gained,10
+129,1002,2018,Italian Grand Prix,14,Lance Stroll,Williams,williams,True,10,9,1,gained,1
+130,1026,2019,Japanese Grand Prix,17,Lance Stroll,Racing Point,racing_point,False,12,9,3,gained,3
+131,953,2016,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,10,4,gained,4
+132,960,2016,Belgian Grand Prix,13,Felipe Massa,Williams,williams,True,10,10,0,gained,0
+133,978,2017,British Grand Prix,10,Felipe Massa,Williams,williams,True,14,10,4,gained,4
+134,984,2017,Japanese Grand Prix,16,Felipe Massa,Williams,williams,True,8,10,-2,lost,2
+135,957,2016,British Grand Prix,10,Felipe Massa,Williams,williams,True,12,11,1,gained,1
+136,982,2017,Singapore Grand Prix,14,Felipe Massa,Williams,williams,True,17,11,6,gained,6
+137,936,2015,Hungarian Grand Prix,10,Felipe Massa,Williams,williams,True,8,12,-4,lost,4
+138,962,2016,Singapore Grand Prix,15,Felipe Massa,Williams,williams,True,11,12,-1,lost,1
+139,973,2017,Spanish Grand Prix,5,Felipe Massa,Williams,williams,True,9,13,-4,lost,4
+140,931,2015,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,12,15,-3,lost,3
+141,940,2015,Japanese Grand Prix,14,Felipe Massa,Williams,williams,True,5,17,-12,lost,12
+142,958,2016,Hungarian Grand Prix,11,Felipe Massa,Williams,williams,True,18,18,0,gained,0
+143,933,2015,Austrian Grand Prix,8,Felipe Massa,Williams,williams,True,4,3,1,gained,1
+144,938,2015,Italian Grand Prix,12,Felipe Massa,Williams,williams,True,5,3,2,gained,2
+145,934,2015,British Grand Prix,9,Felipe Massa,Williams,williams,True,3,4,-1,lost,1
+146,930,2015,Spanish Grand Prix,5,Felipe Massa,Williams,williams,True,9,6,3,gained,3
+147,937,2015,Belgian Grand Prix,11,Felipe Massa,Williams,williams,True,6,6,0,gained,0
+148,987,2017,Brazilian Grand Prix,19,Felipe Massa,Williams,williams,True,9,7,2,gained,2
+149,952,2016,Spanish Grand Prix,5,Felipe Massa,Williams,williams,True,18,8,10,gained,10
+150,980,2017,Belgian Grand Prix,12,Felipe Massa,Williams,williams,True,16,8,8,gained,8
+151,981,2017,Italian Grand Prix,13,Felipe Massa,Williams,williams,True,7,8,-1,lost,1
+152,961,2016,Italian Grand Prix,14,Felipe Massa,Williams,williams,True,11,9,2,gained,2
+153,964,2016,Japanese Grand Prix,17,Felipe Massa,Williams,williams,True,12,9,3,gained,3
+154,974,2017,Monaco Grand Prix,6,Felipe Massa,Williams,williams,True,14,9,5,gained,5
+155,977,2017,Austrian Grand Prix,9,Felipe Massa,Williams,williams,True,17,9,8,gained,8
+156,962,2016,Singapore Grand Prix,15,Kevin Magnussen,Renault,renault,False,15,10,5,gained,5
+157,974,2017,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,11,10,1,gained,1
+158,981,2017,Italian Grand Prix,13,Kevin Magnussen,Haas F1 Team,haas,False,9,11,-2,lost,2
+159,1029,2019,Brazilian Grand Prix,20,Kevin Magnussen,Haas F1 Team,haas,False,9,11,-2,lost,2
+160,978,2017,British Grand Prix,10,Kevin Magnussen,Haas F1 Team,haas,False,16,12,4,gained,4
+161,1022,2019,Belgian Grand Prix,13,Kevin Magnussen,Haas F1 Team,haas,False,8,12,-4,lost,4
+162,979,2017,Hungarian Grand Prix,11,Kevin Magnussen,Haas F1 Team,haas,False,15,13,2,gained,2
+163,994,2018,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,19,13,6,gained,6
+164,1021,2019,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,14,13,1,gained,1
+165,952,2016,Spanish Grand Prix,5,Kevin Magnussen,Renault,renault,False,15,14,1,gained,1
+166,956,2016,Austrian Grand Prix,9,Kevin Magnussen,Renault,renault,False,17,14,3,gained,3
+167,964,2016,Japanese Grand Prix,17,Kevin Magnussen,Renault,renault,False,17,14,3,gained,3
+168,967,2016,Brazilian Grand Prix,20,Kevin Magnussen,Renault,renault,False,18,14,4,gained,4
+169,973,2017,Spanish Grand Prix,5,Kevin Magnussen,Haas F1 Team,haas,False,11,14,-3,lost,3
+170,1015,2019,Monaco Grand Prix,6,Kevin Magnussen,Haas F1 Team,haas,False,5,14,-9,lost,9
+171,958,2016,Hungarian Grand Prix,11,Kevin Magnussen,Renault,renault,False,19,15,4,gained,4
+172,980,2017,Belgian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,12,15,-3,lost,3
+173,1026,2019,Japanese Grand Prix,17,Kevin Magnussen,Haas F1 Team,haas,False,19,15,4,gained,4
+174,1002,2018,Italian Grand Prix,14,Kevin Magnussen,Haas F1 Team,haas,False,11,16,-5,lost,5
+175,957,2016,British Grand Prix,10,Kevin Magnussen,Renault,renault,False,16,17,-1,lost,1
+176,961,2016,Italian Grand Prix,14,Kevin Magnussen,Renault,renault,False,21,17,4,gained,4
+177,1024,2019,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,13,17,-4,lost,4
+178,1003,2018,Singapore Grand Prix,15,Kevin Magnussen,Haas F1 Team,haas,False,16,18,-2,lost,2
+179,1018,2019,Austrian Grand Prix,9,Kevin Magnussen,Haas F1 Team,haas,False,10,19,-9,lost,9
+180,997,2018,Austrian Grand Prix,9,Kevin Magnussen,Haas F1 Team,haas,False,8,5,3,gained,3
+181,993,2018,Spanish Grand Prix,5,Kevin Magnussen,Haas F1 Team,haas,False,7,6,1,gained,1
+182,1000,2018,Hungarian Grand Prix,12,Kevin Magnussen,Haas F1 Team,haas,False,9,7,2,gained,2
+183,1014,2019,Spanish Grand Prix,5,Kevin Magnussen,Haas F1 Team,haas,False,8,7,1,gained,1
+184,984,2017,Japanese Grand Prix,16,Kevin Magnussen,Haas F1 Team,haas,False,12,8,4,gained,4
+185,1001,2018,Belgian Grand Prix,13,Kevin Magnussen,Haas F1 Team,haas,False,9,8,1,gained,1
+186,998,2018,British Grand Prix,10,Kevin Magnussen,Haas F1 Team,haas,False,7,9,-2,lost,2
+187,1008,2018,Brazilian Grand Prix,20,Kevin Magnussen,Haas F1 Team,haas,False,10,9,1,gained,1
+188,952,2016,Spanish Grand Prix,5,Esteban Gutiérrez,Haas F1 Team,haas,False,16,11,5,gained,5
+189,953,2016,Monaco Grand Prix,6,Esteban Gutiérrez,Haas F1 Team,haas,False,12,11,1,gained,1
+190,956,2016,Austrian Grand Prix,9,Esteban Gutiérrez,Haas F1 Team,haas,False,11,11,0,gained,0
+191,962,2016,Singapore Grand Prix,15,Esteban Gutiérrez,Haas F1 Team,haas,False,13,11,2,gained,2
+192,960,2016,Belgian Grand Prix,13,Esteban Gutiérrez,Haas F1 Team,haas,False,18,12,6,gained,6
+193,958,2016,Hungarian Grand Prix,11,Esteban Gutiérrez,Haas F1 Team,haas,False,15,13,2,gained,2
+194,961,2016,Italian Grand Prix,14,Esteban Gutiérrez,Haas F1 Team,haas,False,10,13,-3,lost,3
+195,957,2016,British Grand Prix,10,Esteban Gutiérrez,Haas F1 Team,haas,False,14,16,-2,lost,2
+196,964,2016,Japanese Grand Prix,17,Esteban Gutiérrez,Haas F1 Team,haas,False,10,20,-10,lost,10
+197,958,2016,Hungarian Grand Prix,11,Nico Hülkenberg,Force India,force_india,False,9,10,-1,lost,1
+198,961,2016,Italian Grand Prix,14,Nico Hülkenberg,Force India,force_india,False,9,10,-1,lost,1
+199,987,2017,Brazilian Grand Prix,19,Nico Hülkenberg,Renault,renault,False,7,10,-3,lost,3
+200,1003,2018,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,10,10,0,gained,0
+201,1019,2019,British Grand Prix,10,Nico Hülkenberg,Renault,renault,False,10,10,0,gained,0
+202,931,2015,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,11,11,0,gained,0
+203,1000,2018,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,13,12,1,gained,1
+204,1021,2019,Hungarian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,11,12,-1,lost,1
+205,977,2017,Austrian Grand Prix,9,Nico Hülkenberg,Renault,renault,False,11,13,-2,lost,2
+206,981,2017,Italian Grand Prix,13,Nico Hülkenberg,Renault,renault,False,14,13,1,gained,1
+207,1002,2018,Italian Grand Prix,14,Nico Hülkenberg,Renault,renault,False,20,13,7,gained,7
+208,1015,2019,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,13,-2,lost,2
+209,1018,2019,Austrian Grand Prix,9,Nico Hülkenberg,Renault,renault,False,15,13,2,gained,2
+210,930,2015,Spanish Grand Prix,5,Nico Hülkenberg,Force India,force_india,False,17,15,2,gained,2
+211,1029,2019,Brazilian Grand Prix,20,Nico Hülkenberg,Renault,renault,False,13,15,-2,lost,2
+212,979,2017,Hungarian Grand Prix,11,Nico Hülkenberg,Renault,renault,False,12,17,-5,lost,5
+213,956,2016,Austrian Grand Prix,9,Nico Hülkenberg,Force India,force_india,False,2,19,-17,lost,17
+214,960,2016,Belgian Grand Prix,13,Nico Hülkenberg,Force India,force_india,False,7,4,3,gained,3
+215,1023,2019,Italian Grand Prix,14,Nico Hülkenberg,Renault,renault,False,6,5,1,gained,1
+216,933,2015,Austrian Grand Prix,8,Nico Hülkenberg,Force India,force_india,False,5,6,-1,lost,1
+217,940,2015,Japanese Grand Prix,14,Nico Hülkenberg,Force India,force_india,False,13,6,7,gained,7
+218,944,2015,Brazilian Grand Prix,18,Nico Hülkenberg,Force India,force_india,False,5,6,-1,lost,1
+219,953,2016,Monaco Grand Prix,6,Nico Hülkenberg,Force India,force_india,False,5,6,-1,lost,1
+220,973,2017,Spanish Grand Prix,5,Nico Hülkenberg,Renault,renault,False,13,6,7,gained,7
+221,978,2017,British Grand Prix,10,Nico Hülkenberg,Renault,renault,False,5,6,-1,lost,1
+222,980,2017,Belgian Grand Prix,12,Nico Hülkenberg,Renault,renault,False,7,6,1,gained,1
+223,998,2018,British Grand Prix,10,Nico Hülkenberg,Renault,renault,False,11,6,5,gained,5
+224,934,2015,British Grand Prix,9,Nico Hülkenberg,Force India,force_india,False,9,7,2,gained,2
+225,938,2015,Italian Grand Prix,12,Nico Hülkenberg,Force India,force_india,False,9,7,2,gained,2
+226,957,2016,British Grand Prix,10,Nico Hülkenberg,Force India,force_india,False,8,7,1,gained,1
+227,967,2016,Brazilian Grand Prix,20,Nico Hülkenberg,Force India,force_india,False,8,7,1,gained,1
+228,964,2016,Japanese Grand Prix,17,Nico Hülkenberg,Force India,force_india,False,9,8,1,gained,1
+229,994,2018,Monaco Grand Prix,6,Nico Hülkenberg,Renault,renault,False,11,8,3,gained,3
+230,1022,2019,Belgian Grand Prix,13,Nico Hülkenberg,Renault,renault,False,12,8,4,gained,4
+231,1024,2019,Singapore Grand Prix,15,Nico Hülkenberg,Renault,renault,False,8,9,-1,lost,1
+232,974,2017,Monaco Grand Prix,6,Jolyon Palmer,Renault,renault,False,16,11,5,gained,5
+233,977,2017,Austrian Grand Prix,9,Jolyon Palmer,Renault,renault,False,16,11,5,gained,5
+234,956,2016,Austrian Grand Prix,9,Jolyon Palmer,Renault,renault,False,19,12,7,gained,7
+235,958,2016,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,17,12,5,gained,5
+236,964,2016,Japanese Grand Prix,17,Jolyon Palmer,Renault,renault,False,16,12,4,gained,4
+237,979,2017,Hungarian Grand Prix,11,Jolyon Palmer,Renault,renault,False,10,12,-2,lost,2
+238,984,2017,Japanese Grand Prix,16,Jolyon Palmer,Renault,renault,False,18,12,6,gained,6
+239,952,2016,Spanish Grand Prix,5,Jolyon Palmer,Renault,renault,False,17,13,4,gained,4
+240,980,2017,Belgian Grand Prix,12,Jolyon Palmer,Renault,renault,False,14,13,1,gained,1
+241,960,2016,Belgian Grand Prix,13,Jolyon Palmer,Renault,renault,False,13,15,-2,lost,2
+242,962,2016,Singapore Grand Prix,15,Jolyon Palmer,Renault,renault,False,18,15,3,gained,3
+243,973,2017,Spanish Grand Prix,5,Jolyon Palmer,Renault,renault,False,17,15,2,gained,2
+244,982,2017,Singapore Grand Prix,14,Jolyon Palmer,Renault,renault,False,11,6,5,gained,5
+245,982,2017,Singapore Grand Prix,14,Esteban Ocon,Force India,force_india,False,14,10,4,gained,4
+246,974,2017,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,15,12,3,gained,3
+247,1000,2018,Hungarian Grand Prix,12,Esteban Ocon,Force India,force_india,False,18,13,5,gained,5
+248,1008,2018,Brazilian Grand Prix,20,Esteban Ocon,Force India,force_india,False,18,15,3,gained,3
+249,973,2017,Spanish Grand Prix,5,Esteban Ocon,Force India,force_india,False,10,5,5,gained,5
+250,981,2017,Italian Grand Prix,13,Esteban Ocon,Force India,force_india,False,3,6,-3,lost,3
+251,984,2017,Japanese Grand Prix,16,Esteban Ocon,Force India,force_india,False,5,6,-1,lost,1
+252,994,2018,Monaco Grand Prix,6,Esteban Ocon,Force India,force_india,False,6,6,0,gained,0
+253,997,2018,Austrian Grand Prix,9,Esteban Ocon,Force India,force_india,False,11,6,5,gained,5
+254,1001,2018,Belgian Grand Prix,13,Esteban Ocon,Force India,force_india,False,3,6,-3,lost,3
+255,1002,2018,Italian Grand Prix,14,Esteban Ocon,Force India,force_india,False,8,6,2,gained,2
+256,998,2018,British Grand Prix,10,Esteban Ocon,Force India,force_india,False,10,7,3,gained,3
+257,977,2017,Austrian Grand Prix,9,Esteban Ocon,Force India,force_india,False,9,8,1,gained,1
+258,978,2017,British Grand Prix,10,Esteban Ocon,Force India,force_india,False,7,8,-1,lost,1
+259,979,2017,Hungarian Grand Prix,11,Esteban Ocon,Force India,force_india,False,11,9,2,gained,2
+260,980,2017,Belgian Grand Prix,12,Esteban Ocon,Force India,force_india,False,9,9,0,gained,0
+261,1005,2018,Japanese Grand Prix,17,Esteban Ocon,Force India,force_india,False,11,9,2,gained,2
+262,1002,2018,Italian Grand Prix,14,Sergey Sirotkin,Williams,williams,True,12,10,2,gained,2
+263,1001,2018,Belgian Grand Prix,13,Sergey Sirotkin,Williams,williams,True,16,12,4,gained,4
+264,997,2018,Austrian Grand Prix,9,Sergey Sirotkin,Williams,williams,True,17,13,4,gained,4
+265,993,2018,Spanish Grand Prix,5,Sergey Sirotkin,Williams,williams,True,19,14,5,gained,5
+266,998,2018,British Grand Prix,10,Sergey Sirotkin,Williams,williams,True,18,14,4,gained,4
+267,994,2018,Monaco Grand Prix,6,Sergey Sirotkin,Williams,williams,True,13,16,-3,lost,3
+268,1000,2018,Hungarian Grand Prix,12,Sergey Sirotkin,Williams,williams,True,20,16,4,gained,4
+269,1005,2018,Japanese Grand Prix,17,Sergey Sirotkin,Williams,williams,True,17,16,1,gained,1
+270,1008,2018,Brazilian Grand Prix,20,Sergey Sirotkin,Williams,williams,True,14,16,-2,lost,2
+271,1003,2018,Singapore Grand Prix,15,Sergey Sirotkin,Williams,williams,True,19,19,0,gained,0
+272,994,2018,Monaco Grand Prix,6,Carlos Sainz,Renault,renault,False,8,10,-2,lost,2
+273,1005,2018,Japanese Grand Prix,17,Carlos Sainz,Renault,renault,False,13,10,3,gained,3
+274,987,2017,Brazilian Grand Prix,19,Carlos Sainz,Renault,renault,False,8,11,-3,lost,3
+275,1001,2018,Belgian Grand Prix,13,Carlos Sainz,Renault,renault,False,14,11,3,gained,3
+276,997,2018,Austrian Grand Prix,9,Carlos Sainz,Renault,renault,False,9,12,-3,lost,3
+277,1008,2018,Brazilian Grand Prix,20,Carlos Sainz,Renault,renault,False,15,12,3,gained,3
+278,993,2018,Spanish Grand Prix,5,Carlos Sainz,Renault,renault,False,9,7,2,gained,2
+279,1002,2018,Italian Grand Prix,14,Carlos Sainz,Renault,renault,False,7,8,-1,lost,1
+280,1003,2018,Singapore Grand Prix,15,Carlos Sainz,Renault,renault,False,12,8,4,gained,4
+281,1000,2018,Hungarian Grand Prix,12,Carlos Sainz,Renault,renault,False,5,9,-4,lost,4
+282,964,2016,Japanese Grand Prix,17,Valtteri Bottas,Williams,williams,True,11,10,1,gained,1
+283,967,2016,Brazilian Grand Prix,20,Valtteri Bottas,Williams,williams,True,11,11,0,gained,0
+284,953,2016,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,10,12,-2,lost,2
+285,936,2015,Hungarian Grand Prix,10,Valtteri Bottas,Williams,williams,True,6,13,-7,lost,7
+286,931,2015,Monaco Grand Prix,6,Valtteri Bottas,Williams,williams,True,16,14,2,gained,2
+287,957,2016,British Grand Prix,10,Valtteri Bottas,Williams,williams,True,6,14,-8,lost,8
+288,930,2015,Spanish Grand Prix,5,Valtteri Bottas,Williams,williams,True,4,4,0,gained,0
+289,938,2015,Italian Grand Prix,12,Valtteri Bottas,Williams,williams,True,6,4,2,gained,2
+290,933,2015,Austrian Grand Prix,8,Valtteri Bottas,Williams,williams,True,6,5,1,gained,1
+291,934,2015,British Grand Prix,9,Valtteri Bottas,Williams,williams,True,4,5,-1,lost,1
+292,939,2015,Singapore Grand Prix,13,Valtteri Bottas,Williams,williams,True,7,5,2,gained,2
+293,940,2015,Japanese Grand Prix,14,Valtteri Bottas,Williams,williams,True,3,5,-2,lost,2
+294,944,2015,Brazilian Grand Prix,18,Valtteri Bottas,Williams,williams,True,7,5,2,gained,2
+295,952,2016,Spanish Grand Prix,5,Valtteri Bottas,Williams,williams,True,7,5,2,gained,2
+296,961,2016,Italian Grand Prix,14,Valtteri Bottas,Williams,williams,True,5,6,-1,lost,1
+297,960,2016,Belgian Grand Prix,13,Valtteri Bottas,Williams,williams,True,8,8,0,gained,0
+298,937,2015,Belgian Grand Prix,11,Valtteri Bottas,Williams,williams,True,3,9,-6,lost,6
+299,956,2016,Austrian Grand Prix,9,Valtteri Bottas,Williams,williams,True,7,9,-2,lost,2
+300,958,2016,Hungarian Grand Prix,11,Valtteri Bottas,Williams,williams,True,10,9,1,gained,1
