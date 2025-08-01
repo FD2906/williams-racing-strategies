@@ -2,15 +2,15 @@ import fastf1
 import pandas as pd
 
 """
-KPI 3 - Relative Racecraft Performance
+KPI 2 - Relative Racecraft Performance
 
-Strategic Question 3: "“In 2018 and 2019 qualifying sessions, where did Williams lose the most time relative to the fastest midfield performances, 
+Strategic Question 2: "“In 2018 and 2019 qualifying sessions, where did Williams lose the most time relative to the fastest midfield performances, 
 						and were these performance gaps more pronounced in technical versus power-focused sectors?”"
 
-KPI 3 - Qualifying Sector Performance Delta: 
+KPI 2 - Qualifying Sector Performance Delta: 
 		Time deficit of Williams' fastest qualifying performance to the fastest midfield performance per sector, grouped by sector type.
 
-Hypothesis 3: Williams' fastest qualifying sector times showed significantly larger deficits to midfield rivals 
+Hypothesis 2: Williams' fastest qualifying sector times showed significantly larger deficits to midfield rivals 
 			in technical sectors compared to power sectors, indicating fundamental aerodynamic and chassis setup limitations 
 			rather than engine-related deficiencies.
 """

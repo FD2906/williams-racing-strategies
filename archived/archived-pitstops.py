@@ -1,3 +1,12 @@
+"""
+ARCHIVED ANALYSIS
+
+Status: This file was archived as the planned analysis could not continue due to lack of reliable or sufficient data from Fast-F1 and/or the Ergast dataset.
+
+Retained for transparency; see main project files for completed and validated analyses.
+"""
+
+
 import pandas as pd
 import numpy as np
 
@@ -89,7 +98,8 @@ def get_pit_stats(df: pd.DataFrame,
     """
     pit_stats = df.groupby('constructor_ref').agg(
         median_s = ('pit_duration_ms', lambda x: round(x.median() / 1000, 3)),
-        mean_s = ('pit_duration_ms', lambda x: round(x.mean() / 1000, 3)),
+        mean_s = ('pit_duration_ms',
+         lambda x: round(x.mean() / 1000, 3)),
         mad_s = ('pit_duration_ms', lambda x: round(np.median(np.abs(x - np.median(x))) / 1000, 3)),
         std_s = ('pit_duration_ms', lambda x: round(x.std() / 1000, 3)),
         n_pitstops = ('pit_duration_ms', 'count') 
