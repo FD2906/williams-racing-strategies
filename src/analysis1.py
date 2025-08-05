@@ -123,7 +123,7 @@ vs_rivals_boxplot = sns.boxplot(
     palette = group_palette
 ) 
 
-vs_rivals_boxplot.set_title("Grid-to-FInish Delta: Williams vs. Other Midfield Teams")
+vs_rivals_boxplot.set_title("Grid-to-Finish Delta: Williams vs. Other Midfield Teams")
 vs_rivals_boxplot.set_xlabel("Team Group")
 vs_rivals_boxplot.set_ylabel("Grid-to-Finish Delta")
 
@@ -171,20 +171,13 @@ plot will display williams' grid-to-finish delta across the three circuit types,
 # setup a new figure and set its size - a taller boxplot helps us compare heights
 plt.figure(figsize=(6, 9)) 
 
-# colour palette for the boxplot
-circuit_palette = {
-    'power': 'green',
-    'balanced': 'orange', 
-    'technical': 'red'
-}
-
 # create boxplot
 circuit_boxplot = sns.boxplot( 
     x='circuit_type',
     y='grid_delta',
     data = df[df['is_williams'] == True], # filter williams only results
     hue = 'circuit_type',
-    palette = circuit_palette
+    palette = 'Set2'
 )
 
 # set title, xlabel and ylable
@@ -687,13 +680,13 @@ sns.lineplot(
     linewidth = 3 # slightly thicker line
 )
 
-# now plot Williams' performance per circuit type on top, using circuit_type palette:
+# now plot Williams' performance per circuit type on top, using Set2 palette:
 sns.lineplot(
     data=df_williams,
     x="gp_year",
     y="grid_delta",
     hue="circuit_type",
-    palette=circuit_palette,
+    palette='Set2',
     estimator='median',
     legend="full",
     errorbar=None,
