@@ -55,7 +55,7 @@ plt.grid(linewidth = 0.25)
 plt.show()
 
 """
-A boxplot summarizes how Williams' qualifying sector deficits—time lost 
+A boxplot summarises how Williams' qualifying sector deficits—time lost 
 versus the fastest midfield team—are distributed across different sector types.
 The box captures the middle 50% of performances (the interquartile range, or IQR), 
 while the median line indicates the typical time lost for each sector type.
@@ -244,7 +244,7 @@ Hypotheses:
 - Alternative (H1): μ_technical > μ_power (Deficits in technical sectors are greater than in power sectors)
 """
 
-# --------- 1. absolute --------
+# --------- 1. Absolute deficits (s) --------
 
 # 1. extract relevant data for the test
 technical_deficits = df[df['sector_type'] == 'technical']['sector_delta']
@@ -253,18 +253,27 @@ power_deficits = df[df['sector_type'] == 'power']['sector_delta']
 # 2. run the mann-whitney u test
 m_stat, p_value = mannwhitneyu(technical_deficits, power_deficits, alternative = "greater")
 
-print("\nMann-Whitney U Test for technical vs. power absolute sector deficits at 95% confidence interval.\n")
+print("\nMann-Whitney U Test for technical vs. power absolute sector deficits at 95% confidence level.\n")
 print(f"Mann-Whitney U statistic: {m_stat:.3f}")
 print(f"One-tailed p-value: {p_value:.4f}")
 
 alpha = 0.05 # 95% confidence level
 
 if p_value < alpha:
-    print("\nReject the null hypothesis (H0): Williams' qualifying deficit in technical sectors is significantly greater than in power sectors.")
+    print("\nReject the null hypothesis (H1): Williams' qualifying deficit in technical sectors is significantly greater than in power sectors.")
 else: # p_value_one_tailed >= alpha
     print("\nFail to reject the null hypothesis (H0): There is no significant evidence that Williams' qualifying deficit in technical sectors is greater than in power sectors.")
 
 """
+Mann-Whitney U Test for technical vs. power absolute sector deficits at 95% confidence level.
+
+Mann-Whitney U statistic: 204.000
+One-tailed p-value: 0.1382
+
+Fail to reject the null hypothesis (H0): There is no significant evidence that Williams' qualifying deficit in technical sectors is greater than in power sectors.
+
+---
+
 While our data sample suggests a trend towards larger deficits in technical sectors, the current sample size
 and variability mean we cannot confidently state that Williams struggles more in technical sectors compared to 
 power sectors based on qualifying sector times. 
@@ -273,10 +282,10 @@ This invites further analysis, with additional data, alternative metrics, or com
 like driver experience or consistency - which is explored in SQ/KPI 3. 
 """
 
-# --------- 2. Relative ----------
+# --------- 2. Relative deficits (%) ----------
 
 # 1. Filter out the outlier
-df_pct = df[df['pct_slower'] < 4.471]
+df_pct = df[df['pct_slower'] < 4.471] # filters out the one pct_slower value of 4.471 in power sectors
 
 # 2. Extract relevant data
 pct_technical = df_pct[df_pct['sector_type'] == 'technical']['pct_slower']
@@ -286,13 +295,34 @@ pct_power = df_pct[df_pct['sector_type'] == 'power']['pct_slower']
 m_stat, p_value = mannwhitneyu(pct_technical, pct_power, alternative="greater")
 
 # 4. Print results
-print("\n\nMann-Whitney U Test for technical vs. power '% slower' at 95% confidence interval.\n")
+print("\n\nMann-Whitney U Test for technical vs. power '% slower' at 95% confidence level.\n")
 print(f"Mann-Whitney U statistic: {m_stat:.3f}")
 print(f"One-tailed p-value: {p_value:.4f}")
 
 alpha = 0.05  # significance level
 
 if p_value < alpha:
-    print("\n✅ Reject the null hypothesis (H0): Williams was significantly slower in technical sectors (as % behind fastest midfield).")
+    print("\nReject the null hypothesis (H1): Williams was significantly slower in technical sectors (as % behind fastest midfield).")
 else:
-    print("\n❌ Fail to reject the null hypothesis (H0): No significant evidence Williams was slower in technical sectors (as % behind fastest midfield).")
+    print("\nFail to reject the null hypothesis (H0): No significant evidence Williams was slower in technical sectors (as % behind fastest midfield).")
+
+
+"""
+Mann-Whitney U Test for technical vs. power '% slower' at 95% confidence level.
+
+Mann-Whitney U statistic: 181.000
+One-tailed p-value: 0.2570
+
+Fail to reject the null hypothesis (H0): No significant evidence Williams was slower in technical sectors (as % behind fastest midfield).
+
+---
+
+The relative performance gap, measured in % behind the fastest midfield team, did not reach statistical significance. 
+This suggests: 
+    -> While limitations may exist, they weren't consistently large enough to be confirmed in this sample. 
+    -> Williams' deficits in power and technical sectors may have been more evenly distributed than expected
+    -> Otherwise, the small sample size, n < 30, may not offer enough power to detect small, but real differences. 
+
+Nonetheless, this trend invites further investigation, possibly using a broader time period or cross-validating with
+driver performance, complementing racecraft performance. 
+"""

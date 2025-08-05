@@ -474,22 +474,20 @@ williams_deltas = df_technical[df_technical['constructor']=="Williams"]['grid_de
 rival_deltas = df_technical[df_technical['constructor']!="Williams"]['grid_delta']
 
 # 2. run the Welch's one-tailed t-test
-t_stat, p_value_two_tailed = ttest_ind(
+t_stat, p_value = ttest_ind(
     williams_deltas,
     rival_deltas, 
     equal_var = False,
     alternative = 'less' # defines the alternative hypothesis
 )
 
-p_value_one_tailed = p_value_two_tailed / 2 # for one tail, the left side of the bell curve
-
 print("\nWelch's t-test for Williams vs. Rivals on technical circuits at 95% confidence interval.\n")
 print(f"t-statistic: {t_stat:.3f}")
-print(f"One-tailed p-value: {p_value_one_tailed:.4f}")
+print(f"One-tailed p-value: {p_value:.4f}")
 
 alpha = 0.05  # 95% confidence level
-if p_value_one_tailed < alpha:
-    print("\nReject the null hypothesis (H0): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
+if p_value < alpha:
+    print("\nReject the null hypothesis (H1): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
 else: # p_value_one_tailed >= alpha
     print("\nFail to reject the null (H0): No significant evidence that Williams' mean grid-to-finish delta is worse than rivals on technical circuits.")
 
@@ -497,7 +495,7 @@ else: # p_value_one_tailed >= alpha
 Result: fail to reject H0. 
 
 t-stat: -0.157
-one-tailed p-value: 0.2191 (> 0.05)
+one-tailed p-value: 0.4381 (> 0.05)
 
 However, the p-value could be skewed as the rival distribution isn't normal. 
 We will now perform a non-parametric Mann-Whitney U test. 
@@ -511,7 +509,7 @@ print(f"Mann-Whitney U statistic: {m_stat:.3f}")
 print(f"One-tailed p-value: {p_value:.4f}")
 
 if p_value < alpha:
-    print("\nReject the null hypothesis (H0): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
+    print("\nReject the null hypothesis (H1): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
 else: # p_value_one_tailed >= alpha
     print("\nFail to reject the null (H0): No significant evidence that Williams' mean grid-to-finish delta is worse than rivals on technical circuits.")
 
@@ -560,7 +558,7 @@ An outlier results in a left tail in the distribution.
 However, n > 30.
 """
 
-t_stat_filtered, p_value_two_tailed_filtered = ttest_ind(
+t_stat_filtered, p_value_filtered = ttest_ind(
     williams_deltas,
     rival_deltas_no_outlier, 
     equal_var = False,
@@ -568,40 +566,40 @@ t_stat_filtered, p_value_two_tailed_filtered = ttest_ind(
 )
 
 # Welch's t-test, no outliers. 
-p_value_one_tailed_filtered = p_value_two_tailed_filtered / 2 # for one tail, the left side of the bell curve
+p_value_one_tailed_filtered = p_value_filtered / 2 # for one tail, the left side of the bell curve
 
-print("\n\nWelch's t-test for Williams vs. Rivals on technical circuits at 95% confidence interval (no outlier).\n")
+print("\n\nWelch's t-test for Williams vs. Rivals on technical circuits at 95% confidence level (no outlier).\n")
 print(f"t-statistic: {t_stat_filtered:.3f}")
-print(f"One-tailed p-value: {p_value_one_tailed_filtered:.4f}")
+print(f"One-tailed p-value: {p_value_filtered:.4f}")
 
 alpha = 0.05  # 95% confidence level
-if p_value_one_tailed_filtered < alpha:
-    print("\nReject the null hypothesis (H0): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
+if p_value_filtered < alpha:
+    print("\nReject the null hypothesis (H1): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
 else: # p_value_one_tailed >= alpha
     print("\nFail to reject the null (H0): No significant evidence that Williams' mean grid-to-finish delta is worse than rivals on technical circuits.")
 
 
 # Mann-Whitney U test, no outliers 
-m_stat_filtered, p_value_filtered = mannwhitneyu(williams_deltas, rival_deltas_no_outlier, alternative="less")
+m_stat_filtered, p_value_filtered_2 = mannwhitneyu(williams_deltas, rival_deltas_no_outlier, alternative="less")
 
-print("\nMann-Whitney U Test for Williams vs. Rivals on technical circuits at 95% confidence interval (no outlier).\n")
+print("\nMann-Whitney U Test for Williams vs. Rivals on technical circuits at 95% confidence level (no outlier).\n")
 print(f"Mann-Whitney U statistic: {m_stat_filtered:.3f}")
-print(f"One-tailed p-value: {p_value_filtered:.4f}")
+print(f"One-tailed p-value: {p_value_filtered_2:.4f}")
 
-if p_value_filtered < alpha:
-    print("\nReject the null hypothesis (H0): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
-else: # p_value_one_tailed >= alpha
+if p_value_filtered_2 < alpha:
+    print("\nReject the null hypothesis (H1): Williams' mean grid-to-finish delta IS significantly worse than rivals on technical circuits.")
+else: # p_value_filtered_2 >= alpha
     print("\nFail to reject the null (H0): No significant evidence that Williams' mean grid-to-finish delta is worse than rivals on technical circuits.")
 
 """
-Welch's t-test for Williams vs. Rivals on technical circuits at 95% confidence interval (no outlier).
+Welch's t-test for Williams vs. Rivals on technical circuits at 95% confidence level (no outlier).
 
 t-statistic: -0.556
 One-tailed p-value: 0.1452
 
 Fail to reject the null (H0): No significant evidence that Williams' mean grid-to-finish delta is worse than rivals on technical circuits.
 
-Mann-Whitney U Test for Williams vs. Rivals on technical circuits at 95% confidence interval (no outlier).
+Mann-Whitney U Test for Williams vs. Rivals on technical circuits at 95% confidence level (no outlier).
 
 Mann-Whitney U statistic: 725.000
 One-tailed p-value: 0.2299
