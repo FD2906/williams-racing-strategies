@@ -2,6 +2,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import joypy
+from matplotlib import cm
 from scipy.stats import mannwhitneyu
 
 df = pd.read_csv("/Users/frankdong/Documents/Analytics Local/williams-racing-strategies/processed_data/williams-deltas-by-sector-type.csv")
@@ -326,3 +328,174 @@ This suggests:
 Nonetheless, this trend invites further investigation, possibly using a broader time period or cross-validating with
 driver performance, complementing racecraft performance. 
 """
+
+# -------------------- Step 5: Further visualisations ------------------
+
+"""
+Main variables of interest are: 
+- sector_delta (absolute deficit in seconds)
+- pct_slower (relative deficit, percentage slower behind fastest)
+- sector_type (power, balanced, or technical)
+- race, sector, fastest_team
+
+As H0 is the way to go - we are looking for charts that help with storytelling leverage. 
+"""
+
+# 1. Heatmap - avg % slower by sector type and sector number
+
+pivot = df.pivot_table(index="sector", columns="sector_type", values="pct_slower", aggfunc="mean")
+
+pivot = pivot[['power', 'balanced', 'technical']]
+
+plt.figure(figsize = (12, 8))
+
+sectors_heatmap = sns.heatmap(
+    data = pivot, 
+    annot = True, 
+    cmap = "YlOrRd", 
+    fmt = ".2f", 
+    cbar_kws = {'label': '% Slower'} # labels the colour bar on the side
+)
+
+sectors_heatmap.set_title("Average % Slower by Sector Number and Sector Type")
+sectors_heatmap.set_xlabel("Sector Type")
+sectors_heatmap.set_ylabel("Sector Number")
+
+plt.tight_layout()
+plt.savefig("plots/plots2/5-sectors-heatmap.png")
+plt.show()
+
+
+# 2. strip plot - view individual performances per sector type
+
+plt.figure(figsize = (12, 8))
+
+sector_stripplot = sns.stripplot(
+    data = df, 
+    x = 'sector_type', 
+    y = 'pct_slower', 
+    hue = 'sector_type',
+    palette = 'Set2', 
+    order = ['power', 'balanced', 'technical']
+)
+
+sector_stripplot.set_title("All Relative Deficits by Sector Type")
+sector_stripplot.set_xlabel("Sector Type")
+sector_stripplot.set_ylabel("% Slower")
+
+plt.grid(linewidth = 0.25)
+plt.tight_layout()
+plt.savefig("plots/plots2/6-sectors-stripplot.png")
+plt.show()
+
+"""
+Stripplots are great for identifying individual race performances, but also give us a sense of the number of values considered in the data. 
+Here, it's very apparent there's not enough entries in each segment. 
+"""
+
+# 3. violin plot - view distribution shape per sector type
+
+plt.figure(figsize = (12, 8))
+
+sector_violinplot = sns.violinplot(
+    data = df, 
+    x = 'sector_type', 
+    y = 'pct_slower', 
+    hue = 'sector_type',
+    palette = 'Set2', 
+    order = ['power', 'balanced', 'technical']
+)
+
+sector_violinplot.set_title("Distribution of Relative Deficits by Sector Type")
+sector_violinplot.set_xlabel("Sector Type")
+sector_violinplot.set_ylabel("% Slower")
+
+plt.grid(linewidth = 0.25)
+plt.tight_layout()
+plt.savefig("plots/plots2/7-sectors-violinplot.png")
+plt.show()
+
+"""
+This sort of plot helps us identify distributions, combining KDEs and boxplots. 
+However, the granularity of seeing individual performances is now lost. 
+"""
+
+# 4. barchart - average relative deficit per race - grouped by sector type
+
+grouped = df.groupby('race')['pct_slower'].mean().sort_values(ascending = False).reset_index() # form a new groupby dataframe
+
+plt.figure(figsize = (12, 6))
+
+barchart = sns.barplot(
+    data = grouped, 
+    x = 'pct_slower', 
+    y = 'race', 
+    zorder = 3 # place bars over the gridlines
+)
+
+# create rounded labels as strings with 2 decimal places
+labels = [f"{x:.2f}" for x in grouped['pct_slower']]
+barchart.bar_label(barchart.containers[0], labels=labels, fontsize=10)
+
+
+barchart.set_title("Williams' Average Relative Qualifying Deficit by Circuit (2018-2019)")
+barchart.set_xlabel("% Slower to Fastest Midfield")
+barchart.set_ylabel("Circuit")
+
+plt.grid(linewidth = 0.25, axis = 'x', zorder = 0) # vertical lines only, behind the bars. 
+plt.tight_layout()
+plt.savefig("plots/plots2/8-relative-barplot.png")
+plt.show()
+
+
+# 5. barchart - average absolute deficit per race - grouped by sector type
+
+grouped = df.groupby('race')['sector_delta'].mean().sort_values(ascending = False).reset_index() # form a new groupby dataframe
+
+plt.figure(figsize = (12, 6))
+
+barchart = sns.barplot(
+    data = grouped, 
+    x = 'sector_delta', 
+    y = 'race', 
+    zorder = 3 # place bars over the gridlines
+)
+
+# create rounded labels as strings with 2 decimal places
+labels = [f"{x:.2f}" for x in grouped['sector_delta']]
+barchart.bar_label(barchart.containers[0], labels=labels, fontsize=10)
+
+
+barchart.set_title("Williams' Average Absolute Qualifying Deficit by Circuit (2018-2019)")
+barchart.set_xlabel("(s) Slower to Fastest Midfield")
+barchart.set_ylabel("Circuit")
+
+plt.grid(linewidth = 0.25, axis = 'x', zorder = 0) # vertical lines only, behind the bars. 
+plt.tight_layout()
+plt.savefig("plots/plots2/9-absolute-barplot.png")
+plt.show()
+
+
+# 6. countplot - find the most frequent fastest rivals, and by what sector types
+
+plt.figure(figsize = (12, 8))
+
+teams_countplot = sns.countplot(
+    data=df, 
+    x="fastest_team", 
+    hue="sector_type", 
+    palette = 'Set2',
+    order=df['fastest_team'].value_counts().index, # sorts in the correct order automatically, before printing results
+    zorder = 3
+)
+
+teams_countplot.set_title("Fastest Midfield Rivals by Sector Types")
+teams_countplot.set_xlabel("Midfield Rival")
+teams_countplot.set_ylabel("Times Achieved Fastest Midfield Team")
+
+plt.tight_layout()
+plt.savefig('plots/plots2/10-teams-countplot.png')
+plt.grid(linewidth = 0.25, axis = 'y', zorder = 1)
+plt.show()
+
+
