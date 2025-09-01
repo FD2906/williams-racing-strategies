@@ -341,7 +341,32 @@ Main variables of interest are:
 As H0 is the way to go - we are looking for charts that help with storytelling leverage. 
 """
 
-# 1. Heatmap - avg % slower by sector type and sector number
+# 1.1. Heatmap - avg % slower by sector type and sector number
+
+pivot = df.pivot_table(index="sector", columns="sector_type", values="sector_delta", aggfunc="mean")
+
+pivot = pivot[['power', 'balanced', 'technical']]
+
+plt.figure(figsize = (12, 8))
+
+sectors_heatmap = sns.heatmap(
+    data = pivot, 
+    annot = True, 
+    cmap = "YlOrRd", 
+    fmt = ".2f", 
+    cbar_kws = {'label': '% Slower'} # labels the colour bar on the side
+)
+
+sectors_heatmap.set_title("Average Deficit (s) by Sector Number and Sector Type")
+sectors_heatmap.set_xlabel("Sector Type")
+sectors_heatmap.set_ylabel("Sector Number")
+
+plt.tight_layout()
+plt.savefig("plots/plots2/5-sectors-absolute-heatmap.png")
+plt.show()
+
+
+# 1.2. Heatmap - avg % slower by sector type and sector number
 
 pivot = df.pivot_table(index="sector", columns="sector_type", values="pct_slower", aggfunc="mean")
 
@@ -362,7 +387,7 @@ sectors_heatmap.set_xlabel("Sector Type")
 sectors_heatmap.set_ylabel("Sector Number")
 
 plt.tight_layout()
-plt.savefig("plots/plots2/5-sectors-heatmap.png")
+plt.savefig("plots/plots2/5-sectors-relative-heatmap.png")
 plt.show()
 
 
