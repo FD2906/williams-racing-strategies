@@ -1,0 +1,200 @@
+,gp_year,gp_name,gp_round,driver_name,rookie_or_experienced,laptime_std,laptime_std_ms
+0,2015,Abu Dhabi Grand Prix,19,Felipe Massa,experienced,00:00.928,928.3578489063052
+1,2015,Abu Dhabi Grand Prix,19,Valtteri Bottas,experienced,00:01.043,1043.5735153983267
+2,2015,Australian Grand Prix,1,Felipe Massa,experienced,00:00.715,715.2011399159071
+3,2015,Austrian Grand Prix,8,Felipe Massa,experienced,00:00.757,757.8038549253303
+4,2015,Austrian Grand Prix,8,Valtteri Bottas,experienced,00:00.771,771.9673074745476
+5,2015,Bahrain Grand Prix,4,Felipe Massa,experienced,00:01.385,1385.588008192563
+6,2015,Bahrain Grand Prix,4,Valtteri Bottas,experienced,00:01.188,1188.2493003805512
+7,2015,Belgian Grand Prix,11,Felipe Massa,experienced,00:01.252,1252.49742208063
+8,2015,Belgian Grand Prix,11,Valtteri Bottas,experienced,00:01.558,1558.1315115402217
+9,2015,Brazilian Grand Prix,18,Felipe Massa,experienced,00:01.059,1059.7824574613717
+10,2015,Brazilian Grand Prix,18,Valtteri Bottas,experienced,00:00.647,647.0806323106452
+11,2015,British Grand Prix,9,Felipe Massa,experienced,00:01.532,1532.81869369057
+12,2015,British Grand Prix,9,Valtteri Bottas,experienced,00:01.441,1441.049764008336
+13,2015,Canadian Grand Prix,7,Felipe Massa,experienced,00:01.181,1181.947489285185
+14,2015,Canadian Grand Prix,7,Valtteri Bottas,experienced,00:00.478,478.84410329464873
+15,2015,Chinese Grand Prix,3,Felipe Massa,experienced,00:01.270,1270.7846817942798
+16,2015,Chinese Grand Prix,3,Valtteri Bottas,experienced,00:01.450,1450.641297312807
+17,2015,Hungarian Grand Prix,10,Felipe Massa,experienced,00:01.476,1476.008541866652
+18,2015,Hungarian Grand Prix,10,Valtteri Bottas,experienced,00:01.036,1036.365219007243
+19,2015,Italian Grand Prix,12,Felipe Massa,experienced,00:00.749,749.5857355245884
+20,2015,Italian Grand Prix,12,Valtteri Bottas,experienced,00:00.717,717.0734161030186
+21,2015,Japanese Grand Prix,14,Felipe Massa,experienced,00:01.194,1194.7417263929713
+22,2015,Japanese Grand Prix,14,Valtteri Bottas,experienced,00:01.082,1082.1464295103426
+23,2015,Malaysian Grand Prix,2,Felipe Massa,experienced,00:01.605,1605.51514318614
+24,2015,Malaysian Grand Prix,2,Valtteri Bottas,experienced,00:01.806,1806.402607186917
+25,2015,Mexican Grand Prix,17,Felipe Massa,experienced,00:01.100,1100.8236697959871
+26,2015,Mexican Grand Prix,17,Valtteri Bottas,experienced,00:01.195,1195.457960722186
+27,2015,Monaco Grand Prix,6,Felipe Massa,experienced,00:01.244,1244.169538697124
+28,2015,Monaco Grand Prix,6,Valtteri Bottas,experienced,00:01.388,1388.124817593362
+29,2015,Russian Grand Prix,15,Felipe Massa,experienced,00:01.814,1814.2576283625972
+30,2015,Russian Grand Prix,15,Valtteri Bottas,experienced,00:00.718,718.7517150411312
+31,2015,Singapore Grand Prix,13,Felipe Massa,experienced,00:00.229,229.187287748468
+32,2015,Singapore Grand Prix,13,Valtteri Bottas,experienced,00:00.859,859.5141069232056
+33,2015,Spanish Grand Prix,5,Felipe Massa,experienced,00:01.214,1214.0331492309883
+34,2015,Spanish Grand Prix,5,Valtteri Bottas,experienced,00:01.016,1016.9142953443879
+35,2015,United States Grand Prix,16,Felipe Massa,experienced,00:03.552,3552.905132294553
+36,2015,United States Grand Prix,16,Valtteri Bottas,experienced,00:13.517,13517.27207439923
+37,2016,Abu Dhabi Grand Prix,21,Felipe Massa,experienced,00:00.959,959.6504949189502
+38,2016,Abu Dhabi Grand Prix,21,Valtteri Bottas,experienced,00:01.748,1748.67043778981
+39,2016,Australian Grand Prix,1,Felipe Massa,experienced,00:00.721,721.232142335084
+40,2016,Australian Grand Prix,1,Valtteri Bottas,experienced,00:00.949,949.189965937723
+41,2016,Austrian Grand Prix,9,Felipe Massa,experienced,00:01.149,1149.4290567432474
+42,2016,Austrian Grand Prix,9,Valtteri Bottas,experienced,00:00.846,846.4138267429678
+43,2016,Bahrain Grand Prix,2,Felipe Massa,experienced,00:01.334,1334.7302603614398
+44,2016,Bahrain Grand Prix,2,Valtteri Bottas,experienced,00:01.370,1370.8946919696618
+45,2016,Belgian Grand Prix,13,Felipe Massa,experienced,00:01.035,1035.259221384762
+46,2016,Belgian Grand Prix,13,Valtteri Bottas,experienced,00:01.054,1054.105736727434
+47,2016,Brazilian Grand Prix,20,Felipe Massa,experienced,00:11.942,11942.447217438748
+48,2016,Brazilian Grand Prix,20,Valtteri Bottas,experienced,00:03.829,3829.8463158856985
+49,2016,British Grand Prix,10,Felipe Massa,experienced,00:02.112,2112.059675192104
+50,2016,British Grand Prix,10,Valtteri Bottas,experienced,00:01.761,1761.0094998804934
+51,2016,Canadian Grand Prix,7,Felipe Massa,experienced,00:00.766,766.404842798189
+52,2016,Canadian Grand Prix,7,Valtteri Bottas,experienced,00:00.824,824.0835733504954
+53,2016,Chinese Grand Prix,3,Felipe Massa,experienced,00:01.244,1244.5084005868407
+54,2016,Chinese Grand Prix,3,Valtteri Bottas,experienced,00:01.103,1103.5676133956629
+55,2016,European Grand Prix,8,Felipe Massa,experienced,00:01.563,1563.9325252614715
+56,2016,European Grand Prix,8,Valtteri Bottas,experienced,00:01.668,1668.2485650593785
+57,2016,German Grand Prix,12,Felipe Massa,experienced,00:01.081,1081.5963038565405
+58,2016,German Grand Prix,12,Valtteri Bottas,experienced,00:01.104,1104.273278809996
+59,2016,Hungarian Grand Prix,11,Felipe Massa,experienced,00:01.219,1219.102769063576
+60,2016,Hungarian Grand Prix,11,Valtteri Bottas,experienced,00:01.076,1076.5615916453908
+61,2016,Italian Grand Prix,14,Felipe Massa,experienced,00:00.917,917.627804063709
+62,2016,Italian Grand Prix,14,Valtteri Bottas,experienced,00:01.006,1006.7733903872521
+63,2016,Japanese Grand Prix,17,Felipe Massa,experienced,00:01.243,1243.4218216947406
+64,2016,Japanese Grand Prix,17,Valtteri Bottas,experienced,00:01.112,1112.9363475623718
+65,2016,Malaysian Grand Prix,16,Felipe Massa,experienced,00:01.742,1742.445221867164
+66,2016,Malaysian Grand Prix,16,Valtteri Bottas,experienced,00:01.313,1313.8533412803788
+67,2016,Mexican Grand Prix,19,Felipe Massa,experienced,00:00.503,503.79414548568525
+68,2016,Mexican Grand Prix,19,Valtteri Bottas,experienced,00:00.449,449.6366645080538
+69,2016,Monaco Grand Prix,6,Felipe Massa,experienced,00:04.083,4083.7138082439005
+70,2016,Monaco Grand Prix,6,Valtteri Bottas,experienced,00:05.934,5934.634359313251
+71,2016,Russian Grand Prix,4,Felipe Massa,experienced,00:01.201,1201.0978464367458
+72,2016,Russian Grand Prix,4,Valtteri Bottas,experienced,00:00.658,658.5859095561889
+73,2016,Singapore Grand Prix,15,Felipe Massa,experienced,00:00.978,978.3526036757593
+74,2016,Singapore Grand Prix,15,Valtteri Bottas,experienced,00:02.390,2390.4693873015017
+75,2016,Spanish Grand Prix,5,Felipe Massa,experienced,00:01.347,1347.6712988950974
+76,2016,Spanish Grand Prix,5,Valtteri Bottas,experienced,00:01.218,1218.9495408178682
+77,2016,United States Grand Prix,18,Felipe Massa,experienced,00:01.056,1056.3554789743791
+78,2016,United States Grand Prix,18,Valtteri Bottas,experienced,00:00.942,942.4167129334694
+79,2017,Abu Dhabi Grand Prix,20,Felipe Massa,experienced,00:01.051,1051.4963644490006
+80,2017,Abu Dhabi Grand Prix,20,Lance Stroll,rookie,00:01.824,1824.963068790435
+81,2017,Australian Grand Prix,1,Felipe Massa,experienced,00:00.854,854.3734308611175
+82,2017,Australian Grand Prix,1,Lance Stroll,rookie,00:00.999,999.2281406192282
+83,2017,Austrian Grand Prix,9,Felipe Massa,experienced,00:00.921,921.966629655554
+84,2017,Austrian Grand Prix,9,Lance Stroll,rookie,00:01.041,1041.799981308101
+85,2017,Azerbaijan Grand Prix,8,Felipe Massa,experienced,00:09.083,9083.347563116853
+86,2017,Azerbaijan Grand Prix,8,Lance Stroll,rookie,00:01.324,1324.0849729708532
+87,2017,Bahrain Grand Prix,3,Felipe Massa,experienced,00:01.136,1136.851307296585
+88,2017,Bahrain Grand Prix,3,Lance Stroll,rookie,00:01.538,1538.3786883888156
+89,2017,Belgian Grand Prix,12,Felipe Massa,experienced,00:01.687,1687.7816392714644
+90,2017,Belgian Grand Prix,12,Lance Stroll,rookie,00:01.527,1527.647794415917
+91,2017,Brazilian Grand Prix,19,Felipe Massa,experienced,00:00.573,573.3612930526753
+92,2017,Brazilian Grand Prix,19,Lance Stroll,rookie,00:00.947,947.4642494336108
+93,2017,British Grand Prix,10,Felipe Massa,experienced,00:01.131,1131.6047526241741
+94,2017,British Grand Prix,10,Lance Stroll,rookie,00:01.179,1179.0346167006476
+95,2017,Canadian Grand Prix,7,Lance Stroll,rookie,00:01.039,1039.7321497483547
+96,2017,Chinese Grand Prix,2,Felipe Massa,experienced,00:01.556,1556.767487769316
+97,2017,Hungarian Grand Prix,11,Lance Stroll,rookie,00:01.210,1210.6424756551385
+98,2017,Hungarian Grand Prix,11,Paul di Resta,rookie,00:01.342,1342.6059928211826
+99,2017,Italian Grand Prix,13,Felipe Massa,experienced,00:00.871,871.7368140334361
+100,2017,Italian Grand Prix,13,Lance Stroll,rookie,00:00.831,831.7328917009764
+101,2017,Japanese Grand Prix,16,Felipe Massa,experienced,00:01.086,1086.853963223091
+102,2017,Japanese Grand Prix,16,Lance Stroll,rookie,00:01.317,1317.4241566057603
+103,2017,Malaysian Grand Prix,15,Felipe Massa,experienced,00:01.000,1000.2038910429643
+104,2017,Malaysian Grand Prix,15,Lance Stroll,rookie,00:01.053,1053.5962152364368
+105,2017,Mexican Grand Prix,18,Felipe Massa,experienced,00:01.138,1138.4359900167308
+106,2017,Mexican Grand Prix,18,Lance Stroll,rookie,00:00.748,748.878796187667
+107,2017,Monaco Grand Prix,6,Felipe Massa,experienced,00:01.083,1083.6758921226442
+108,2017,Monaco Grand Prix,6,Lance Stroll,rookie,00:00.963,963.3448435275565
+109,2017,Russian Grand Prix,4,Felipe Massa,experienced,00:01.151,1151.0457419234
+110,2017,Russian Grand Prix,4,Lance Stroll,rookie,00:01.371,1371.3852824678634
+111,2017,Singapore Grand Prix,14,Felipe Massa,experienced,00:05.985,5985.282944808183
+112,2017,Singapore Grand Prix,14,Lance Stroll,rookie,00:08.018,8018.923804382227
+113,2017,Spanish Grand Prix,5,Felipe Massa,experienced,00:01.019,1019.2506749048581
+114,2017,Spanish Grand Prix,5,Lance Stroll,rookie,00:01.364,1364.9767854366019
+115,2017,United States Grand Prix,17,Felipe Massa,experienced,00:01.150,1150.1639953743347
+116,2017,United States Grand Prix,17,Lance Stroll,rookie,00:01.376,1376.537019859511
+117,2018,Abu Dhabi Grand Prix,21,Lance Stroll,rookie,00:01.311,1311.8453230893467
+118,2018,Abu Dhabi Grand Prix,21,Sergey Sirotkin,rookie,00:01.594,1594.0407765251214
+119,2018,Australian Grand Prix,1,Lance Stroll,rookie,00:01.254,1254.6135154147134
+120,2018,Australian Grand Prix,1,Sergey Sirotkin,rookie,00:00.817,817.377105951307
+121,2018,Austrian Grand Prix,9,Lance Stroll,rookie,00:00.887,887.1859325114254
+122,2018,Austrian Grand Prix,9,Sergey Sirotkin,rookie,00:00.997,997.6801235675505
+123,2018,Azerbaijan Grand Prix,4,Lance Stroll,rookie,00:01.777,1777.160846799416
+124,2018,Bahrain Grand Prix,2,Lance Stroll,rookie,00:01.472,1472.510341462596
+125,2018,Bahrain Grand Prix,2,Sergey Sirotkin,rookie,00:01.678,1678.2518021424924
+126,2018,Belgian Grand Prix,13,Lance Stroll,rookie,00:01.556,1556.4696414211664
+127,2018,Belgian Grand Prix,13,Sergey Sirotkin,rookie,00:01.484,1484.6028711146103
+128,2018,Brazilian Grand Prix,20,Lance Stroll,rookie,00:01.164,1164.43202863402
+129,2018,Brazilian Grand Prix,20,Sergey Sirotkin,rookie,00:00.990,990.8948328137434
+130,2018,British Grand Prix,10,Lance Stroll,rookie,00:01.321,1321.5504901537254
+131,2018,British Grand Prix,10,Sergey Sirotkin,rookie,00:01.197,1197.291500304543
+132,2018,Canadian Grand Prix,7,Sergey Sirotkin,rookie,00:01.160,1160.557731061412
+133,2018,Chinese Grand Prix,3,Lance Stroll,rookie,00:01.390,1390.1062367638642
+134,2018,Chinese Grand Prix,3,Sergey Sirotkin,rookie,00:01.485,1485.9253627532735
+135,2018,French Grand Prix,8,Lance Stroll,rookie,00:01.060,1060.5434491478675
+136,2018,French Grand Prix,8,Sergey Sirotkin,rookie,00:01.151,1151.1649558406202
+137,2018,German Grand Prix,11,Lance Stroll,rookie,00:01.187,1187.050762659846
+138,2018,German Grand Prix,11,Sergey Sirotkin,rookie,00:01.243,1243.7964419023297
+139,2018,Hungarian Grand Prix,12,Lance Stroll,rookie,00:01.469,1469.8901852458362
+140,2018,Hungarian Grand Prix,12,Sergey Sirotkin,rookie,00:01.089,1089.9493836808115
+141,2018,Italian Grand Prix,14,Lance Stroll,rookie,00:01.063,1063.9833573243159
+142,2018,Italian Grand Prix,14,Sergey Sirotkin,rookie,00:01.089,1089.196209383535
+143,2018,Japanese Grand Prix,17,Lance Stroll,rookie,00:01.870,1870.0153602776718
+144,2018,Japanese Grand Prix,17,Sergey Sirotkin,rookie,00:01.752,1752.9448348651408
+145,2018,Mexican Grand Prix,19,Lance Stroll,rookie,00:01.081,1081.5508078680352
+146,2018,Mexican Grand Prix,19,Sergey Sirotkin,rookie,00:01.166,1166.1416145795565
+147,2018,Monaco Grand Prix,6,Lance Stroll,rookie,00:01.753,1753.0481628595771
+148,2018,Monaco Grand Prix,6,Sergey Sirotkin,rookie,00:01.497,1497.7016805123424
+149,2018,Russian Grand Prix,16,Lance Stroll,rookie,00:01.461,1461.8816554324117
+150,2018,Russian Grand Prix,16,Sergey Sirotkin,rookie,00:01.560,1560.290948975398
+151,2018,Singapore Grand Prix,15,Lance Stroll,rookie,00:01.529,1529.4842013183413
+152,2018,Singapore Grand Prix,15,Sergey Sirotkin,rookie,00:01.890,1890.052529666293
+153,2018,Spanish Grand Prix,5,Lance Stroll,rookie,00:01.169,1169.4358107158425
+154,2018,Spanish Grand Prix,5,Sergey Sirotkin,rookie,00:01.363,1363.0040553505253
+155,2018,United States Grand Prix,18,Lance Stroll,rookie,00:01.512,1512.3057132996398
+156,2018,United States Grand Prix,18,Sergey Sirotkin,rookie,00:01.098,1098.0195715959908
+157,2019,Abu Dhabi Grand Prix,21,George Russell,rookie,00:01.692,1692.6823978080406
+158,2019,Abu Dhabi Grand Prix,21,Robert Kubica,experienced,00:01.102,1102.0907691880072
+159,2019,Australian Grand Prix,1,George Russell,rookie,00:01.492,1492.9088103642923
+160,2019,Australian Grand Prix,1,Robert Kubica,experienced,00:01.920,1920.0747062421842
+161,2019,Austrian Grand Prix,9,George Russell,rookie,00:01.033,1033.7614138605466
+162,2019,Austrian Grand Prix,9,Robert Kubica,experienced,00:00.860,860.3488955739839
+163,2019,Azerbaijan Grand Prix,4,George Russell,rookie,00:01.978,1978.8811607876041
+164,2019,Azerbaijan Grand Prix,4,Robert Kubica,experienced,00:01.967,1967.6513499587393
+165,2019,Bahrain Grand Prix,2,George Russell,rookie,00:01.407,1407.538836380144
+166,2019,Bahrain Grand Prix,2,Robert Kubica,experienced,00:01.443,1443.4687273497561
+167,2019,Belgian Grand Prix,13,George Russell,rookie,00:01.710,1710.7003088053016
+168,2019,Belgian Grand Prix,13,Robert Kubica,experienced,00:01.587,1587.626796495394
+169,2019,Brazilian Grand Prix,20,George Russell,rookie,00:01.215,1215.6760259213922
+170,2019,Brazilian Grand Prix,20,Robert Kubica,experienced,00:00.975,975.9960080821041
+171,2019,British Grand Prix,10,George Russell,rookie,00:01.061,1061.8129706031432
+172,2019,British Grand Prix,10,Robert Kubica,experienced,00:01.062,1062.7805543776462
+173,2019,Canadian Grand Prix,7,George Russell,rookie,00:01.321,1321.0019060032926
+174,2019,Canadian Grand Prix,7,Robert Kubica,experienced,00:01.293,1293.2077004607413
+175,2019,Chinese Grand Prix,3,George Russell,rookie,00:01.502,1502.1428393111935
+176,2019,Chinese Grand Prix,3,Robert Kubica,experienced,00:01.316,1316.7265516289722
+177,2019,French Grand Prix,8,George Russell,rookie,00:01.622,1622.2963793684853
+178,2019,French Grand Prix,8,Robert Kubica,experienced,00:01.400,1400.894553205957
+179,2019,German Grand Prix,11,George Russell,rookie,00:07.271,7271.62915075415
+180,2019,German Grand Prix,11,Robert Kubica,experienced,00:07.118,7118.726225731896
+181,2019,Hungarian Grand Prix,12,George Russell,rookie,00:01.206,1206.4195859026086
+182,2019,Hungarian Grand Prix,12,Robert Kubica,experienced,00:01.034,1034.7174206637285
+183,2019,Italian Grand Prix,14,George Russell,rookie,00:01.451,1451.1850232245326
+184,2019,Italian Grand Prix,14,Robert Kubica,experienced,00:01.172,1172.366445625389
+185,2019,Japanese Grand Prix,17,George Russell,rookie,00:01.239,1239.6395479237494
+186,2019,Japanese Grand Prix,17,Robert Kubica,experienced,00:01.557,1557.3061729116491
+187,2019,Mexican Grand Prix,18,George Russell,rookie,00:01.273,1273.5589148355532
+188,2019,Mexican Grand Prix,18,Robert Kubica,experienced,00:01.418,1418.3396268578908
+189,2019,Monaco Grand Prix,6,George Russell,rookie,00:01.430,1430.257036676755
+190,2019,Monaco Grand Prix,6,Robert Kubica,experienced,00:01.190,1190.7946889981313
+191,2019,Russian Grand Prix,16,George Russell,rookie,00:00.759,759.5337086301408
+192,2019,Russian Grand Prix,16,Robert Kubica,experienced,00:00.977,977.6048855508938
+193,2019,Singapore Grand Prix,15,George Russell,rookie,00:00.642,642.8963248268007
+194,2019,Singapore Grand Prix,15,Robert Kubica,experienced,00:02.274,2274.4239662722
+195,2019,Spanish Grand Prix,5,George Russell,rookie,00:01.670,1670.7811393430331
+196,2019,Spanish Grand Prix,5,Robert Kubica,experienced,00:01.526,1526.991133595054
+197,2019,United States Grand Prix,19,George Russell,rookie,00:01.543,1543.624866040587
+198,2019,United States Grand Prix,19,Robert Kubica,experienced,00:01.250,1250.126790613992
