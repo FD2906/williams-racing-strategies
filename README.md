@@ -1,6 +1,7 @@
 # 🏎️ Williams Racing Performance Analysis (2015–2019)
 
 **How can past results inform current strategy at Williams Racing?**
+
 ![Hero Heatmap](/demo-images/hero.png)
 
 ---
