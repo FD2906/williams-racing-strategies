@@ -1,6 +1,7 @@
 # 🏎️ Williams Racing Performance Analysis (2015–2019)
 
 **How can past results inform current strategy at Williams Racing?**
+![Hero Heatmap](/demo-images/hero.png)
 
 ---
 
@@ -24,6 +25,8 @@ The project was structured as a **drill-down narrative**, moving from team-level
 
 ## 🔑 Key Insights
 
+![Executive Summary](/demo-images/exec-summary.png)
+
 1. Williams showed the **greatest volatility** in race position changes compared to midfield rivals.
 2. **Balanced sectors**, not high-downforce ones, revealed the **largest qualifying deficits**.
 3. **Rookies were less consistent** than veterans — highlighting the need for structured development programs.
@@ -35,6 +38,8 @@ The project was structured as a **drill-down narrative**, moving from team-level
 - 📑 [Final Report (PDF)](./deliverables/williams-report.pdf)
 - 🎥 [Slide Deck (PDF)](./deliverables/williams-slide-deck.pdf)
 - 📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/frank.dong6242/viz/WilliamsRacingKPI3Add-On/Dashboard1)
+
+![Tableau Dashboard](/demo-images/tableau.png)
 
 ---
 
@@ -74,15 +79,15 @@ Then explore the notebooks in the notebooks/ directory to reproduce the analysis
 ---
 ## 📊 Technologies Used
 
-Python: pandas, numpy, matplotlib, seaborn, scipy
-SQL: BigQuery for data extraction and transformation
-Tableau: Interactive dashboard for stakeholder presentation
-Jupyter: Notebooks for reproducible analysis
+- Python: pandas, numpy, matplotlib, seaborn, scipy
+- SQL: BigQuery for data extraction and transformation
+- Tableau: Interactive dashboard for stakeholder presentation
+- Jupyter: Notebooks for reproducible analysis
 
 ## 📌 License
 This project is licensed under the MIT License.
 
 🌍 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/-frank-dong-/)
-📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/frank.dong6242/viz/WilliamsRacingKPI3Add-On/Dashboard1)
+- 💼 [LinkedIn](https://www.linkedin.com/in/-frank-dong-/)
+- 📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/frank.dong6242/viz/WilliamsRacingKPI3Add-On/Dashboard1)
