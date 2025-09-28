@@ -71,8 +71,8 @@ The project was structured as a **drill-down narrative**, moving from team-level
 
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/williams-performance-analysis.git
-cd williams-performance-analysis
+git clone https://github.com/FD2906/williams-racing-strategies.git
+cd williams-racing-strategies
 pip install -r requirements.txt
 ```
 Then explore the notebooks in the notebooks/ directory to reproduce the analysis.
